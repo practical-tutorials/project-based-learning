@@ -10,6 +10,7 @@ Learning by doing is important and more effective than plainly following a docum
 * [Ruby](#ruby)
 * [Android](#android)
 * [Haskell](#haskell)
+* [Rust](#rust)
 
 ## C/C++:
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
@@ -48,3 +49,9 @@ Learning by doing is important and more effective than plainly following a docum
 
 ## Haskell:
 * [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
+
+## Rust:
+* A Simple Web App in Rust
+    * [Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
+    * [Part 2a](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2a/)
+    * [Part 2b](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/)
