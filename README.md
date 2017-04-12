@@ -6,7 +6,7 @@ Learning by doing is important and more effective than plainly following a docum
 * [C](#C)
 * [JavaScript](#javascript)
 * [Python](#python)
-* Go (#go)
+* [Go](#go)
 * [Ruby](#ruby)
 * [Android](#android)
 * [Haskell](#haskell)
