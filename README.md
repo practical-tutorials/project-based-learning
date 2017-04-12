@@ -6,11 +6,13 @@ Learning by doing is important and more effective than plainly following a docum
 * [C](#C)
 * [JavaScript](#javascript)
 * [Python](#python)
+* [Haskell](#haskell)
 
 ## C:
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
+* [Write an OS from scratch](https://github.com/tuhdo/os01)
 
 ## JavaScript:
 * [Create Serverless React.js Apps](http://serverless-stack.com/)
@@ -26,3 +28,6 @@ Learning by doing is important and more effective than plainly following a docum
 * [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
 * [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
+
+## Haskell:
+* [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
