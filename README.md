@@ -6,6 +6,7 @@ Learning by doing is important and more effective than plainly following a docum
 * [C](#C)
 * [JavaScript](#javascript)
 * [Python](#python)
+* Go (#go)
 * [Ruby](#ruby)
 * [Android](#android)
 * [Haskell](#haskell)
@@ -33,6 +34,10 @@ Learning by doing is important and more effective than plainly following a docum
 * [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
 * [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
+* [Write a NoSQL Database in Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/)
+
+## Go:
+* [Create a Real Time Chat App with Golang, Angular 2, and WebSocket](https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
 
 ## Ruby:
 * [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
