@@ -6,6 +6,7 @@ Learning by doing is important and more effective than plainly following a docum
 * [C](#C)
 * [JavaScript](#javascript)
 * [Python](#python)
+* [Ruby](#ruby)
 * [Haskell](#haskell)
 
 ## C:
@@ -23,11 +24,15 @@ Learning by doing is important and more effective than plainly following a docum
 
 ## Python:
 * [Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
+* [How to Make a Reddit Bot - YouTube](https://www.youtube.com/watch?v=krTUf7BpTc0)
 * [Build a Facebook Messenger Bot](https://blog.hartleybrody.com/fb-messenger-bot/)
 * [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 * [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
 * [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
+
+## Ruby:
+* [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
 
 ## Haskell:
 * [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
