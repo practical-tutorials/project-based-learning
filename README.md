@@ -7,6 +7,7 @@ Learning by doing is important and more effective than plainly following a docum
 * [JavaScript](#javascript)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Android](#android)
 * [Haskell](#haskell)
 
 ## C/C++:
@@ -21,6 +22,7 @@ Learning by doing is important and more effective than plainly following a docum
 * [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
 * [Create a Charater Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 * [Build a URL Shortener with Node, MongoDB and Hapi.js](https://www.codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [Build an Instagram Clone](https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
 * [How to Build a Web Framework in Less Than 20 Lines of Code](https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/)
 
 ## Python:
@@ -34,6 +36,8 @@ Learning by doing is important and more effective than plainly following a docum
 
 ## Ruby:
 * [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
+
+## Android:
 
 ## Haskell:
 * [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
