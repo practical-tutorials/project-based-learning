@@ -3,7 +3,7 @@
 Learning by doing is important and more effective than plainly following a document. This repo collects various resources on the Internet on learning programming by doing a project
 
 ## Table of Contents:
-* [C](#C/C++)
+* [C/C++](#cc)
 * [JavaScript](#javascript)
 * [Python](#python)
 * [Go](#go)
