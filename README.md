@@ -17,7 +17,12 @@ Learning by doing is important and more effective than plainly following a docum
 * [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
 * [Create a Charater Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 * [Build a URL Shortener with Node, MongoDB and Hapi.js](https://www.codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [How to Build a Web Framework in Less Than 20 Lines of Code](https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/)
 
 ## Python:
 * [Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
 * [Build a Facebook Messenger Bot](https://blog.hartleybrody.com/fb-messenger-bot/)
+* [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
+* [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
+* [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
