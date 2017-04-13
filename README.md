@@ -51,6 +51,7 @@ Learning by doing is important and more effective than plainly following a docum
 
 ## Haskell:
 * [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
+* [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 
 ## Rust:
 * A Simple Web App in Rust
