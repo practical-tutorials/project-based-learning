@@ -31,6 +31,7 @@ Learning by doing is important and more effective than plainly following a docum
 * [Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
 * [How to Make a Reddit Bot - YouTube](https://www.youtube.com/watch?v=krTUf7BpTc0)
 * [Build a Facebook Messenger Bot](https://blog.hartleybrody.com/fb-messenger-bot/)
+* [Making a Reddit + Facebook Messenger Bot](https://pythontips.com/2017/04/13/making-a-reddit-facebook-messenger-bot/)
 * [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 * [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
