@@ -9,7 +9,7 @@ Before making a pull request, please make sure of the following:
 * Make a separate pull request for each of the tutorial
 * Use the following format `[Title](!link_to_tutorial)`
 * If your tutorial is a multi-part series, use the following format:
-    * ```
+    ```
         * Title
             * [Part 1](!link_to_part_1)
             * [Part 2](!link_to_part_2)
