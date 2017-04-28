@@ -1,6 +1,8 @@
 # Project Based Learning
 
-Learning by doing is important and more effective than plainly following a document. This repo collects various resources on the Internet on learning programming by doing a project
+A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermix technologies and languages.
+
+To get started, simply fork this repo. Please refer to [CONTRIBUTION.md](CONTRIBUTION.md) for contribution guidelines.
 
 ## Table of Contents:
 * [C/C++](#cc)
@@ -8,7 +10,6 @@ Learning by doing is important and more effective than plainly following a docum
 * [Python](#python)
 * [Go](#go)
 * [Ruby](#ruby)
-* [Android](#android)
 * [Haskell](#haskell)
 * [Rust](#rust)
 
@@ -49,8 +50,6 @@ Learning by doing is important and more effective than plainly following a docum
 
 ## Ruby:
 * [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
-
-## Android:
 
 ## Haskell:
 * [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
