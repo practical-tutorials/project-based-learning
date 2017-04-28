@@ -2,7 +2,7 @@
 
 A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermix technologies and languages.
 
-To get started, simply fork this repo. Please refer to [CONTRIBUTION.md](CONTRIBUTION.md) for contribution guidelines.
+To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## Table of Contents:
 * [C/C++](#cc)
