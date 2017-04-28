@@ -31,6 +31,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
     * [Part 1](https://scotch.io/tutorials/build-a-serverless-mern-story-app-with-webtask-io-zero-to-deploy-1)
     * [Part 2](https://scotch.io/tutorials/build-a-serverless-mern-story-app-with-webtask-io-zero-to-deploy-2)
 * [Make 2D Breakout Game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
+* Make Flappy Bird in HTML5 and JavaScript with Phaser
+    * [Part 1](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
+    * [Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
 
 ## Python:
 * [Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
