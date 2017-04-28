@@ -12,6 +12,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Ruby](#ruby)
 * [Haskell](#haskell)
 * [Rust](#rust)
+* [Additional resources](#addition-resources)
 
 ## C/C++:
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
@@ -70,3 +71,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
     * [Part 2a](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2a/)
     * [Part 2b](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/)
 * [Write an OS in Rust](http://os.phil-opp.com/)
+
+## Additional Resources
+* [React Redux Links](https://github.com/markerikson/react-redux-links)
+* [Full Stack Python](https://www.fullstackpython.com/)
+* [Node School](https://nodeschool.io/)
+* [ScotchIO](https://scotch.io/)
