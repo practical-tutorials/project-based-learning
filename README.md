@@ -12,7 +12,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Ruby](#ruby)
 * [Haskell](#haskell)
 * [Rust](#rust)
-* [Additional resources](#addition-resources)
+* [Additional resources](#additional-resources)
 
 ## C/C++:
 * [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
