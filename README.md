@@ -35,6 +35,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Make Flappy Bird in HTML5 and JavaScript with Phaser
     * [Part 1](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
     * [Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
+* Build a Music Player with React & Electron
+    * [Part 1](https://scotch.io/tutorials/build-a-music-player-with-react-electron-i-setup-basic-concepts)
+    * [Part 2](https://scotch.io/tutorials/build-a-music-player-with-react-electron-ii-making-the-ui)
+    * [Part 3](https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-bringing-it-all-together)
 
 ## Python:
 * [Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
