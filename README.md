@@ -78,3 +78,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Full Stack Python](https://www.fullstackpython.com/)
 * [Node School](https://nodeschool.io/)
 * [ScotchIO](https://scotch.io/)
+* [Exercism](http://www.exercism.io/)
