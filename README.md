@@ -13,6 +13,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Go](#go)
 * [Ruby](#ruby)
 * [Haskell](#haskell)
+* [R](#r)
 * [Rust](#rust)
 * [Additional resources](#additional-resources)
 
@@ -94,6 +95,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 * [Roll Your Own IRC Bot](https://wiki.haskell.org/Roll_your_own_IRC_bot)
 * [Making a Website with Haskell](http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html)
+
+## R:
+* [Build Web Apps with Shiny](http://rstudio.github.io/shiny/tutorial/)
 
 ## Rust:
 * A Simple Web App in Rust
