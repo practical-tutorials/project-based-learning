@@ -86,6 +86,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
 * [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 * [Roll Your Own IRC Bot](https://wiki.haskell.org/Roll_your_own_IRC_bot)
+* [Making a Website with Haskell](http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html)
 
 ## Rust:
 * A Simple Web App in Rust
