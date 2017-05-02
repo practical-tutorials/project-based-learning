@@ -48,6 +48,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Build a Serverless MERN Story App with Webtask.io
     * [Part 1](https://scotch.io/tutorials/build-a-serverless-mern-story-app-with-webtask-io-zero-to-deploy-1)
     * [Part 2](https://scotch.io/tutorials/build-a-serverless-mern-story-app-with-webtask-io-zero-to-deploy-2)
+* Build an offline-capable Hacker News client with Angular 2+
+    * [Part 1](https://houssein.me/angular2-hacker-news)
+    * [Part 2](https://houssein.me/progressive-angular-applications)
 ### Game Development:
 * [Make 2D Breakout Game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
 * Make Flappy Bird in HTML5 and JavaScript with Phaser
