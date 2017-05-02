@@ -6,6 +6,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Table of Contents:
 * [C/C++](#cc)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
 * [Go](#go)
@@ -21,6 +22,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Write an OS from scratch](https://github.com/tuhdo/os01)
 * [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_)
 * [How to Write an Emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+
+## Java:
+* [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
 
 ## JavaScript:
 * [Create Serverless React.js Apps](http://serverless-stack.com/)
