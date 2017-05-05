@@ -71,6 +71,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
     * [Part 3](https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-bringing-it-all-together)
 ### Miscellaneous:
 * [How to Build a Web Framework in Less Than 20 Lines of Code](https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/)
+* [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
 
 ## Python:
 ### Web Scraping:
