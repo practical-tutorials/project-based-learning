@@ -54,6 +54,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Build an offline-capable Hacker News client with Angular 2+
     * [Part 1](https://houssein.me/angular2-hacker-news)
     * [Part 2](https://houssein.me/progressive-angular-applications)
+* Build a Progressive Web Application (PWA)
+    * [Part 1](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
+    * [Part 2](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
+    * [Part 3](https://bitsofco.de/bitsofcode-pwa-part-3-push-notifications/)
 ### Game Development:
 * [Make 2D Breakout Game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
 * Make Flappy Bird in HTML5 and JavaScript with Phaser
