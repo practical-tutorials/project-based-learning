@@ -13,6 +13,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Go](#go)
 * [Ruby](#ruby)
 * [Haskell](#haskell)
+* [PHP](#php)
 * [R](#r)
 * [Rust](#rust)
 * [Additional resources](#additional-resources)
@@ -94,6 +95,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Create a Real Time Chat App with Golang, Angular 2, and WebSocket](https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
 * [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
 * [How to Use Godog for Behavior-driven Development in Go et started with Godog](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go)
+
+## PHP
+* [How To Build A Blog With Laravel](https://www.youtube.com/playlist?list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx)
 
 ## Ruby:
 * [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
