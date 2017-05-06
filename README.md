@@ -116,7 +116,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Making Movie Monad](https://lettier.github.io/posts/2016-08-15-making-movie-monad.html)
 
 ## R:
-* [Build Web Apps with Shiny](http://rstudio.github.io/shiny/tutorial/)
+* [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
 
 ## Rust:
 * A Simple Web App in Rust
