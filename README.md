@@ -71,7 +71,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Build a Music Player with React & Electron
     * [Part 1](https://scotch.io/tutorials/build-a-music-player-with-react-electron-i-setup-basic-concepts)
     * [Part 2](https://scotch.io/tutorials/build-a-music-player-with-react-electron-ii-making-the-ui)
-    * [Part 3](https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-bringing-it-all-together)
+    * [Part 3](https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-container-component)
 ### Miscellaneous:
 * [How to Build a Web Framework in Less Than 20 Lines of Code](https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/)
 * [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
