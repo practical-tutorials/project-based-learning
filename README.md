@@ -7,6 +7,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Table of Contents:
 * [C/C++](#cc)
 * [C#](#c)
+* [Clojure](#clojure)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
@@ -31,6 +32,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
 * [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
 * [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
+
+## Clojure:
+* [Build a Twitter Bot with Clojure](http://howistart.org/posts/clojure/1/index.html)
 
 ## Java:
 * [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
