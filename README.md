@@ -42,6 +42,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build a Spring Boot App with User Authentication](https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication)
 
 ## JavaScript:
+
+* [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
+
 ### Mobile Application:
 * [Build a React Native Todo Application](https://egghead.io/courses/build-a-react-native-todo-application)
 
