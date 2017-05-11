@@ -77,6 +77,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
     * [Part 2](https://scotch.io/tutorials/build-a-music-player-with-react-electron-ii-making-the-ui)
     * [Part 3](https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-container-component)
 ### Miscellaneous:
+* [How to write a Framework](http://dailyjs.com/post/framework-review)
 * [How to Build a Web Framework in Less Than 20 Lines of Code](https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/)
 * [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
 
@@ -84,6 +85,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### Web Scraping:
 * [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
 * [Scrape a Website with Scrapy and MongoDB](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
+* [Write Your Own Brainfuck Interpreter](https://elliot.land/post/write-your-own-brainfuck-interpreter)
 ### Web Applications:
 * [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Create a blog webapp in Django](https://tutorial.djangogirls.org/en/)
@@ -108,6 +110,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## PHP
 * [How To Build A Blog With Laravel](https://www.youtube.com/playlist?list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx)
 * [Make your own blog (in pure PHP)](http://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
+* Developing a Wordpress Theme From Scratch
+   * [Part 1](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
+   * [Part 2](https://www.taniarascia.com/wordpress-from-scratch-part-two/)
+   * [Part 3](https://www.taniarascia.com/wordpress-part-three-custom-fields-and-metaboxes/)
 
 ## Ruby:
 * [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
