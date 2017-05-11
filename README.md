@@ -109,8 +109,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## PHP:
 * [How To Build A Blog With Laravel](https://www.youtube.com/playlist?list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx)
-* [Make your own blog (in pure PHP)](http://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
-* [Build a real estate website example with SilverStripe](https://www.silverstripe.org/learn/lessons/)
+* [Make Your Own Blog (in Pure PHP)](http://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
+* [Build A Real Estate Website Example with SilverStripe](https://www.silverstripe.org/learn/lessons/)
 
 ## Ruby:
 * [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
@@ -123,8 +123,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Write You A Scheme, Version 2](https://github.com/write-you-a-scheme-v2/scheme)
 * [Roll Your Own IRC Bot](https://wiki.haskell.org/Roll_your_own_IRC_bot)
 * [Making Movie Monad](https://lettier.github.io/posts/2016-08-15-making-movie-monad.html)
-### Out Of Date:
-* [Making a Website with Haskell](http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html)
+* [Making a Website with Haskell **(outdated)**](http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html)
 
 ## R:
 * [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
