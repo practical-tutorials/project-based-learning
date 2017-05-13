@@ -46,10 +46,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Mobile Application:
 * [Build a React Native Todo Application](https://egghead.io/courses/build-a-react-native-todo-application)
+* [Build a To-Do App with Vue.js](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2#component-structure)
 
 ### Web Applications:
 #### React:
 * [Create Serverless React.js Apps](http://serverless-stack.com/)
+* [Build a Music Player with React](https://scotch.io/tutorials/build-a-music-player-with-react-electron-i-setup-basic-concepts)
 * [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
 * [Create a Character Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 * [Build a Full Stack Movie Voting App with Test-First Development using Mocha, React, Redux and Immutable](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
@@ -142,3 +144,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [ScotchIO](https://scotch.io/)
 * [Exercism](http://www.exercism.io/)
 * [Egghead.io](http://www.egghead.io/)
+* [Scotch.io](https://scotch.io/)
