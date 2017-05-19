@@ -147,3 +147,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [ScotchIO](https://scotch.io/)
 * [Exercism](http://www.exercism.io/)
 * [Egghead.io](http://www.egghead.io/)
+* [Michael Herman's Blog](http://mherman.org/)
