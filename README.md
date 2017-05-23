@@ -17,6 +17,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [PHP](#php)
 * [R](#r)
 * [Rust](#rust)
+* [Swift](#swift)
 * [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -140,6 +141,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
     * [Part 2a](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2a/)
     * [Part 2b](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/)
 * [Write an OS in Rust](http://os.phil-opp.com/)
+
+## Swift:
+* [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 
 ## Additional Resources
 * [React Redux Links](https://github.com/markerikson/react-redux-links)
