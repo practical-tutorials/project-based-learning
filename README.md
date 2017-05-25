@@ -10,6 +10,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Clojure](#clojure)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Kotlin](#kotlin)
 * [Python](#python)
 * [Go](#go)
 * [Ruby](#ruby)
@@ -84,6 +85,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### Miscellaneous:
 * [How to Build a Web Framework in Less Than 20 Lines of Code](https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/)
 * [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
+
+## Kotlin:
+* [Keddit - Learn Kotlin While Developing an Android Application](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 
 ## Python:
 ### Web Scraping:
