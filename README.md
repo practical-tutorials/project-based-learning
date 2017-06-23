@@ -144,6 +144,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
     * [Part 2a](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2a/)
     * [Part 2b](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/)
 * [Write an OS in Rust](http://os.phil-opp.com/)
+* [Build a browser engine in Rust](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 
 ## Additional Resources
 * [React Redux Links](https://github.com/markerikson/react-redux-links)
