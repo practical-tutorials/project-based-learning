@@ -105,7 +105,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [How to Make a Reddit Bot - YouTube](https://www.youtube.com/watch?v=krTUf7BpTc0)
 * [Build a Facebook Messenger Bot](https://blog.hartleybrody.com/fb-messenger-bot/)
 * [Making a Reddit + Facebook Messenger Bot](https://pythontips.com/2017/04/13/making-a-reddit-facebook-messenger-bot/)
-* [How To Create a Telegram Bot Using Python](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
+* How To Create a Telegram Bot Using Python
+    * [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
+    * [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
 ### Miscellaneous:
 * [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 * [Write a NoSQL Database in Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/)
