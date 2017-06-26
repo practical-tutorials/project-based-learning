@@ -64,6 +64,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Build an offline-capable Hacker News client with Angular 2+
     * [Part 1](https://houssein.me/angular2-hacker-news)
     * [Part 2](https://houssein.me/progressive-angular-applications)
+* [Build a web application with Django and AngularJS](https://thinkster.io/django-angularjs-tutorial)
 #### Others (Node, Hapi, Express...):
 * [Build a URL Shortener with Node, MongoDB and Hapi.js](https://www.codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Build a real-time Markdown Editor with NodeJS](https://scotch.io/tutorials/building-a-real-time-markdown-viewer)
