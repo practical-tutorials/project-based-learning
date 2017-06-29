@@ -125,6 +125,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [How To Build A Blog With Laravel](https://www.youtube.com/playlist?list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx)
 * [Make Your Own Blog (in Pure PHP)](http://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
 * [Build A Real Estate Website Example with SilverStripe](https://www.silverstripe.org/learn/lessons/)
+* [Building Realtime Chat App with Laravel 5.4 and VueJS](https://www.youtube.com/playlist?list=PLXsbBbd36_uVjOFH_P25__XAyGsohXWlv)
 
 ## Ruby:
 * [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
