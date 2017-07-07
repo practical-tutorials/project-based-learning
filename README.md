@@ -18,6 +18,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [PHP](#php)
 * [R](#r)
 * [Rust](#rust)
+* [Swift](#swift)
 * [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -70,6 +71,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Build an offline-capable Hacker News client with Angular 2+
     * [Part 1](https://houssein.me/angular2-hacker-news)
     * [Part 2](https://houssein.me/progressive-angular-applications)
+* [Build a web application with Django and AngularJS](https://thinkster.io/django-angularjs-tutorial)
 #### Others (Node, Hapi, Express...):
 * [Build a URL Shortener with Node, MongoDB and Hapi.js](https://www.codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Build a real-time Markdown Editor with NodeJS](https://scotch.io/tutorials/building-a-real-time-markdown-viewer)
@@ -129,6 +131,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [How To Build A Blog With Laravel](https://www.youtube.com/playlist?list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx)
 * [Make Your Own Blog (in Pure PHP)](http://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
 * [Build A Real Estate Website Example with SilverStripe](https://www.silverstripe.org/learn/lessons/)
+* [Building Realtime Chat App with Laravel 5.4 and VueJS](https://www.youtube.com/playlist?list=PLXsbBbd36_uVjOFH_P25__XAyGsohXWlv)
 
 ## Ruby:
 * [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
@@ -154,6 +157,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
     * [Part 2b](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/)
 * [Write an OS in Rust](http://os.phil-opp.com/)
 * [Build a browser engine in Rust](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+
+## Swift:
+* [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 
 ## Additional Resources
 * [React Redux Links](https://github.com/markerikson/react-redux-links)
