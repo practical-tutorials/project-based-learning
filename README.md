@@ -82,6 +82,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
     * [Part 1](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
     * [Part 2](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
     * [Part 3](https://bitsofco.de/bitsofcode-pwa-part-3-push-notifications/)
+* Build A Support Ticket Application With AdonisJs
+    * [Part 1](https://scotch.io/tutorials/build-a-support-ticket-application-with-adonisjs)
+    * [Part 2](https://scotch.io/tutorials/build-a-support-ticket-application-with-adonisjs-part-2)
 ### Game Development:
 * [Make 2D Breakout Game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
 * Make Flappy Bird in HTML5 and JavaScript with Phaser
