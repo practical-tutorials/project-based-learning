@@ -82,6 +82,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
     * [Part 1](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
     * [Part 2](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
     * [Part 3](https://bitsofco.de/bitsofcode-pwa-part-3-push-notifications/)
+* Build A Support Ticket Application With AdonisJs
+    * [Part 1](https://scotch.io/tutorials/build-a-support-ticket-application-with-adonisjs)
+    * [Part 2](https://scotch.io/tutorials/build-a-support-ticket-application-with-adonisjs-part-2)
 ### Game Development:
 * [Make 2D Breakout Game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
 * Make Flappy Bird in HTML5 and JavaScript with Phaser
@@ -134,6 +137,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Make Your Own Blog (in Pure PHP)](http://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
 * [Build A Real Estate Website Example with SilverStripe](https://www.silverstripe.org/learn/lessons/)
 * [Building Realtime Chat App with Laravel 5.4 and VueJS](https://www.youtube.com/playlist?list=PLXsbBbd36_uVjOFH_P25__XAyGsohXWlv)
+* [Build A Social Network: Laravel 5 - Youtube](https://www.youtube.com/playlist?list=PLfdtiltiRHWGGxaR6uFtwZnnbcXqyq8JD)
 
 ## Ruby:
 * [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
