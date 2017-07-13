@@ -175,3 +175,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Exercism](http://www.exercism.io/)
 * [Egghead.io](http://www.egghead.io/)
 * [Michael Herman's Blog](http://mherman.org/)
+* [Thinkster.io](http://thinkster.io)
