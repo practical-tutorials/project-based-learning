@@ -8,6 +8,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [C/C++](#cc)
 * [C#](#c)
 * [Clojure](#clojure)
+* [Elixir](#elixir)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
@@ -45,6 +46,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Clojure:
 * [Build a Twitter Bot with Clojure](http://howistart.org/posts/clojure/1/index.html)
+
+## Elixir
+* [Building a Simple Chat App With Elixir and Phoenix](https://sheharyar.me/blog/simple-chat-phoenix-elixir/)
 
 ## Java:
 * [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
