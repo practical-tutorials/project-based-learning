@@ -128,6 +128,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * How To Create a Telegram Bot Using Python
     * [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
     * [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
+* [Build a Tweet Bot With Python](https://scotch.io/tutorials/build-a-tweet-bot-with-python)
 ### Miscellaneous:
 * [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 * [Write a NoSQL Database in Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/)
