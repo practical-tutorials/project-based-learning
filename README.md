@@ -31,6 +31,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_)
 * [How to Write an Emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 * [Beginning Game Programming with C++ and SDL](http://lazyfoo.net/tutorials/SDL/)
+* [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * Let's Code a TCP/IP Stack
     * [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
     * [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
@@ -38,6 +39,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
     * [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
     * [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 * [Build a Live Code-reloader Library for C++](http://howistart.org/posts/cpp/1/index.html)
+* [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
+* [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 ## C#:
 * [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
@@ -128,6 +131,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * How To Create a Telegram Bot Using Python
     * [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
     * [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
+* [Build a Tweet Bot With Python](https://scotch.io/tutorials/build-a-tweet-bot-with-python)
 ### Miscellaneous:
 * [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 * [Write a NoSQL Database in Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/)
