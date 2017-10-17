@@ -14,7 +14,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Kotlin](#kotlin)
 * [Python](#python)
 * [Go](#go)
-* [Ruby](#ruby)
+* [Rails](#rails)
 * [Haskell](#haskell)
 * [PHP](#php)
 * [R](#r)
@@ -148,7 +148,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Building Realtime Chat App with Laravel 5.4 and VueJS](https://www.youtube.com/playlist?list=PLXsbBbd36_uVjOFH_P25__XAyGsohXWlv)
 * [Build A Social Network: Laravel 5 - Youtube](https://www.youtube.com/playlist?list=PLfdtiltiRHWGGxaR6uFtwZnnbcXqyq8JD)
 
-## Ruby:
+## Rails:
 * [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
 * [Build a CMS with Ruby on Rails](https://pchm.co/posts/tutorial-how-to-build-a-cms-in-ruby-on-rails)
 * [Build a Social Network using Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
