@@ -44,6 +44,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 * [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+* [Write a Bootloader in C](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 
 ## C#:
 
