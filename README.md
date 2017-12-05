@@ -152,6 +152,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build a Todo List with Django and Test-Driven Development](http://www.obeythetestinggoat.com/)
 * [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
 * [Microservices with Docker, Flask, and React](https://testdriven.io/)
+* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
 
 ### Bots:
 
