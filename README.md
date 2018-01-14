@@ -51,6 +51,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 * [Write a Bootloader in C](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [Linux Container in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+* Write a C compiler
+  * [Part 1: ](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+  * [Part 2: Unary Operators](https://norasandler.com/2017/12/05/Write-a-Compiler-2.html)
+  * [Part 3: Binary Operators](https://norasandler.com/2017/12/15/Write-a-Compiler-3.html)
+  * [Part 4: Even More Binary Operators](https://norasandler.com/2017/12/28/Write-a-Compiler-4.html)
+  * [Part 5: Local Variables](https://norasandler.com/2018/01/08/Write-a-Compiler-5.html)
 * [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
 
 ## C#:
