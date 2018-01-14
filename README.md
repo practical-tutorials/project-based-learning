@@ -41,6 +41,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
   * [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
   * [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
+* Writing a minimal x86-64 JIT compiler in C++
+  * [Part 1](https://solarianprogrammer.com/2018/01/10/writing-minimal-x86-64-jit-compiler-cpp/)
+  * [Part 2](https://solarianprogrammer.com/2018/01/12/writing-minimal-x86-64-jit-compiler-cpp-part-2/)
+  * [Part 3](https://solarianprogrammer.com/2018/01/12/writing-minimal-x86-64-jit-compiler-cpp-part-3/)
 * [Build a Live Code-reloader Library for C++](http://howistart.org/posts/cpp/1/index.html)
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
