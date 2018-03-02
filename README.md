@@ -69,6 +69,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Clojure:
 
 * [Build a Twitter Bot with Clojure](http://howistart.org/posts/clojure/1/index.html)
+* [Bulding a Spell-Checker](https://bernhardwenzel.com/articles/clojure-spellchecker/)
 
 ## Elixir
 
