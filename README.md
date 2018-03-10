@@ -244,7 +244,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
   * [Part 2a](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2a/)
   * [Part 2b](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/)
-* [Write an OS in Rust](http://os.phil-opp.com/)
+* [Write an OS in pure Rust](https://os.phil-opp.com/news/2018-03-09-pure-rust/)
 * [Build a browser engine in Rust](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [Learning Rust with Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html)
 
