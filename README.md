@@ -13,6 +13,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Lua](#lua)
 * [Python](#python)
 * [Go](#go)
 * [Ruby](#ruby)
@@ -147,6 +148,28 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Kotlin:
 
 * [Keddit - Learn Kotlin While Developing an Android Application](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+
+## Lua:
+
+### LÖVE:
+
+* BYTEPATH: Creation of a Complete Game with Lua and LÖVE
+  * [Part 0: Introduction](https://github.com/SSYGEN/blog/issues/30)
+  * [Part 1: Game Loop](https://github.com/SSYGEN/blog/issues/15)
+  * [Part 2: Libraries](https://github.com/SSYGEN/blog/issues/16)
+  * [Part 3: Rooms and Areas](https://github.com/SSYGEN/blog/issues/17)
+  * [Part 4: Exercises](https://github.com/SSYGEN/blog/issues/18)
+  * [Part 5: Game Basics](https://github.com/SSYGEN/blog/issues/19)
+  * [Part 6: Player Basics](https://github.com/SSYGEN/blog/issues/20)
+  * [Part 7: Player Stats and Attacks](https://github.com/SSYGEN/blog/issues/21)
+  * [Part 8: Enemies](https://github.com/SSYGEN/blog/issues/22)
+  * [Part 9: Director and Gameplay Loop](https://github.com/SSYGEN/blog/issues/23)
+  * [Part 10: Coding Practices](https://github.com/SSYGEN/blog/issues/24)
+  * [Part 11: Passives](https://github.com/SSYGEN/blog/issues/25)
+  * [Part 12: More Passives](https://github.com/SSYGEN/blog/issues/26)
+  * [Part 13: Skill Tree](https://github.com/SSYGEN/blog/issues/27)
+  * [Part 14: Console](https://github.com/SSYGEN/blog/issues/28)
+  * [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
 
 ## Python:
 
