@@ -115,6 +115,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 #### Node:
 
+* [Learn Node via Workshops and Examples](https://github.com/workshopper/learnyounode)
 * Write a Twitter Bot in Node.js
   * [Part 1](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
   * [Part 2](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
