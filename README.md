@@ -119,6 +119,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 2](https://houssein.me/progressive-angular-applications)
 * [Build a web application with Django and AngularJS](https://thinkster.io/django-angularjs-tutorial)
 
+#### Vue
+
+* [Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)  
+
 #### Others (Node, Hapi, Express...):
 
 * [Build a URL Shortener with Node, MongoDB and Hapi.js](https://www.codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
