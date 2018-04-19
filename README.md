@@ -34,7 +34,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 * [How to Program an NES Game in C](https://nesdoug.com/)
 * [Write an OS from scratch](https://github.com/tuhdo/os01)
-* [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_)
 * [How to Write an Emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 * [Beginning Game Programming with C++ and SDL](http://lazyfoo.net/tutorials/SDL/)
 * [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
@@ -64,6 +63,24 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 7: Compound Statements](https://norasandler.com/2018/03/14/Write-a-Compiler-7.html)
   * [Part 8: Loops](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
 * [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
+
+### OpenGL:
+  * [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_)
+  * Creating 2D Breakout game clone in C++ with OpenGL
+    * [Breakout](https://learnopengl.com/In-Practice/2D-Game/Breakout)
+    * [Setting up](https://learnopengl.com/In-Practice/2D-Game/Setting-up)
+    * [Rendering Sprites](https://learnopengl.com/In-Practice/2D-Game/Rendering-Sprites)
+    * [Levels](https://learnopengl.com/In-Practice/2D-Game/Levels)
+    * Collisions
+      * [Ball](https://learnopengl.com/In-Practice/2D-Game/Collisions/Ball)
+      * [Collision detection](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection)
+      * [Collision resolution](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-resolution)
+    * [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles)
+    * [Postprocessing](https://learnopengl.com/In-Practice/2D-Game/Postprocessing)
+    * [Powerups](https://learnopengl.com/In-Practice/2D-Game/Powerups)
+    * [Audio](https://learnopengl.com/In-Practice/2D-Game/Audio)
+    * [Render text](https://learnopengl.com/In-Practice/2D-Game/Render-text)
+    * [Final thoughts](https://learnopengl.com/In-Practice/2D-Game/Final-thoughts)
 
 ## C#:
 
