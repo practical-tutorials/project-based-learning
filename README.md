@@ -6,6 +6,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Table of Contents:
 
+* [C#](#c)
+* [C/C++](#cc)
 * [Clojure](#clojure)
 * [Elixir](#elixir)
 * [Go](#go)
