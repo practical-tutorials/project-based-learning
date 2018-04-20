@@ -65,22 +65,23 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
 
 ### OpenGL:
-  * [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_)
-  * Creating 2D Breakout game clone in C++ with OpenGL
-    * [Breakout](https://learnopengl.com/In-Practice/2D-Game/Breakout)
-    * [Setting up](https://learnopengl.com/In-Practice/2D-Game/Setting-up)
-    * [Rendering Sprites](https://learnopengl.com/In-Practice/2D-Game/Rendering-Sprites)
-    * [Levels](https://learnopengl.com/In-Practice/2D-Game/Levels)
-    * Collisions
-      * [Ball](https://learnopengl.com/In-Practice/2D-Game/Collisions/Ball)
-      * [Collision detection](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection)
-      * [Collision resolution](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-resolution)
-    * [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles)
-    * [Postprocessing](https://learnopengl.com/In-Practice/2D-Game/Postprocessing)
-    * [Powerups](https://learnopengl.com/In-Practice/2D-Game/Powerups)
-    * [Audio](https://learnopengl.com/In-Practice/2D-Game/Audio)
-    * [Render text](https://learnopengl.com/In-Practice/2D-Game/Render-text)
-    * [Final thoughts](https://learnopengl.com/In-Practice/2D-Game/Final-thoughts)
+
+* [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_)
+* Creating 2D Breakout game clone in C++ with OpenGL
+  * [Breakout](https://learnopengl.com/In-Practice/2D-Game/Breakout)
+  * [Setting up](https://learnopengl.com/In-Practice/2D-Game/Setting-up)
+  * [Rendering Sprites](https://learnopengl.com/In-Practice/2D-Game/Rendering-Sprites)
+  * [Levels](https://learnopengl.com/In-Practice/2D-Game/Levels)
+  * Collisions
+    * [Ball](https://learnopengl.com/In-Practice/2D-Game/Collisions/Ball)
+    * [Collision detection](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection)
+    * [Collision resolution](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-resolution)
+  * [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles)
+  * [Postprocessing](https://learnopengl.com/In-Practice/2D-Game/Postprocessing)
+  * [Powerups](https://learnopengl.com/In-Practice/2D-Game/Powerups)
+  * [Audio](https://learnopengl.com/In-Practice/2D-Game/Audio)
+  * [Render text](https://learnopengl.com/In-Practice/2D-Game/Render-text)
+  * [Final thoughts](https://learnopengl.com/In-Practice/2D-Game/Final-thoughts)
 
 ## C#:
 
@@ -136,18 +137,23 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 2](https://houssein.me/progressive-angular-applications)
 * [Build a web application with Django and AngularJS](https://thinkster.io/django-angularjs-tutorial)
 
-#### Vue
+#### Node:
 
-* [Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)  
-
-#### Others (Node, Hapi, Express...):
-
+* [Build A Simple Website With Node,Express and MongoDB](https://closebrace.com/tutorials/2017-03-02/the-dead-simple-step-by-step-guide-for-front-end-developers-to-getting-up-and-running-with-nodejs-express-and-mongodb)
 * [Build a URL Shortener with Node, MongoDB and Hapi.js](https://www.codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Build a real-time Markdown Editor with NodeJS](https://scotch.io/tutorials/building-a-real-time-markdown-viewer)
 * [Test-Driven Development with Node, Postgres and Knex](http://mherman.org/blog/2016/04/28/test-driven-development-with-node/)
 * Write a Twitter Bot in Node.js
   * [Part 1](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
   * [Part 2](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
+* [Create A Simple RESTFUL Web App](https://closebrace.com/tutorials/2017-03-02/creating-a-simple-restful-web-app-with-nodejs-express-and-mongodb)
+
+#### Vue
+
+* [Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
+
+#### Others (Hapi, Express...):
+
 * Build a Progressive Web Application (PWA)
   * [Part 1](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
   * [Part 2](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
@@ -155,6 +161,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Build A Support Ticket Application With AdonisJs
   * [Part 1](https://scotch.io/tutorials/build-a-support-ticket-application-with-adonisjs)
   * [Part 2](https://scotch.io/tutorials/build-a-support-ticket-application-with-adonisjs-part-2)
+
+###D3.js
+
+* [Learn D3 using examples](https://www.sitepoint.com/d3-js-data-visualizations/)
 
 ### Game Development:
 
