@@ -66,7 +66,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### OpenGL:
 
-* [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_)
 * Creating 2D Breakout game clone in C++ with OpenGL
   * [Breakout](https://learnopengl.com/In-Practice/2D-Game/Breakout)
   * [Setting up](https://learnopengl.com/In-Practice/2D-Game/Setting-up)
@@ -82,6 +81,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Audio](https://learnopengl.com/In-Practice/2D-Game/Audio)
   * [Render text](https://learnopengl.com/In-Practice/2D-Game/Render-text)
   * [Final thoughts](https://learnopengl.com/In-Practice/2D-Game/Final-thoughts)
+* [Handmade Hero](https://handmadehero.org)
+* [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_)
 
 ## C#:
 
