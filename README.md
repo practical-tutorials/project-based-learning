@@ -243,6 +243,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### Machine Learning:
 
 * [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM)
+* [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
 ### Deep Learning:
 
