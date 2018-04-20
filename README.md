@@ -110,6 +110,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## JavaScript:
 
 * [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
+* [10 Days of JavaScript: Improve your JavaScript Basics](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
 ### Mobile Application:
 
