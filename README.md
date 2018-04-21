@@ -110,6 +110,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## JavaScript:
 
 * [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
+* [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
 
 ### Mobile Application:
 
@@ -222,13 +223,15 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### Web Applications:
 
 * [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-* [Create a blog webapp in Django](https://tutorial.djangogirls.org/en/)
-* [Extend the Django Blog Web App](https://legacy.gitbook.com/book/djangogirls/django-girls-tutorial-extensions/details)
+* Create a Blog Web App In Django
+  * [Part I : Introduction](https://tutorial.djangogirls.org/en/)
+  * [Part II : Extension To Add More Features](https://legacy.gitbook.com/book/djangogirls/django-girls-tutorial-extensions/details)
 * [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
 * [Build a Todo List with Flask and RethinkDB](https://realpython.com/blog/python/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/)
 * [Build a Todo List with Django and Test-Driven Development](http://www.obeythetestinggoat.com/)
 * [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
 * [Microservices with Docker, Flask, and React](https://testdriven.io/)
+* [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
 
 ### Bots:
 
@@ -240,9 +243,20 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
   * [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
 
+### Data Science:
+
+* Learn Python For Data Science by Siraj Raval:
+  * [Part 1](https://www.youtube.com/watch?v=T5pRlIbr6gg)
+  * [Part 2](https://www.youtube.com/watch?v=o_OZdbCzHUA)
+  * [Part 3](https://www.youtube.com/watch?v=9gBC9R-msAk&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=3)
+  * [Part 4](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+  * [Part 5](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
+  * [Part 6](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+
 ### Machine Learning:
 
 * [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM)
+* [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
 ### Deep Learning:
 
