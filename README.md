@@ -245,13 +245,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Data Science:
 
-* Learn Python For Data Science by Siraj Raval:
-  * [Part 1](https://www.youtube.com/watch?v=T5pRlIbr6gg)
-  * [Part 2](https://www.youtube.com/watch?v=o_OZdbCzHUA)
-  * [Part 3](https://www.youtube.com/watch?v=9gBC9R-msAk&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=3)
-  * [Part 4](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
-  * [Part 5](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
-  * [Part 6](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+* Learn Python For Data Science by Doing Several Projects:
+  * [Part 1: Introduction](https://www.youtube.com/watch?v=T5pRlIbr6gg)
+  * [Part 2: Twitter Sentiment Analysis](https://www.youtube.com/watch?v=o_OZdbCzHUA)
+  * [Part 3: Recommendation Systems](https://www.youtube.com/watch?v=9gBC9R-msAk&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=3)
+  * [Part 4: Predicting Stock Prices](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+  * [Part 5: Deep Dream in TensorFlow](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
+  * [Part 6: Genetic Algorithms](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 
 ### Machine Learning:
 
