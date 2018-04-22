@@ -12,7 +12,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Elixir](#elixir)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML/CSS](#html/css)
+* [HTML/CSS](#html-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
@@ -250,6 +250,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * How To Create a Telegram Bot Using Python
   * [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
   * [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
+* [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 
 ### Data Science:
 
