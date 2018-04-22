@@ -12,6 +12,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Elixir](#elixir)
 * [Go](#go)
 * [Haskell](#haskell)
+* [HTML/CSS](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
@@ -111,6 +112,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 * [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
 * [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
+
+## HTML/CSS:
+
+* [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
 
 ### Mobile Application:
 
