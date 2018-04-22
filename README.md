@@ -12,7 +12,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Elixir](#elixir)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML/CSS](#html)
+* [HTML/CSS](#html/css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
