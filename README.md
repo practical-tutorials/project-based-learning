@@ -335,6 +335,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## R:
 
 * [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
+* [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 
 ## Rust:
 
