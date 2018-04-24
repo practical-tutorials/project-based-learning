@@ -12,6 +12,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Elixir](#elixir)
 * [Go](#go)
 * [Haskell](#haskell)
+* [HTML/CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
@@ -112,6 +113,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
 * [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
 
+## HTML and CSS:
+
+* [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
+
 ### Mobile Application:
 
 * [Build a React Native Todo Application](https://egghead.io/courses/build-a-react-native-todo-application)
@@ -131,6 +136,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 2](https://scotch.io/tutorials/build-a-serverless-mern-story-app-with-webtask-io-zero-to-deploy-2)
 * [Build A Simple Medium Clone using React.js and Node.js](https://codeburst.io/build-simple-medium-com-on-node-js-and-react-js-a278c5192f47)
 * [Integrate MailChimp in JS](https://medium.freecodecamp.org/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f)
+* [Build A Chrome Extension with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
+* [Build A ToDo App With React Native](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a)
 
 #### Angular:
 
@@ -245,6 +252,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * How To Create a Telegram Bot Using Python
   * [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
   * [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
+* [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 
 ### Data Science:
 
@@ -260,6 +268,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 * [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM)
 * [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+* [Predict Quality Of Wine](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
 
 ### Deep Learning:
 
@@ -326,6 +335,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## R:
 
 * [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
+* [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 
 ## Rust:
 
