@@ -285,6 +285,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build An Image Caption Generator](https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f)
 * [Make your Own Face Recognition System](https://medium.freecodecamp.org/making-your-own-face-recognition-system-29a8e728107c)
 * [Train a Language Detection AI in 20 minutes](https://towardsdatascience.com/how-i-trained-a-language-detection-ai-in-20-minutes-with-a-97-accuracy-fdeca0fb7724)
+* Learn Twitter Sentiment Analysis -
+  * [Part I](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90)
+  * [Part II](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913)
 
 ### Miscellaneous:
 
