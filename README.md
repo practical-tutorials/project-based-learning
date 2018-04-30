@@ -288,6 +288,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Learn Twitter Sentiment Analysis -
   * [Part I](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90)
   * [Part II](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913)
+* [Use Transfer Learning for custom image classification](https://becominghuman.ai/transfer-learning-retraining-inception-v3-for-custom-image-classification-2820f653c557)
 
 ### Miscellaneous:
 
