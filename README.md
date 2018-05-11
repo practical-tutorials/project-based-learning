@@ -179,6 +179,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 #### D3.js
 
 * [Learn D3 using examples](https://www.sitepoint.com/d3-js-data-visualizations/)
+* [Learn To Make A Line Chart](https://medium.freecodecamp.org/learn-to-create-a-line-chart-using-d3-js-4f43f1ee716b)
 
 ### Game Development:
 
