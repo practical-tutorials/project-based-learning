@@ -149,6 +149,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 1](https://houssein.me/angular2-hacker-news)
   * [Part 2](https://houssein.me/progressive-angular-applications)
 * [Build a web application with Django and AngularJS](https://thinkster.io/django-angularjs-tutorial)
+* Build A Beautiful Real World App with Angular 6 :
+  * [Part I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 
 #### Node:
 
