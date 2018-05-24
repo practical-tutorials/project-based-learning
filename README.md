@@ -141,6 +141,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build A Chrome Extension with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
 * [Build A ToDo App With React Native](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a)
 * [Make a Chat Application](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
+* [Create a News App with React Native](https://medium.freecodecamp.org/create-a-news-app-using-react-native-ced249263627)
 
 #### Angular:
 
@@ -149,6 +150,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 1](https://houssein.me/angular2-hacker-news)
   * [Part 2](https://houssein.me/progressive-angular-applications)
 * [Build a web application with Django and AngularJS](https://thinkster.io/django-angularjs-tutorial)
+* Build A Beautiful Real World App with Angular 6 :
+  * [Part I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 
 #### Node:
 
@@ -175,6 +178,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Build A Support Ticket Application With AdonisJs
   * [Part 1](https://scotch.io/tutorials/build-a-support-ticket-application-with-adonisjs)
   * [Part 2](https://scotch.io/tutorials/build-a-support-ticket-application-with-adonisjs-part-2)
+* [Build A Native Desktop App with JS](https://medium.freecodecamp.org/build-native-desktop-apps-with-javascript-a49ede90d8e9)
 
 #### D3.js
 
@@ -276,6 +280,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 * [Predict Quality Of Wine](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
 * [Solving A Fruits Classification Problem](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
+* [Learn Unsupervised Learning with Python](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03)
+* [Build Your Own Neural Net from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 
 ### Deep Learning:
 
