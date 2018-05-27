@@ -64,6 +64,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 7: Compound Statements](https://norasandler.com/2018/03/14/Write-a-Compiler-7.html)
   * [Part 8: Loops](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
 * [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
+* [Tetris tutorial in C++ platform independent focused in game logic for beginners](http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/)
 
 ### OpenGL:
 
