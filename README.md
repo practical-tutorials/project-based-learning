@@ -64,6 +64,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 7: Compound Statements](https://norasandler.com/2018/03/14/Write-a-Compiler-7.html)
   * [Part 8: Loops](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
 * [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
+* Space Invaders from Scratch
+  * [Part 1](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
+  * [Part 2](http://nicktasios.nl/posts/space-invaders-from-scratch-part-2.html)
+  * [Part 3](http://nicktasios.nl/posts/space-invaders-from-scratch-part-3.html)
+  * [Part 4](http://nicktasios.nl/posts/space-invaders-from-scratch-part-4.html)
+* [Tetris Tutorial in C++ Platform Independent](http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/)
 
 ### OpenGL:
 
