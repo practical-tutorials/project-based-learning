@@ -120,6 +120,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 * [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
 * [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
+* [Learn fundamentals of Javascript by building a todo app](https://watchandcode.com/p/practical-javascript)
 
 ## HTML and CSS:
 
