@@ -267,6 +267,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
 * [Microservices with Docker, Flask, and React](https://testdriven.io/)
 * [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
+* [Build a RESTful API with Flask – The TDD Way](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
 
 ### Bots:
 
