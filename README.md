@@ -304,6 +304,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Linear Regression in Python without scikit-learn](https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122)
 - [Spam Detection Using Logistic Regression](https://towardsdatascience.com/spam-detection-with-logistic-regression-23e3709e522)
 - [Learn Topic Modelling and Latent Dirichlet Allocation](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
+- [A Neural Network in 11 lines of Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 
 ### Deep Learning:
 
