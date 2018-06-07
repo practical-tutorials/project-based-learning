@@ -286,6 +286,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### Image Processing :
 
 - [Detect Particular Colors from an Image](https://www.pyimagesearch.com/2014/08/04/opencv-python-color-detection/)
+- [Detect Skin in Images and Video](https://www.pyimagesearch.com/2014/08/18/skin-detection-step-step-example-using-python-opencv/)
 
 ### Data Science:
 
