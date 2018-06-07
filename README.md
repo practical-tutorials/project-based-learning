@@ -283,6 +283,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
 - [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 
+### Image Processing :
+
+- [Detect Particular Colors from an Image](https://www.pyimagesearch.com/2014/08/04/opencv-python-color-detection/)
+
 ### Data Science:
 
 - Learn Python For Data Science by Doing Several Projects:
