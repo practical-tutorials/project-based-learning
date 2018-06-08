@@ -71,6 +71,17 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 3](http://nicktasios.nl/posts/space-invaders-from-scratch-part-3.html)
   * [Part 4](http://nicktasios.nl/posts/space-invaders-from-scratch-part-4.html)
 * [Tetris Tutorial in C++ Platform Independent](http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/)
+* Writing a Linux Debugger
+  * [Part 1: Setup](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+  * [Part 2: Breakpoints](https://blog.tartanllama.xyz/writing-a-linux-debugger-breakpoints/)
+  * [Part 3: Registers and memory](https://blog.tartanllama.xyz/writing-a-linux-debugger-registers/)
+  * [Part 4: Elves and dwarves](https://blog.tartanllama.xyz/writing-a-linux-debugger-elf-dwarf/)
+  * [Part 5: Source and signals](https://blog.tartanllama.xyz/writing-a-linux-debugger-source-signal/)
+  * [Part 6: Source-level stepping](https://blog.tartanllama.xyz/writing-a-linux-debugger-dwarf-step/)
+  * [Part 7: Source-level breakpoints](https://blog.tartanllama.xyz/writing-a-linux-debugger-source-break/)
+  * [Part 8: Stack unwinding](https://blog.tartanllama.xyz/writing-a-linux-debugger-unwinding/)
+  * [Part 9: Handling variables](https://blog.tartanllama.xyz/writing-a-linux-debugger-variables/)
+  * [Part 10: Advanced topics](https://blog.tartanllama.xyz/writing-a-linux-debugger-advanced-topics/)
 
 ### OpenGL:
 
