@@ -38,12 +38,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [How to Write an Emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 * [Beginning Game Programming with C++ and SDL](http://lazyfoo.net/tutorials/SDL/)
 * [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
-* Let's Code a TCP/IP Stack
-  * [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
-  * [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
-  * [Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
-  * [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
-  * [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 * Writing a minimal x86-64 JIT compiler in C++
   * [Part 1](https://solarianprogrammer.com/2018/01/10/writing-minimal-x86-64-jit-compiler-cpp/)
   * [Part 2](https://solarianprogrammer.com/2018/01/12/writing-minimal-x86-64-jit-compiler-cpp-part-2/)
@@ -65,6 +59,41 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 8: Loops](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
 * [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
 * [Meta Crush Saga: a C++17 compile-time game](https://jguegant.github.io//jguegant.github.io/blogs/tech/meta-crush-saga.html)
+* [High-Performance Matrix Multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)
+* Space Invaders from Scratch
+  * [Part 1](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
+  * [Part 2](http://nicktasios.nl/posts/space-invaders-from-scratch-part-2.html)
+  * [Part 3](http://nicktasios.nl/posts/space-invaders-from-scratch-part-3.html)
+  * [Part 4](http://nicktasios.nl/posts/space-invaders-from-scratch-part-4.html)
+* [Tetris Tutorial in C++ Platform Independent](http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/)
+* Writing a Linux Debugger
+  * [Part 1: Setup](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+  * [Part 2: Breakpoints](https://blog.tartanllama.xyz/writing-a-linux-debugger-breakpoints/)
+  * [Part 3: Registers and memory](https://blog.tartanllama.xyz/writing-a-linux-debugger-registers/)
+  * [Part 4: Elves and dwarves](https://blog.tartanllama.xyz/writing-a-linux-debugger-elf-dwarf/)
+  * [Part 5: Source and signals](https://blog.tartanllama.xyz/writing-a-linux-debugger-source-signal/)
+  * [Part 6: Source-level stepping](https://blog.tartanllama.xyz/writing-a-linux-debugger-dwarf-step/)
+  * [Part 7: Source-level breakpoints](https://blog.tartanllama.xyz/writing-a-linux-debugger-source-break/)
+  * [Part 8: Stack unwinding](https://blog.tartanllama.xyz/writing-a-linux-debugger-unwinding/)
+  * [Part 9: Handling variables](https://blog.tartanllama.xyz/writing-a-linux-debugger-variables/)
+  * [Part 10: Advanced topics](https://blog.tartanllama.xyz/writing-a-linux-debugger-advanced-topics/)
+
+### Network programming
+
+* Let's Code a TCP/IP Stack
+  * [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+  * [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
+  * [Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
+  * [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
+  * [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
+  
+* Programming concurrent servers
+  * [Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
+  * [Part 2 - Threads](https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/)
+  * [Part 3 - Event-driven](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)
+  * [Part 4 - libuv](https://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv/)
+  * [Part 5 - Redis case study](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)
+  * [Part 6 - Callbacks, Promises and async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
 
 ### OpenGL:
 
@@ -143,6 +172,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build A ToDo App With React Native](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a)
 * [Make a Chat Application](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
 * [Create a News App with React Native](https://medium.freecodecamp.org/create-a-news-app-using-react-native-ced249263627)
+* [Learn Webpack For React](https://medium.freecodecamp.org/learn-webpack-for-react-a36d4cac5060)
+* [Testing React App With Pupepeteer and Jest](https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59)
+* [Build Your Own React Boilerplate](https://medium.freecodecamp.org/how-to-build-your-own-react-boilerplate-2f8cbbeb9b3f)
+* [Code The Game Of Life With React](https://medium.freecodecamp.org/create-gameoflife-with-react-in-one-hour-8e686a410174)
+* [A Basic React+Redux Introductory Tutorial](https://hackernoon.com/a-basic-react-redux-introductory-tutorial-adcc681eeb5e)
 
 #### Angular:
 
@@ -153,6 +187,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build a web application with Django and AngularJS](https://thinkster.io/django-angularjs-tutorial)
 * Build A Beautiful Real World App with Angular 6 :
   * [Part I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
+* [Build Responsive layout with BootStrap 4 and Angular 6](https://medium.com/@tomastrajan/how-to-build-responsive-layouts-with-bootstrap-4-and-angular-6-cfbb108d797b)
 
 #### Node:
 
@@ -180,6 +215,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 1](https://scotch.io/tutorials/build-a-support-ticket-application-with-adonisjs)
   * [Part 2](https://scotch.io/tutorials/build-a-support-ticket-application-with-adonisjs-part-2)
 * [Build A Native Desktop App with JS](https://medium.freecodecamp.org/build-native-desktop-apps-with-javascript-a49ede90d8e9)
+* Build a Powerful API with NodeJs,GraphQL and Hapi
+  * [Part I](https://medium.com/@wesharehoodies/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
 
 #### D3.js
 
@@ -239,7 +276,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
 * [Scrape a Website with Scrapy and MongoDB](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
 * [How To Scrape With Python and Selenium WebDriver](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
-* [Which Movie Should I Watch using BeautifulSoap](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
+* [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
 
 ### Web Applications:
 
@@ -253,6 +290,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
 * [Microservices with Docker, Flask, and React](https://testdriven.io/)
 * [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
+* [Build a RESTful API with Flask – The TDD Way](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
 
 ### Bots:
 
@@ -341,6 +379,17 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build A Real Estate Website Example with SilverStripe](https://www.silverstripe.org/learn/lessons/)
 * [Building Realtime Chat App with Laravel 5.4 and VueJS](https://www.youtube.com/playlist?list=PLXsbBbd36_uVjOFH_P25__XAyGsohXWlv)
 * [Build A Social Network: Laravel 5 - Youtube](https://www.youtube.com/playlist?list=PLfdtiltiRHWGGxaR6uFtwZnnbcXqyq8JD)
+* Build a full-featured multi-tenant app with Laravel
+  * [Part 0: Introduction](https://medium.com/@ashokgelal/writing-a-full-featured-multi-tenant-laravel-app-from-scratch-a0e1a7350d9d)
+  * [Part 1: Setup](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-1-4049a3cc229d)
+  * [Part 2: Roles and Permissinos](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-2-roles-and-permissions-d9a5bfe5d525)
+  * [Part 3: Invitation](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-3-invitation-c982dca55eb9)
+  * [Part 4: Authentication](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-4-tenancy-aware-authentication-e0ee37270bc8)
+  * [Part 5: Testing](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-2-unit-tests-96d6dfbf0617)
+  * [Part 6: User Profile](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-5-user-profile-5c3d0c655f3a)
+  * [Part 7: Deployment](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-7-deployment-40bb3c895627
+)
+  
 
 ## OCaml:
 
@@ -370,6 +419,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 * [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
 * [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
+* [Learn Associate Rule Mining in R](https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50)
 
 ## Rust:
 
