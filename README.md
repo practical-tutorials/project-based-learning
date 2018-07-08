@@ -64,6 +64,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 2](http://nicktasios.nl/posts/space-invaders-from-scratch-part-2.html)
   * [Part 3](http://nicktasios.nl/posts/space-invaders-from-scratch-part-3.html)
   * [Part 4](http://nicktasios.nl/posts/space-invaders-from-scratch-part-4.html)
+  * [Part 5](http://nicktasios.nl/posts/space-invaders-from-scratch-part-5.html)
 * [Tetris Tutorial in C++ Platform Independent](http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/)
 * Writing a Linux Debugger
   * [Part 1: Setup](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
