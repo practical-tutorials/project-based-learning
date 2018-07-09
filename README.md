@@ -357,6 +357,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Building a Gas Pump Scanner with OpenCV/Python/iOS](https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b)
 * [Build a Distributed Streaming System with Python and Kafka](https://scotch.io/tutorials/build-a-distributed-streaming-system-with-apache-kafka-and-python)
 * [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/)
+* Making a low level (Linux) debugger
+  * [Part 1](https://blog.asrpo.com/making_a_low_level_debugger)
+  * [Part 2: C](https://blog.asrpo.com/making_a_low_level_debugger_part_2)
 
 ## Go:
 
