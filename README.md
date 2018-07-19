@@ -363,6 +363,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Making a low level (Linux) debugger
   * [Part 1](https://blog.asrpo.com/making_a_low_level_debugger)
   * [Part 2: C](https://blog.asrpo.com/making_a_low_level_debugger_part_2)
+* Implementing a Search Engine
+  * [Part 1](http://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/)
+  * [Part 2](http://www.ardendertat.com/2011/05/31/how-to-implement-a-search-engine-part-2-query-index/)
+  * [Part 3](http://www.ardendertat.com/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf/)
 
 ## Go:
 
