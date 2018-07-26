@@ -298,6 +298,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Microservices with Docker, Flask, and React](https://testdriven.io/)
 * [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
 * [Build a RESTful API with Flask – The TDD Way](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
+* [Django Tutorials for Beginners](https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
+* [Django Tutorials](https://www.youtube.com/watch?v=Fc2O3_2kax8&list=PLw02n0FEB3E3VSHjyYMcFadtQORvl1Ssj)
 
 ### Bots:
 
