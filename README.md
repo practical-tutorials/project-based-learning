@@ -10,6 +10,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [C/C++](#cc)
 * [Clojure](#clojure)
 * [Elixir](#elixir)
+* [Erlang](#erlang)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML/CSS](#html-and-css)
@@ -131,6 +132,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Elixir
 
 * [Building a Simple Chat App With Elixir and Phoenix](https://sheharyar.me/blog/simple-chat-phoenix-elixir/)
+
+## Erlang
+* [ChatBus : build your first multi-user chat room app with Erlang/OTP](https://medium.com/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901)
 
 ## Java:
 
