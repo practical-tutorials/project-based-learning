@@ -135,6 +135,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Erlang
 * [ChatBus : build your first multi-user chat room app with Erlang/OTP](https://medium.com/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901)
+* [Making a Chat App with Erlang, Rebar, Cowboy and Bullet](http://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet.html)
 
 ## Java:
 
