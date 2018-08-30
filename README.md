@@ -15,6 +15,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [HTML/CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Julia](#julia)
 * [Kotlin](#kotlin)
 * [Lua](#lua)
 * [OCaml](#ocaml)
@@ -143,6 +144,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 * [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
 * [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
+
+## Julia
+
+* [A Deep Introduction to Julia for Data Science and Scientific Computing](http://ucidatascienceinitiative.github.io/IntroToJulia/)
+* [Programming in Julia (Quantitative Economics)](https://lectures.quantecon.org/jl/index_learning_julia.html)
+
 
 ## HTML and CSS:
 
