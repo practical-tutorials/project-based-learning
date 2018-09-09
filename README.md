@@ -203,7 +203,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 #### Node:
 
 * [Build A Simple Website With Node,Express and MongoDB](https://closebrace.com/tutorials/2017-03-02/the-dead-simple-step-by-step-guide-for-front-end-developers-to-getting-up-and-running-with-nodejs-express-and-mongodb)
-* [Build a URL Shortener with Node, MongoDB and Hapi.js](https://www.codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Build a real-time Markdown Editor with NodeJS](https://scotch.io/tutorials/building-a-real-time-markdown-viewer)
 * [Test-Driven Development with Node, Postgres and Knex](http://mherman.org/blog/2016/04/28/test-driven-development-with-node/)
 * Write a Twitter Bot in Node.js
