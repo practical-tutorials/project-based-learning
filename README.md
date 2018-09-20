@@ -357,6 +357,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Tracking Multiple Objects with OpenCV](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
 * [Neural Style Transfer with OpenCV](https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/)
 * [OpenCV OCR and Text Recognition](https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/)
+* [Text Skew Correction Tutorial](https://www.pyimagesearch.com/2017/02/20/text-skew-correction-opencv-python/)
 
 ### Deep Learning:
 
