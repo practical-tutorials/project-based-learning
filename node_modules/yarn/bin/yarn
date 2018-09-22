@@ -1,0 +1,34 @@
+#!/bin/sh
+argv0=$(echo "$0" | sed -e 's,\\,/,g')
+basedir=$(dirname "$(readlink "$0" || echo "$argv0")")
+
+case "$(uname -s)" in
+  Linux) basedir=$(dirname "$(readlink -f "$0" || echo "$argv0")");;
+  *CYGWIN*) basedir=`cygpath -w "$basedir"`;;
+  *MSYS*) basedir=`cygpath -w "$basedir"`;;
+esac
+
+command_exists() {
+  command -v "$1" >/dev/null 2>&1;
+}
+
+if command_exists node; then
+  if [ "$YARN_FORCE_WINPTY" = 1 ] || command_exists winpty && test -t 1; then
+    winpty node "$basedir/yarn.js" "$@"
+  else
+    exec node "$basedir/yarn.js" "$@"
+  fi
+  ret=$?
+# Debian and Ubuntu use "nodejs" as the name of the binary, not "node", so we
+# search for that too. See:
+# https://lists.debian.org/debian-devel-announce/2012/07/msg00002.html
+# https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=614907
+elif command_exists nodejs; then
+  exec nodejs "$basedir/yarn.js" "$@"
+  ret=$?
+else
+  >&2 echo 'Yarn requires Node.js 4.0 or higher to be installed.'
+  ret=1
+fi
+
+exit $ret
