@@ -36,6 +36,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 * [How to Program an NES Game in C](https://nesdoug.com/)
 * [Write an OS from scratch](https://github.com/tuhdo/os01)
+* [How to create an OS from scratch ](https://github.com/cfenollosa/os-tutorial)
 * [How to Write an Emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 * [Beginning Game Programming with C++ and SDL](http://lazyfoo.net/tutorials/SDL/)
 * [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
