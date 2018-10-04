@@ -1,0 +1,12 @@
+{
+  "name": "project-based-learning",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~4.0.0-alpha.6",
+    "modernizr": "~2.8.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
