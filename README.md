@@ -507,3 +507,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Thinkster.io](http://thinkster.io)
 * [C Project Based Tutorials](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)
 * [Enlight](https://enlight.nyc/)
+* [Hack Club Workshops](https://hackclub.com/workshops/)
