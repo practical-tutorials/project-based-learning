@@ -224,6 +224,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - Build a full stack web application using MEVN (MongoDB, Express, Vue, Node) stack
   - [Part 1](https://medium.com/@anaida07/mevn-stack-application-part-1-3a27b61dcae0)
   - [Part 2](https://medium.com/@anaida07/mevn-stack-application-part-2-2-9ebcf8a22753)
+- [Vue.js To-DO List Tutorial](https://www.youtube.com/watch?v=78tNYZUS-ps)
 
 #### Others (Hapi, Express...):
 
