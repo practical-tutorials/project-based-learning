@@ -368,6 +368,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Automatic Target Detection Tutorial](https://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/)
 - [EigenFaces using OpenCV](https://www.learnopencv.com/eigenface-using-opencv-c-python/)
 - [Faster(5-point) Facial Landmark Detection Tutorial](https://www.pyimagesearch.com/2018/04/02/faster-facial-landmark-detector-with-dlib/)
+- [Hand Keypoint Detection](https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/)
 
 ### Deep Learning:
 
@@ -401,6 +402,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Use EigenFaces and FisherFaces on Faces94 dataset](https://nicholastsmith.wordpress.com/2016/02/18/eigenfaces-versus-fisherfaces-on-the-faces94-database-with-scikit-learn/)
 - [Kaggle MNIST Digit Recognizer Tutorial](https://medium.com/@lvarruda/how-to-get-top-2-position-on-kaggles-mnist-digit-recognizer-48185d80a2d4)
 - [Fashion MNIST tutorial with tf.keras](https://medium.com/tensorflow/hello-deep-learning-fashion-mnist-with-keras-50fcff8cd74a)
+- [CNN using Keras to automatically classify root health](https://www.pyimagesearch.com/2018/10/15/deep-learning-hydroponics-and-medical-marijuana/)
+- [Keras vs Tensorflow](https://www.pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/)
 
 ### Miscellaneous:
 
@@ -503,15 +506,16 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 
 ## Additional Resources
-
-- [React Redux Links](https://github.com/markerikson/react-redux-links)
-- [Full Stack Python](https://www.fullstackpython.com/)
-- [Node School](https://nodeschool.io/)
-- [ScotchIO](https://scotch.io/)
-- [Exercism](http://www.exercism.io/)
-- [Egghead.io](http://www.egghead.io/)
-- [Michael Herman's Blog](http://mherman.org/)
-- [Thinkster.io](http://thinkster.io)
-- [C Project Based Tutorials](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)
-- [Enlight](https://enlight.nyc/)	
-- [Hack Club Workshops](https://hackclub.com/workshops/)
+* [React Redux Links](https://github.com/markerikson/react-redux-links)
+* [Full Stack Python](https://www.fullstackpython.com/)
+* [Node School](https://nodeschool.io/)
+* [ScotchIO](https://scotch.io/)
+* [Exercism](http://www.exercism.io/)
+* [Egghead.io](http://www.egghead.io/)
+* [Michael Herman's Blog](http://mherman.org/)
+* [Thinkster.io](http://thinkster.io)
+* [C Project Based Tutorials](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)
+* [Enlight](https://enlight.nyc/)
+* [Hack Club Workshops](https://hackclub.com/workshops/)
+* [Enlight](https://enlight.nyc/)	
+* [Hack Club Workshops](https://hackclub.com/workshops/)
