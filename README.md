@@ -437,6 +437,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6: Transactions 2](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/)
   - [Part 7: Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
 - [Build Web Application with GoLang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+- [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=Utf-A4rODH8)
 
 ## PHP:
 
@@ -505,17 +506,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 
 ## Additional Resources
-
-- [React Redux Links](https://github.com/markerikson/react-redux-links)
-- [Full Stack Python](https://www.fullstackpython.com/)
-- [Node School](https://nodeschool.io/)
-- [ScotchIO](https://scotch.io/)
-- [Exercism](http://www.exercism.io/)
-- [Egghead.io](http://www.egghead.io/)
-- [Michael Herman's Blog](http://mherman.org/)
-- [Thinkster.io](http://thinkster.io)
-- [C Project Based Tutorials](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)
-
 * [React Redux Links](https://github.com/markerikson/react-redux-links)
 * [Full Stack Python](https://www.fullstackpython.com/)
 * [Node School](https://nodeschool.io/)
@@ -526,4 +516,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Thinkster.io](http://thinkster.io)
 * [C Project Based Tutorials](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)
 * [Enlight](https://enlight.nyc/)
+* [Hack Club Workshops](https://hackclub.com/workshops/)
+* [Enlight](https://enlight.nyc/)	
 * [Hack Club Workshops](https://hackclub.com/workshops/)
