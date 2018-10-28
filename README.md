@@ -247,7 +247,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### Game Development:
 
 - [Make 2D Breakout Game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
-- Make Flappy Bird in HTML5 and JavaScript with Phaser
+- Make Flappy Bird in HTML5 and JavaScript with Phaser.
   - [Part 1](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
   - [Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
 
@@ -272,82 +272,82 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Lua:
 
-### LÖVE:
+  ### LÖVE:
 
-- BYTEPATH: Creation of a Complete Game with Lua and LÖVE
-  - [Part 0: Introduction](https://github.com/SSYGEN/blog/issues/30)
-  - [Part 1: Game Loop](https://github.com/SSYGEN/blog/issues/15)
-  - [Part 2: Libraries](https://github.com/SSYGEN/blog/issues/16)
-  - [Part 3: Rooms and Areas](https://github.com/SSYGEN/blog/issues/17)
-  - [Part 4: Exercises](https://github.com/SSYGEN/blog/issues/18)
-  - [Part 5: Game Basics](https://github.com/SSYGEN/blog/issues/19)
-  - [Part 6: Player Basics](https://github.com/SSYGEN/blog/issues/20)
-  - [Part 7: Player Stats and Attacks](https://github.com/SSYGEN/blog/issues/21)
-  - [Part 8: Enemies](https://github.com/SSYGEN/blog/issues/22)
-  - [Part 9: Director and Gameplay Loop](https://github.com/SSYGEN/blog/issues/23)
-  - [Part 10: Coding Practices](https://github.com/SSYGEN/blog/issues/24)
-  - [Part 11: Passives](https://github.com/SSYGEN/blog/issues/25)
-  - [Part 12: More Passives](https://github.com/SSYGEN/blog/issues/26)
-  - [Part 13: Skill Tree](https://github.com/SSYGEN/blog/issues/27)
-  - [Part 14: Console](https://github.com/SSYGEN/blog/issues/28)
-  - [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
+  - BYTEPATH: Creation of a Complete Game with Lua and LÖVE
+    - [Part 0: Introduction](https://github.com/SSYGEN/blog/issues/30)
+    - [Part 1: Game Loop](https://github.com/SSYGEN/blog/issues/15)
+    - [Part 2: Libraries](https://github.com/SSYGEN/blog/issues/16)
+    - [Part 3: Rooms and Areas](https://github.com/SSYGEN/blog/issues/17)
+    - [Part 4: Exercises](https://github.com/SSYGEN/blog/issues/18)
+    - [Part 5: Game Basics](https://github.com/SSYGEN/blog/issues/19)
+    - [Part 6: Player Basics](https://github.com/SSYGEN/blog/issues/20)
+    - [Part 7: Player Stats and Attacks](https://github.com/SSYGEN/blog/issues/21)
+    - [Part 8: Enemies](https://github.com/SSYGEN/blog/issues/22)
+    - [Part 9: Director and Gameplay Loop](https://github.com/SSYGEN/blog/issues/23)
+    - [Part 10: Coding Practices](https://github.com/SSYGEN/blog/issues/24)
+    - [Part 11: Passives](https://github.com/SSYGEN/blog/issues/25)
+    - [Part 12: More Passives](https://github.com/SSYGEN/blog/issues/26)
+    - [Part 13: Skill Tree](https://github.com/SSYGEN/blog/issues/27)
+    - [Part 14: Console](https://github.com/SSYGEN/blog/issues/28)
+    - [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
 
 ## Python:
 
-### Web Scraping:
+  ### Web Scraping:
 
-- [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
-- [Scrape a Website with Scrapy and MongoDB](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
-- [How To Scrape With Python and Selenium WebDriver](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
-- [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
+  - [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
+  - [Scrape a Website with Scrapy and MongoDB](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
+  - [How To Scrape With Python and Selenium WebDriver](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
+  - [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
 
-### Web Applications:
+  ### Web Applications:
 
-- [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-- Create a Blog Web App In Django
-  - [Part I : Introduction](https://tutorial.djangogirls.org/en/)
-  - [Part II : Extension To Add More Features](https://legacy.gitbook.com/book/djangogirls/django-girls-tutorial-extensions/details)
-- [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
-- [Build a Todo List with Flask and RethinkDB](https://realpython.com/blog/python/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/)
-- [Build a Todo List with Django and Test-Driven Development](http://www.obeythetestinggoat.com/)
-- [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
-- [Microservices with Docker, Flask, and React](https://testdriven.io/)
-- [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
-- [Build a RESTful API with Flask – The TDD Way](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
-- [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
+  - [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+  - Create a Blog Web App In Django
+    - [Part I : Introduction](https://tutorial.djangogirls.org/en/)
+    - [Part II : Extension To Add More Features](https://legacy.gitbook.com/book/djangogirls/django-girls-tutorial-extensions/details)
+  - [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
+  - [Build a Todo List with Flask and RethinkDB](https://realpython.com/blog/python/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/)
+  - [Build a Todo List with Django and Test-Driven Development](http://www.obeythetestinggoat.com/)
+  - [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
+  - [Microservices with Docker, Flask, and React](https://testdriven.io/)
+  - [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
+  - [Build a RESTful API with Flask – The TDD Way](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
+  - [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
 
-### Bots:
+  ### Bots:
 
-- [Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
-- [How to Make a Reddit Bot - YouTube](https://www.youtube.com/watch?v=krTUf7BpTc0) (video)
-- [Build a Facebook Messenger Bot](https://blog.hartleybrody.com/fb-messenger-bot/)
-- [Making a Reddit + Facebook Messenger Bot](https://pythontips.com/2017/04/13/making-a-reddit-facebook-messenger-bot/)
-- How To Create a Telegram Bot Using Python
-  - [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
-  - [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
-- [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
+  - [Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
+  - [How to Make a Reddit Bot - YouTube](https://www.youtube.com/watch?v=krTUf7BpTc0) (video)
+  - [Build a Facebook Messenger Bot](https://blog.hartleybrody.com/fb-messenger-bot/)
+  - [Making a Reddit + Facebook Messenger Bot](https://pythontips.com/2017/04/13/making-a-reddit-facebook-messenger-bot/)
+  - How To Create a Telegram Bot Using Python
+    - [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
+    - [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
+  - [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 
-### Data Science:
+  ### Data Science:
 
-- Learn Python For Data Science by Doing Several Projects (video):
-  - [Part 1: Introduction](https://www.youtube.com/watch?v=T5pRlIbr6gg)
-  - [Part 2: Twitter Sentiment Analysis](https://www.youtube.com/watch?v=o_OZdbCzHUA)
-  - [Part 3: Recommendation Systems](https://www.youtube.com/watch?v=9gBC9R-msAk&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=3)
-  - [Part 4: Predicting Stock Prices](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
-  - [Part 5: Deep Dream in TensorFlow](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
-  - [Part 6: Genetic Algorithms](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+  - Learn Python For Data Science by Doing Several Projects (video):
+    - [Part 1: Introduction](https://www.youtube.com/watch?v=T5pRlIbr6gg)
+    - [Part 2: Twitter Sentiment Analysis](https://www.youtube.com/watch?v=o_OZdbCzHUA)
+    - [Part 3: Recommendation Systems](https://www.youtube.com/watch?v=9gBC9R-msAk&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=3)
+    - [Part 4: Predicting Stock Prices](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+    - [Part 5: Deep Dream in TensorFlow](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
+    - [Part 6: Genetic Algorithms](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 
-### Machine Learning:
+  ### Machine Learning:
 
-- [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM) (video)
-- [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
-- [Predict Quality Of Wine](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
-- [Solving A Fruits Classification Problem](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
-- [Learn Unsupervised Learning with Python](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03)
-- [Build Your Own Neural Net from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
-- [Linear Regression in Python without sklearn](https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122)
-- [Multivariate Linear Regression without sklearn](https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905)
-- [Music Recommender using KNN](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
+  - [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM) (video)
+  - [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+  - [Predict Quality Of Wine](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
+  - [Solving A Fruits Classification Problem](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
+  - [Learn Unsupervised Learning with Python](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03)
+  - [Build Your Own Neural Net from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+  - [Linear Regression in Python without sklearn](https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122)
+  - [Multivariate Linear Regression without sklearn](https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905)
+  - [Music Recommender using KNN](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
 
 ### OpenCV:
 
