@@ -371,6 +371,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [EigenFaces using OpenCV](https://www.learnopencv.com/eigenface-using-opencv-c-python/)
 - [Faster(5-point) Facial Landmark Detection Tutorial](https://www.pyimagesearch.com/2018/04/02/faster-facial-landmark-detector-with-dlib/)
 - [Hand Keypoint Detection](https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/)
+- Dlib Correlation Object Tracking -
+  - [Single Object Tracker](https://www.pyimagesearch.com/2018/10/22/object-tracking-with-dlib/)
 
 ### Deep Learning:
 
@@ -508,14 +510,15 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 
 ## Additional Resources
-* [React Redux Links](https://github.com/markerikson/react-redux-links)
-* [Full Stack Python](https://www.fullstackpython.com/)
-* [Node School](https://nodeschool.io/)
-* [ScotchIO](https://scotch.io/)
-* [Exercism](http://www.exercism.io/)
-* [Egghead.io](http://www.egghead.io/)
-* [Michael Herman's Blog](http://mherman.org/)
-* [Thinkster.io](http://thinkster.io)
-* [C Project Based Tutorials](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)
-* [Enlight](https://enlight.nyc/)
-* [Hack Club Workshops](https://hackclub.com/workshops/)
+
+- [React Redux Links](https://github.com/markerikson/react-redux-links)
+- [Full Stack Python](https://www.fullstackpython.com/)
+- [Node School](https://nodeschool.io/)
+- [ScotchIO](https://scotch.io/)
+- [Exercism](http://www.exercism.io/)
+- [Egghead.io](http://www.egghead.io/)
+- [Michael Herman's Blog](http://mherman.org/)
+- [Thinkster.io](http://thinkster.io)
+- [C Project Based Tutorials](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)
+- [Enlight](https://enlight.nyc/)
+- [Hack Club Workshops](https://hackclub.com/workshops/)
