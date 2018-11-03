@@ -348,6 +348,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Linear Regression in Python without sklearn](https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122)
 - [Multivariate Linear Regression without sklearn](https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905)
 - [Music Recommender using KNN](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
+- Find Similar Quora Questions-
+  - [Using BOW, TFIDF and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-bow-tfidf-and-random-forest-c54ad88d1370)
+  - [Using Word2Vec and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d)
 
 ### OpenCV:
 
@@ -371,6 +374,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [EigenFaces using OpenCV](https://www.learnopencv.com/eigenface-using-opencv-c-python/)
 - [Faster(5-point) Facial Landmark Detection Tutorial](https://www.pyimagesearch.com/2018/04/02/faster-facial-landmark-detector-with-dlib/)
 - [Hand Keypoint Detection](https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/)
+- Dlib Correlation Object Tracking -
+  - [Single Object Tracker](https://www.pyimagesearch.com/2018/10/22/object-tracking-with-dlib/)
+  - [Mutiple Object Tracker](https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/)
 
 ### Deep Learning:
 
@@ -508,14 +514,15 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 
 ## Additional Resources
-* [React Redux Links](https://github.com/markerikson/react-redux-links)
-* [Full Stack Python](https://www.fullstackpython.com/)
-* [Node School](https://nodeschool.io/)
-* [ScotchIO](https://scotch.io/)
-* [Exercism](http://www.exercism.io/)
-* [Egghead.io](http://www.egghead.io/)
-* [Michael Herman's Blog](http://mherman.org/)
-* [Thinkster.io](http://thinkster.io)
-* [C Project Based Tutorials](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)
-* [Enlight](https://enlight.nyc/)
-* [Hack Club Workshops](https://hackclub.com/workshops/)
+
+- [React Redux Links](https://github.com/markerikson/react-redux-links)
+- [Full Stack Python](https://www.fullstackpython.com/)
+- [Node School](https://nodeschool.io/)
+- [ScotchIO](https://scotch.io/)
+- [Exercism](http://www.exercism.io/)
+- [Egghead.io](http://www.egghead.io/)
+- [Michael Herman's Blog](http://mherman.org/)
+- [Thinkster.io](http://thinkster.io)
+- [C Project Based Tutorials](https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/)
+- [Enlight](https://enlight.nyc/)
+- [Hack Club Workshops](https://hackclub.com/workshops/)
