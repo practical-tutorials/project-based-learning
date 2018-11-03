@@ -15,6 +15,7 @@ Before making a pull request, please make sure of the following:
             * [Part 2](link_to_part_2)
     ```
 * Check the spelling and grammar
+* Do the work, write good commit messages, and read the CONTRIBUTING file if there is one
 * Remove any trailing whitespaces
 * Links must be pointing straight to the tutorials, no URL shorteners. However, if the URL is too long (more than 80 characters), Google URL Shortener is allowed
 
