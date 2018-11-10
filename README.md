@@ -24,7 +24,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Solidity] (#solidity)
+* [Solidity](#solidity)
 * [Swift](#swift)
 * [Additional resources](#additional-resources)
 
