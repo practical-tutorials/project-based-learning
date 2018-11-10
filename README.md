@@ -24,6 +24,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Solidity] (#solidity)
 * [Swift](#swift)
 * [Additional resources](#additional-resources)
 
@@ -476,6 +477,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * Rust in Detail: Writing Scalable Chat Service from Scratch
   * [Part 1: Implementing WebSocket. Introduction.](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
   * [Part 2: Sending and Receiving Messages](https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html)
+
+## Solidity:
+
+* [Learn Solidity in Y Minutes - A Quick Overview of Solidity Language Features And Your Fist Smart Contract] (https://learnxinyminutes.com/docs/solidity/)
+* [Ethernaut - Gamified Course for Learning Solidity] (https://ethernaut.zeppelin.solutions/level/0x68756ad5e1039e4f3b895cfaa16a3a79a5a73c59)
+* [CryptoZombies (Solidity Path: Beginner to Intermediate Smart Contracts) - Learn to Code Games on Ethereum] (https://cryptozombies.io/)
+* [CryptoZombies (Hands-on Path: Make and Deploy a Custom Game Mode) - Learn to Code Games on Ethereum] (https://cryptozombies.io/en/course/)
+
 
 ## Swift:
 
