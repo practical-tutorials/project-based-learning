@@ -203,6 +203,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - ToDo App with Angular 5
   - [Introduction to Angular](http://www.discoversdk.com/blog/intro-to-angular-and-the-evolution-of-the-web)
   - [Part 1](http://www.discoversdk.com/blog/angular-5-to-do-list-app-part-1)
+- [Build a AngularJS Login Authentication](https://codepen.io/MikeTran/pen/zGLKwj?page=2)
 
 #### Node:
 
