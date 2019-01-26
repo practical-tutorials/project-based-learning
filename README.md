@@ -192,6 +192,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build an Appointment Scheduler](https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040)
 - [Build A Chat App with Sentiment Analysis](https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643)
 - [Build A Full Stack Web Application Setup](https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708)
+- Build A Random Quote Machine
+  - [Part 1](https://www.youtube.com/watch?v=3QngsWA9IEE)
+  - [Part 2](https://www.youtube.com/watch?v=XnoTmO06OYo)
+  - [Part 3](https://www.youtube.com/watch?v=us51Jne67_I)
+  - [Part 4](https://www.youtube.com/watch?v=iZx7hqHb5MU)
+  - [Part 5](https://www.youtube.com/watch?v=lpba9vBqXl0)
+  - [Part 6](https://www.youtube.com/watch?v=Jvp8j6zrFHE)
+  - [Part 7](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
 
 #### Angular:
 
