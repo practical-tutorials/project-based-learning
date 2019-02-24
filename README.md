@@ -40,11 +40,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [How to Write an Emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 - [Beginning Game Programming with C++ and SDL](http://lazyfoo.net/tutorials/SDL/)
 - [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
-- Tiny 3D graphics projects
-  - [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
-  - [Understandable RayTracing in 256 lines of bare C++](https://github.com/ssloy/tinyraytracer/wiki)
-  - [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom/wiki)
-  - [486 lines of C++: old-school FPS in a weekend](https://github.com/ssloy/tinyraycaster/wiki)
 - Writing a minimal x86-64 JIT compiler in C++
   - [Part 1](https://solarianprogrammer.com/2018/01/10/writing-minimal-x86-64-jit-compiler-cpp/)
   - [Part 2](https://solarianprogrammer.com/2018/01/12/writing-minimal-x86-64-jit-compiler-cpp-part-2/)
@@ -54,8 +49,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 - [Write a Bootloader in C](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 - [Linux Container in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
-- [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
-- [Learning KVM - Implement Your Own Linux Kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
 - Write a C compiler
   - [Part 1: Integers, Lexing and Code Generation](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
   - [Part 2: Unary Operators](https://norasandler.com/2017/12/05/Write-a-Compiler-2.html)
@@ -136,7 +129,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Clojure:
 
 - [Build a Twitter Bot with Clojure](http://howistart.org/posts/clojure/1/index.html)
-- [Building a Spell-Checker](https://bernhardwenzel.com/articles/clojure-spellchecker/)
+- [Bulding a Spell-Checker](https://bernhardwenzel.com/articles/clojure-spellchecker/)
 - [Building a JIRA integration with Clojure & Atlassian Connect](https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807)
 
 ## Elixir
@@ -197,14 +190,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build an Appointment Scheduler](https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040)
 - [Build A Chat App with Sentiment Analysis](https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643)
 - [Build A Full Stack Web Application Setup](https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708)
-- Build A Random Quote Machine
-  - [Part 1](https://www.youtube.com/watch?v=3QngsWA9IEE)
-  - [Part 2](https://www.youtube.com/watch?v=XnoTmO06OYo)
-  - [Part 3](https://www.youtube.com/watch?v=us51Jne67_I)
-  - [Part 4](https://www.youtube.com/watch?v=iZx7hqHb5MU)
-  - [Part 5](https://www.youtube.com/watch?v=lpba9vBqXl0)
-  - [Part 6](https://www.youtube.com/watch?v=Jvp8j6zrFHE)
-  - [Part 7](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
 
 #### Angular:
 
@@ -273,7 +258,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1](https://scotch.io/tutorials/build-a-music-player-with-react-electron-i-setup-basic-concepts)
   - [Part 2](https://scotch.io/tutorials/build-a-music-player-with-react-electron-ii-making-the-ui)
   - [Part 3](https://scotch.io/tutorials/build-a-music-player-with-react-electron-iii-bringing-it-all-together)
-- [Build A Desktop Chat App with React and Electron](https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f)
+- (Build A Desktop Chat App with React and Electron)[https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f]
 
 ### Miscellaneous:
 
@@ -434,6 +419,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Transfer Learning for Image Classification using Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8)
 - [Code a Smile Classifier using CNNS in Python](https://github.com/kylemcdonald/SmileCNN)
 - [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
+- [Breast Cancer Classification using Deep Learning](https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/)
 
 ### Miscellaneous:
 
