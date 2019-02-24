@@ -421,6 +421,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
 - [Breast Cancer Classification using Deep Learning](https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/)
 - [Fashion MNIST using Keras](https://www.pyimagesearch.com/2019/02/11/fashion-mnist-with-keras-and-deep-learning/)
+- Deep Learning, Regression, and Continuous Value Prediction -
+  - [Part I - Regression with Keras](https://www.pyimagesearch.com/2019/01/21/regression-with-keras/)
+  - [Part II - Regression with CNNs using Images](https://www.pyimagesearch.com/2019/01/28/keras-regression-and-cnns/)
+  - [Part III - Multiple CNNs and Mixed Inputs using Keras](https://www.pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/)
 
 ### Miscellaneous:
 
