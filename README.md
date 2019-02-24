@@ -420,6 +420,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Code a Smile Classifier using CNNS in Python](https://github.com/kylemcdonald/SmileCNN)
 - [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
 - [Breast Cancer Classification using Deep Learning](https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/)
+- [Fashion MNIST using Keras](https://www.pyimagesearch.com/2019/02/11/fashion-mnist-with-keras-and-deep-learning/)
 
 ### Miscellaneous:
 
