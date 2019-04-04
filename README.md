@@ -219,6 +219,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - ToDo App with Angular 5
   - [Introduction to Angular](http://www.discoversdk.com/blog/intro-to-angular-and-the-evolution-of-the-web)
   - [Part 1](http://www.discoversdk.com/blog/angular-5-to-do-list-app-part-1)
+- Building a Todo App with Angular CLI
+  - [Part 1](https://www.sitepoint.com/angular-2-tutorial/)
+  - [Part 2](https://www.sitepoint.com/understanding-component-architecture-angular/)
+  - [Part 3](https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/)
+  - [Part 4](https://www.sitepoint.com/component-routing-angular-router/)
+  - [Part 5](https://www.sitepoint.com/angular-2-authentication-protecting-private-content/)
+  - [Part 6](https://www.sitepoint.com/update-angular-projects/)
 
 #### Node:
 
