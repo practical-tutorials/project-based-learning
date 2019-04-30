@@ -452,6 +452,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 3](http://www.ardendertat.com/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf/)
 - [Build the Game of Life](https://robertheaton.com/2018/07/20/project-2-game-of-life/)
 - [Create terminal ASCII art](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
+- [Write a Tic-Tac-Toe AI](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
+- [Create photomosaic art](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/)
+- [Build the game "Snake" in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
 - [Write yourself a Git](https://wyag.thb.lt/)
 
 ## Go:
