@@ -532,7 +532,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 2: Sending and Receiving Messages](https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html)
 - [Writing a Rust Roguelike for the Desktop and the Web](https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/)
 - [Build Android app with Rust](https://dev.to/h_ajsf/build-android-app-with-rust-2k92)
-- [Building a Git Command Line Tool](https://www.youtube.com/watch?v=mVuq8IkfkiY&feature=youtu.be)
 
 ## Swift:
 
