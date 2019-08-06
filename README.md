@@ -241,6 +241,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1](https://medium.com/@anaida07/mevn-stack-application-part-1-3a27b61dcae0)
   - [Part 2](https://medium.com/@anaida07/mevn-stack-application-part-2-2-9ebcf8a22753)
 - [Vue.js To-Do List Tutorial (video)](https://www.youtube.com/watch?v=78tNYZUS-ps)
+- [Build Web Apps with Vue JS 2 & Firebase](https://www.udemy.com/build-web-apps-with-vuejs-firebase)
 
 #### Others (Hapi, Express...):
 
