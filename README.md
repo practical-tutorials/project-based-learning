@@ -458,6 +458,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Create photomosaic art](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/)
 - [Build the game "Snake" in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
 - [Write yourself a Git](https://wyag.thb.lt/)
+- [Plot Data in Python3 using matplotlib](https://www.digitalocean.com/community/tutorials/how-to-plot-data-in-python-3-using-matplotlib)
 
 ## Go:
 
