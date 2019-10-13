@@ -88,6 +88,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 8: Stack unwinding](https://blog.tartanllama.xyz/writing-a-linux-debugger-unwinding/)
   - [Part 9: Handling variables](https://blog.tartanllama.xyz/writing-a-linux-debugger-variables/)
   - [Part 10: Advanced topics](https://blog.tartanllama.xyz/writing-a-linux-debugger-advanced-topics/)
+- [Let's Build Game](https://www.gamefromscratch.com/page/Game-From-Scratch-CPP-Edition-The-Introduction.aspx)
 
 ### Network programming
 
