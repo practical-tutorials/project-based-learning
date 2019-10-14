@@ -12,6 +12,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Elixir](#elixir)
 - [Erlang](#erlang)
 - [Go](#go)
+- [Google Apps Script](#google-apps-script)
 - [Haskell](#haskell)
 - [HTML/CSS](#html-and-css)
 - [Java](#java)
@@ -478,6 +479,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 7: Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
 - [Build Web Application with GoLang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=Utf-A4rODH8)
+
+## Google Apps Script:
+
+- [First Google Apps Script for Beginners](https://www.bazroberts.com/2017/03/15/apps-script-basics-first-script/)
+
 
 ## PHP:
 
