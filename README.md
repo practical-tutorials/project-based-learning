@@ -182,6 +182,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
 - [Build an HTML Calculator with JS](https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
+- [Build a Login Form](https://webdesign.tutsplus.com/articles/build-a-quick-and-elegant-login-form--webdesign-6716)
+- [Create a Responsive Form with CSS](https://www.w3schools.com/howto/howto_css_responsive_form.asp)
+- [Create a To-Do List with CSS & JS](https://www.w3schools.com/howto/howto_js_todolist.asp)
 
 ### Mobile Application:
 
