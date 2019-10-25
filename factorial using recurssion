@@ -1,0 +1,21 @@
+#include<stdio.h>
+
+int fact(int x)
+{
+    int factorial;
+    if(x==1 || x==0)
+        return 1;
+    else
+        factorial=x*fact(x-1);
+    return factorial;
+}
+
+int main()
+{
+    int a, f;
+    printf("Enter the number: ");
+    scanf("%d",&a);
+    f=fact(a);
+    printf("factorial of %d is %d",a,f);
+    return 0;
+}
