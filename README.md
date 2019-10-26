@@ -180,6 +180,18 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## HTML and CSS:
 
+- [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page)
+- [Getting to Know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html)
+- [Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css)
+- [Opening the Box Model](https://learn.shayhowe.com/html-css/opening-the-box-model)
+- [Positioning Content](https://learn.shayhowe.com/html-css/positioning-content)
+- [Working with Typography](https://learn.shayhowe.com/html-css/working-with-typography)
+- [Setting Backgrounds & Gradients](https://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients)
+- [Creating Lists](https://learn.shayhowe.com/html-css/creating-lists)
+- [Adding Media](https://learn.shayhowe.com/html-css/adding-media)
+- [Building Forms](https://learn.shayhowe.com/html-css/building-forms)
+- [Organizing Data with Tables](https://learn.shayhowe.com/html-css/organizing-data-with-tables)
+- [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code)
 - [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
 - [Build an HTML Calculator with JS](https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
 
