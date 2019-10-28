@@ -476,6 +476,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Create photomosaic art](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/)
 - [Build the game "Snake" in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
 - [Write yourself a Git](https://wyag.thb.lt/)
+- [Testing Python Applications with Pytest](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
 
 ## Go:
 
