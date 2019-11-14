@@ -177,6 +177,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
 - [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
+- [The Odin Project - Full Stack JavaScript](https://www.theodinproject.com/tracks/2)
 
 ## HTML and CSS:
 
@@ -524,6 +525,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
 - [Build a Social Network using Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
 - [How To Build a Ruby on Rails Application](https://www.digitalocean.com/community/tutorials/how-to-build-a-ruby-on-rails-application)
+- [The Odin Project - Full Stack Ruby on Rails](https://www.theodinproject.com/tracks/1)
 
 ## Haskell:
 
