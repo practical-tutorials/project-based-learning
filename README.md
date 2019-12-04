@@ -517,6 +517,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Ruby:
 
 - [Build a Network Stack with Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
+- Build your own Redis
+  - [Part 0: Introduction](https://rohitpaulk.com/articles/redis-0)
+  - [Part 1: Barebones TCP Server](https://rohitpaulk.com/articles/redis-1)
+  - [Part 2: PING <-> PONG](https://rohitpaulk.com/articles/redis-2)
+  - [Part 3: Concurrent Clients](https://rohitpaulk.com/articles/redis-3)
+  - [Part 4: ECHO](https://rohitpaulk.com/articles/redis-4)
 
 ### Ruby on Rails:
 
