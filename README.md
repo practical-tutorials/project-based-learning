@@ -186,6 +186,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### Mobile Application:
 
 - [Build a React Native Todo Application](https://egghead.io/courses/build-a-react-native-todo-application)
+- [Build a React Native Application with Redux Thunk](https://medium.com/@alialhaddad/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0)
+
 
 ### Web Applications:
 
