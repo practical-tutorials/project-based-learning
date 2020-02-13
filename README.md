@@ -177,6 +177,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
 - [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
+- [1,000+ bite-sized JavaScript exercises](https://edabit.com/challenges/javascript)
 
 ## HTML and CSS:
 
