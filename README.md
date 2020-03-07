@@ -34,6 +34,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
 - [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
 - [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+- [Write your own Zip from scratch in C](https://www.hanshq.net/zip.html)
 - [Write a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
