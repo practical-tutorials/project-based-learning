@@ -41,6 +41,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 - [Write Othello Game from scratch in C](https://www.hanshq.net/othello.html)
 - [How to Program an NES Game in C](https://nesdoug.com/)
+- [Write BigInt Calculator in C](https://www.hanshq.net/bigint.html)
 - [Write an OS from scratch](https://github.com/tuhdo/os01)
 - [How to create an OS from scratch ](https://github.com/cfenollosa/os-tutorial)
 - [How to Write an Emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
