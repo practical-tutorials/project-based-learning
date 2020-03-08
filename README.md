@@ -31,6 +31,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## C/C++:
 
+- [Write The Old-School Fire Effect and Bare-Metal Programming in Assembly and C](https://www.hanshq.net/fire.html)
 - [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
 - [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
 - [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
