@@ -39,6 +39,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Write a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
+- [Write Othello Game from scratch in C](https://www.hanshq.net/othello.html)
 - [How to Program an NES Game in C](https://nesdoug.com/)
 - [Write an OS from scratch](https://github.com/tuhdo/os01)
 - [How to create an OS from scratch ](https://github.com/cfenollosa/os-tutorial)
