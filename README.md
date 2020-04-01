@@ -497,6 +497,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 7: Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
 - [Build Web Application with GoLang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
+- [Building Microservices in Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
 
 ## PHP:
 
