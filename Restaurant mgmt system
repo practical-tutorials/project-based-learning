@@ -1,0 +1,343 @@
+#include<iostream>
+#include<stdlib.h>
+#include<fstream>
+#include<string.h>
+
+using namespace std;
+
+class Restaurant
+
+{
+
+private :
+
+    static int rec;
+
+public:
+    int k;
+    float price;
+    char Dish_name[100];
+    void getdata()
+    {
+		cout<<"Enter The Dish key:"<<endl;
+		cin>>k;
+
+		cout<<"Enter The Dish_Name:"<<endl;
+		cin>>Dish_name;
+
+		cout<<"Enter the price :"<<endl;
+		cin>>price;
+	}
+
+   void showdata()
+	{
+        rec++;
+
+		cout<<"\n ******* [Record :"<<rec<<"]********";
+		cout<<"\n\n####################################\n";
+		cout<<"\n key is : "<<k;
+		cout<<"\n Dish_Name: "<<Dish_name;
+		cout<<"\n price  : "<<price;
+		cout<<"\n\n####################################\n\n";
+	}
+	friend void Query(int n);
+	friend void Update(int n);
+	friend void del(int n);
+    void Admin();
+};
+
+int Restaurant::rec = 0;
+
+void create()
+{
+	Restaurant obj;
+	ofstream fp2;
+	fp2.open("Restaurant.txt",ios::binary|ios::app);
+
+	obj.getdata();
+	fp2.write((char*)&obj,sizeof(obj));
+	fp2.close();
+}
+
+void display()
+{
+	Restaurant obj;
+	ifstream fp1;
+
+	fp1.open("Restaurant.txt",ios::binary);
+	while(fp1.read((char*)&obj,sizeof(obj)))
+	{
+		obj.showdata();
+	}
+	fp1.close();
+}
+void Query (int n)
+{
+	int status = 0;
+	Restaurant obj;
+	ifstream fp1;
+	fp1.open("Restaurant.txt",ios::binary);
+	while(fp1.read((char*)&obj,sizeof(obj)))
+	{
+		if(obj.k == n)
+		{
+			status = 1;
+			obj.showdata();
+			break;
+		}
+	}
+
+	if(status ==0)
+		cout<<"\n \n Record is not available";
+	fp1.close();
+}
+
+void Update(int n)
+{
+	fstream fp;
+	Restaurant obj;
+	int found=0;
+	fp.open("Restaurant.txt",ios::in|ios::out|ios::binary);
+	while(fp.read((char*)&obj,sizeof(obj)) && found==0)
+	{
+		if(obj.k ==n)
+		{
+			obj.showdata();
+			cout<<"\nEnter The New Details of Dish\n";
+			obj.getdata();
+
+			int pos=-1*sizeof(obj);
+			fp.seekp(pos,ios::cur);
+			fp.write((char*)&obj,sizeof(obj));
+			found=1;
+		}
+	}
+		fp.close();
+}
+
+void del(int n)
+{
+	Restaurant obj;
+	ifstream fp1;
+	fp1.open("Restaurant.txt",ios::binary);
+
+	ofstream fp2;
+	fp2.open("Temp.txt",ios::out|ios::binary);
+
+	while(fp1.read((char*)&obj,sizeof(obj)))
+	{
+		if(obj.k!=n)
+			fp2.write((char*)&obj,sizeof(obj));
+	}
+
+	fp1.close();
+	fp2.close();
+	remove("Restaurant.txt");
+	rename("Temp.txt","Restaurant.txt");
+}
+void Restaurant::Admin()
+{
+	int ch;
+	do
+	{
+            cout<<"\n\t\t\t\t\t\t###########################"<<endl;
+            cout<<"\t\t\t\t\t\t##                       ##"<<endl;
+            cout<<"\t\t\t\t\t\t##  1) ADD DISH          ##"<<endl;
+            cout<<"\t\t\t\t\t\t##  2) DISPLAY           ##"<<endl;
+            cout<<"\t\t\t\t\t\t##  3) QUERY             ##"<<endl;
+            cout<<"\t\t\t\t\t\t##  4) UPDATE            ##"<<endl;
+            cout<<"\t\t\t\t\t\t##  5) DELETE            ##"<<endl;
+            cout<<"\t\t\t\t\t\t##  6) DELETE_ALL        ##"<<endl;
+            cout<<"\t\t\t\t\t\t##  7) EXIT TO MAIN MENU ##"<<endl;
+            cout<<"\t\t\t\t\t\t##                       ##"<<endl;
+            cout<<"\t\t\t\t\t\t###########################"<<endl;
+
+		cout<<"\n\t\t\t\t\t\tEnter your choice:-";
+		cin>>ch;
+
+		switch(ch)
+		{
+			case 1:
+			    system("CLS");
+				create();
+				break;
+			case 2 :
+			    system("CLS");
+				display();
+				break;
+            case 3:
+                system("CLS");
+				int temp;
+				cout<<"Enter search key : ";
+				cin>>temp;
+				Query(temp);
+				break;
+
+			case 4:
+			    system("CLS");
+				int m;
+				cout<<"\n Enter key number for update record : ";
+				cin>>m;
+				Update(m);
+				break;
+
+			case 5 :
+			    system("CLS");
+				int d;
+				cout<<"\n Enter key number for delete a record : ";
+				cin>>d;
+				del(d);
+				break;
+            case 6:
+                remove("Restaurant.txt");
+                system("CLS");
+                break;
+
+            case 7:
+                system("CLS");
+                break;
+
+		}
+		cout<<"\n\n Press any key to continue......";
+	}
+	while(ch!= 7 );
+
+}
+class customer:public Restaurant
+{
+private:
+    char d[50];
+    double amount;
+    int qty;
+public:
+    void bill();
+    void showbill();
+};
+void customer::bill()
+    {
+        Restaurant objr;
+        customer objw;
+        int a,c=0;
+        char ch;
+        float total=0;
+
+     do
+        {
+
+        ifstream fp;
+        ofstream fp1;
+
+        c=0;
+    fp.open("Restaurant.txt",ios::in|ios::binary);
+    fp1.open("bill.txt",ios::app|ios::binary);
+
+    cout<<"enter the dish key:";
+    cin>>a;
+
+    while(fp.read((char*)&objr,sizeof(objr)))
+    {
+
+          if(objr.k==a)
+           {
+            c++;
+
+            cout<<"enter the quantity:";
+            cin>>qty;
+
+            amount=qty * objr.price;
+
+            strcpy(objw.Dish_name,objr.Dish_name);
+            objw.price= objr.price;
+            objw.qty = qty;
+            objw.amount = amount;
+
+            cout<<"\t  Calculation :---- "<<objr.Dish_name<<"\t\t"<<objr.price<<"*"<<qty<<"\t\t"<<amount<<endl;
+
+
+            fp1.write((char*)&objw,sizeof(objw));
+            total=total+amount;
+            break;
+           }
+
+      }
+      if(c==0)
+     {
+        cout<<"not found"<<endl;
+     }
+
+                cout<<"do you want to order more [y/n]";
+                cin>>ch;
+
+    fp1.close();
+    fp.close();
+
+     }
+    while(ch!='n');
+
+
+        cout<<"**************************************************************************************************************"<<endl;
+        cout<<"************************************************ BILL  *******************************************************"<<endl;
+        cout<<"**************************************************************************************************************"<<endl;
+
+    showbill();
+    ofstream fp1;
+
+    fp1.open("bill.txt",ios::out|ios::binary);
+    fp1.close();
+    cout<<"______________________________________________________________________________________________________________";
+    cout<<"**************************************************************************************************************"<<endl;
+    cout<<"********\t\t\t\t\t\t\t\t TOTAL="<<total<<"\t\t**************"<<endl;
+    cout<<"**************************************************************************************************************"<<endl;
+
+}
+void customer::showbill()
+{
+    customer obj;
+    ifstream fp1;
+fp1.open("bill.txt",ios::in|ios::binary);
+
+    cout<<"\tDISH NAME\t\tPRICE\t\tQTY\t\tAMOUNT"<<endl;
+
+    while(fp1.read((char*)&obj,sizeof(obj)))
+    {
+            cout<<"\t"<<obj.Dish_name<<"\t\t\t"<<obj.price<<"\t\t"<<obj.qty<<"\t\t"<<obj.amount<<endl;
+    }
+
+    fp1.close();
+ }
+
+int main()
+{
+    customer obj;
+    char x;
+    abc :
+    do
+    {
+        cout<<"\t\t\t\t\t\t_________________________";
+        cout<<"\n\t\t\t\t\t\t|xxxxxxxxxxxxxxxxxxxxxxx|"<<endl;
+        cout<<"\t\t\t\t\t\t|xx                   xx|"<<endl;
+        cout<<"\t\t\t\t\t\t|xx      1)Admin      xx|"<<endl;
+        cout<<"\t\t\t\t\t\t|xx      2)customer   xx|"<<endl;
+        cout<<"\t\t\t\t\t\t|xx      0)Exit       xx|"<<endl;
+        cout<<"\t\t\t\t\t\t|xx                   xx|"<<endl;
+        cout<<"\t\t\t\t\t\t|xxxxxxxxxxxxxxxxxxxxxxx|"<<endl;
+        cout<<"\t\t\t\t\t\tselect the menu:-";
+        cin>>x;
+        switch(x)
+        {
+        case '0':
+            break;
+        case '1':
+            system("CLS");
+            obj.Admin();
+            break;
+        case '2':
+            system("CLS");
+            obj.bill();
+            goto abc;
+            break;
+        }
+    }
+    while(x!='0');
+
+}
