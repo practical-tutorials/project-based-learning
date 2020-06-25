@@ -15,7 +15,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Go](#go)
 - [Haskell](#haskell)
 - [HTML/CSS](#html-and-css)
-- [HTML/CSS/JS](#html/css/js)
+- [HTML/CSS/JS](#html-css-js)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
