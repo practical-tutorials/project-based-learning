@@ -202,7 +202,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [A Deep Introduction to Julia for Data Science and Scientific Computing by Chris Rackauckas](https://ucidatascienceinitiative.github.io/IntroToJulia/)
 - [The Julia Express (featuring Julia 1.0) by Bogumił Kamiński](https://github.com/bkamins/The-Julia-Express)
 - [A Comprehensive Tutorial to Learn Data Science with Julia from Scratch by Mohd Sanad Zaki Rizvi](https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/)
-- [Julia language: a concise tutorial by Antonello Lobianco. A basic introduction that includes the main packages.](https://syl1.gitbook.io/julialanguage-a-concise-tutorial/)
+- [Julia language: a concise tutorial by Antonello Lobianco. A basic introduction that includes the main packages.](https://syl1.gitbook.io/julia-language-a-concise-tutorial/)
 
 ## HTML and CSS:
 
