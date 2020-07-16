@@ -461,7 +461,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
 ### Evolutionary Algorithms
 
+- [Introduction to Evolutionary Algorithms](https://medium.com/@MohammedAmer/evolutionary-computation-a-primer-e3ca6fb0db5c)
 - [Evolving Neural Networks](https://towardsdatascience.com/evolving-neural-networks-b24517bb3701)
+- [Genetic Algorithms and Neural Networks](https://www.youtube.com/watch?v=7J-DfS52bnI)
 
 ### Miscellaneous:
 
