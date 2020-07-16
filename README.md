@@ -185,24 +185,24 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 #### Videos
 
--[Intro to Julia (version 1.0) , by Jane Herriman](https://www.youtube.com/watch?v=8h8rQyEpiZA&t)
--[Intro to Julia for data science, by Huda Nassar](https://www.youtube.com/watch?v=SLE0vz85Rqo&feature=youtu.be)
--[Intro to the Queryverse, a Julia data science stack, by David Anthoff](https://www.youtube.com/watch?v=OFPNph-WxLM)
--[Intro to dynamical systems in Julia, by George Datseris](https://www.youtube.com/watch?v=13hqE_1a158)
--[Introducción a Julia en español, by Miguel Raz Guzmán](https://www.youtube.com/watch?v=LbTbs-0pOuc&feature=youtu.be)
--[Intro to JuliaDB, a package for working with large persistent data sets, by Josh Day and Shashi Gowda](https://www.youtube.com/watch?v=d5SzUh2_ono)
--[Intro to solving differential equations in Julia, by Chris Rackauckas](https://www.youtube.com/watch?v=KPEqYtEd-zY)
--[Intro to Julia (version 0.6), by Jane Herriman](https://www.youtube.com/watch?v=4igzy3bGVkQ)
+- [Intro to Julia (version 1.0) , by Jane Herriman](https://www.youtube.com/watch?v=8h8rQyEpiZA&t)
+- [Intro to Julia for data science, by Huda Nassar](https://www.youtube.com/watch?v=SLE0vz85Rqo&feature=youtu.be)
+- [Intro to the Queryverse, a Julia data science stack, by David Anthoff](https://www.youtube.com/watch?v=OFPNph-WxLM)
+- [Intro to dynamical systems in Julia, by George Datseris](https://www.youtube.com/watch?v=13hqE_1a158)
+- [Introducción a Julia en español, by Miguel Raz Guzmán](https://www.youtube.com/watch?v=LbTbs-0pOuc&feature=youtu.be)
+- [Intro to JuliaDB, a package for working with large persistent data sets, by Josh Day and Shashi Gowda](https://www.youtube.com/watch?v=d5SzUh2_ono)
+- [Intro to solving differential equations in Julia, by Chris Rackauckas](https://www.youtube.com/watch?v=KPEqYtEd-zY)
+- [Intro to Julia (version 0.6), by Jane Herriman](https://www.youtube.com/watch?v=4igzy3bGVkQ)
 
 #### Text
 
--[From zero to Julia! by Aurelio Amerio. An expanding series of short tutorials about Julia, starting from the beginner level and going up to deal with the more advanced topics](https://techytok.com/from-zero-to-julia/).
--[Julia Workshop for Physicists by Carsten Bauer (see also JuliaWorkshop19)](https://github.com/crstnbr/JuliaOulu20)
--[ThinkJulia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
--[A Deep Introduction to Julia for Data Science and Scientific Computing by Chris Rackauckas](https://ucidatascienceinitiative.github.io/IntroToJulia/)
--[The Julia Express (featuring Julia 1.0) by Bogumił Kamiński](https://github.com/bkamins/The-Julia-Express)
--[A Comprehensive Tutorial to Learn Data Science with Julia from Scratch by Mohd Sanad Zaki Rizvi](https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/)
--[Julia language: a concise tutorial by Antonello Lobianco. A basic introduction that includes the main packages.](https://syl1.gitbook.io/julialanguage-a-concise-tutorial/)
+- [From zero to Julia! by Aurelio Amerio. An expanding series of short tutorials about Julia, starting from the beginner level and going up to deal with the more advanced topics](https://techytok.com/from-zero-to-julia/).
+- [Julia Workshop for Physicists by Carsten Bauer (see also JuliaWorkshop19)](https://github.com/crstnbr/JuliaOulu20)
+- [ThinkJulia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+- [A Deep Introduction to Julia for Data Science and Scientific Computing by Chris Rackauckas](https://ucidatascienceinitiative.github.io/IntroToJulia/)
+- [The Julia Express (featuring Julia 1.0) by Bogumił Kamiński](https://github.com/bkamins/The-Julia-Express)
+- [A Comprehensive Tutorial to Learn Data Science with Julia from Scratch by Mohd Sanad Zaki Rizvi](https://www.analyticsvidhya.com/blog/2017/10/comprehensive-tutorial-learn-data-science-julia-from-scratch/)
+- [Julia language: a concise tutorial by Antonello Lobianco. A basic introduction that includes the main packages.](https://syl1.gitbook.io/julialanguage-a-concise-tutorial/)
 
 ## HTML and CSS:
 
