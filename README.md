@@ -40,7 +40,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [How to Program an NES Game in C](https://nesdoug.com/)
 - [Write an OS from scratch](https://github.com/tuhdo/os01)
 - [How to create an OS from scratch ](https://github.com/cfenollosa/os-tutorial)
-- [How to Write an Emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+- [Building a CHIP-8 Emulator](https://austinmorlan.com/posts/chip8_emulator/)
 - [Beginning Game Programming with C++ and SDL](http://lazyfoo.net/tutorials/SDL/)
 - [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 - Tiny 3D graphics projects
