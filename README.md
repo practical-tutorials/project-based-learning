@@ -15,7 +15,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Go](#go)
 - [Haskell](#haskell)
 - [HTML/CSS](#html-and-css)
-- [HTML/CSS/JS](#htmlcssjs)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
@@ -189,9 +188,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
 - [Build an HTML Calculator with JS](https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
 - [Build a Personal Website](https://enlight.nyc/projects/build-a-personal-website)
-
-## HTML/CSS/JS
-
 - [Build a To Do List](https://enlight.nyc/projects/to-do)
 - [Build a Quote Generator](https://enlight.nyc/projects/quote)
 - [Build a Text Editor](https://enlight.nyc/projects/text-editor)
