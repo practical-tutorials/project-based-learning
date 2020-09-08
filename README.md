@@ -245,6 +245,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Introduction to Angular](http://www.discoversdk.com/blog/intro-to-angular-and-the-evolution-of-the-web)
   - [Part 1](http://www.discoversdk.com/blog/angular-5-to-do-list-app-part-1)
 
+- Build a [Jira clone application](https://jira.trungk18.com/) with Angular 9
+  - [Part 1 - Create a new repository and set up a new Angular application with CLI](https://trungk18.com/experience/angular-jira-clone-tutorial-01-planning-and-set-up)
+  - [Part 2 - Build the application layout with flex and TailwindCSS](https://trungk18.com/experience/angular-jira-clone-tutorial-02-application-layout-tailwindcss-flex)
+  - [Part 3 - Setup Akita state management](https://trungk18.com/experience/angular-jira-clone-tutorial-03-akita-state-management)
+  - [Part 4 - Build an editable textbox](https://trungk18.com/experience/angular-jira-clone-tutorial-04-editable-textbox)
+
 #### Node:
 
 - [Build A Simple Website With Node,Express and MongoDB](https://closebrace.com/tutorials/2017-03-02/the-dead-simple-step-by-step-guide-for-front-end-developers-to-getting-up-and-running-with-nodejs-express-and-mongodb)
