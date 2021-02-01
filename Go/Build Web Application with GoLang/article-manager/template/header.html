@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <!--Use the title variable to set the title of the page-->
+    <title>{{ .title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+
+    <!--Use bootstrap to make the application look nice-->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css" crossorigin="anonymous">
+    <script async src="https://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="container">
+    <!--Embed the menu.html template at this location-->
+    {{ template "menu.html" . }}
