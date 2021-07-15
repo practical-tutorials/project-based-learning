@@ -485,6 +485,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build the game "Snake" in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
 - [Write yourself a Git](https://wyag.thb.lt/)
 - [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+- [Implementing User Authentication in a Python Application](https://www.loginradius.com/blog/async/guest-post/user-authentication-in-python/)
 
 ## Go:
 
