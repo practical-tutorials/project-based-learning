@@ -25,12 +25,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Swift](#swift)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
 
 - [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
+- [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
 - [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 - [Write a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
@@ -38,7 +40,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [How to Program an NES Game in C](https://nesdoug.com/)
 - [Write an OS from scratch](https://github.com/tuhdo/os01)
 - [How to create an OS from scratch ](https://github.com/cfenollosa/os-tutorial)
-- [How to Write an Emulator (CHIP-8 interpreter)](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+- [Building a CHIP-8 Emulator](https://austinmorlan.com/posts/chip8_emulator/)
 - [Beginning Game Programming with C++ and SDL](http://lazyfoo.net/tutorials/SDL/)
 - [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 - Tiny 3D graphics projects
@@ -150,6 +152,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Twitter Bot with Clojure](http://howistart.org/posts/clojure/1/index.html)
 - [Building a Spell-Checker](https://bernhardwenzel.com/articles/clojure-spellchecker/)
 - [Building a JIRA integration with Clojure & Atlassian Connect](https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807)
+- [Prototyping with Clojure](https://github.com/aliaksandr-s/prototyping-with-clojure)
+- [Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
 
 ## Elixir
 
@@ -186,6 +190,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### Mobile Application:
 
 - [Build a React Native Todo Application](https://egghead.io/courses/build-a-react-native-todo-application)
+- [Build a React Native Application with Redux Thunk](https://medium.com/@alialhaddad/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0)
+
 
 ### Web Applications:
 
@@ -193,7 +199,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Create Serverless React.js Apps](http://serverless-stack.com/)
 - [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
-- [Create a Character Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+- [Create a Character Voting App with React, Node, MongoDB and SocketIO](https://www.zcfy.cc/original/create-a-character-voting-app-using-react-node-js-mongodb-and-socket-io)
 - [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 - [Build a Full Stack Movie Voting App with Test-First Development using Mocha, React, Redux and Immutable](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 - [Build a Twitter Stream with React and Node](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
@@ -214,6 +220,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build an Appointment Scheduler](https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040)
 - [Build A Chat App with Sentiment Analysis](https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643)
 - [Build A Full Stack Web Application Setup](https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708)
+- [Create Todoist clone with React and Firebase](https://www.youtube.com/watch?v=hT3j87FMR6M)
 - Build A Random Quote Machine
   - [Part 1](https://www.youtube.com/watch?v=3QngsWA9IEE)
   - [Part 2](https://www.youtube.com/watch?v=XnoTmO06OYo)
@@ -414,6 +421,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Mutiple Object Tracker](https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/)
 - [Image Stitching with OpenCV and Python](https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/)
 - [Instance Segmentation with OpenCV](https://www.pyimagesearch.com/2018/11/26/instance-segmentation-with-opencv/)
+- [Face mask detector](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
 
 ### Deep Learning:
 
@@ -461,7 +469,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Simple Blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 - [Write a NoSQL Database in Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/)
 - [Building a Gas Pump Scanner with OpenCV/Python/iOS](https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b)
-- [Build a Distributed Streaming System with Python and Kafka](https://scotch.io/tutorials/build-a-distributed-streaming-system-with-apache-kafka-and-python)
+- [Build a Distributed Streaming System with Python and Kafka](https://codequs.com/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python)
 - [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/)
 - Making a low level (Linux) debugger
   - [Part 1](https://blog.asrpo.com/making_a_low_level_debugger)
@@ -476,6 +484,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Create photomosaic art](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/)
 - [Build the game "Snake" in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
 - [Write yourself a Git](https://wyag.thb.lt/)
+- [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 
 ## Go:
 
@@ -483,15 +492,15 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
 - [How to Use Godog for Behavior-driven Development in Go et started with Godog](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go)
 - Building Blockchain in Go
-  - [Part 1: Basic Prototype](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
-  - [Part 2: Proof of Work](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/)
-  - [Part 3: Persistence and CLI](https://jeiwan.cc/posts/building-blockchain-in-go-part-3/)
-  - [Part 4: Transactions 1](https://jeiwan.cc/posts/building-blockchain-in-go-part-4/)
-  - [Part 5: Address](https://jeiwan.cc/posts/building-blockchain-in-go-part-5/)
-  - [Part 6: Transactions 2](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/)
-  - [Part 7: Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
+  - [Part 1: Basic Prototype](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
+  - [Part 2: Proof of Work](https://jeiwan.net/posts/building-blockchain-in-go-part-2/)
+  - [Part 3: Persistence and CLI](https://jeiwan.net/posts/building-blockchain-in-go-part-3/)
+  - [Part 4: Transactions 1](https://jeiwan.net/posts/building-blockchain-in-go-part-4/)
+  - [Part 5: Address](https://jeiwan.net/posts/building-blockchain-in-go-part-5/)
+  - [Part 6: Transactions 2](https://jeiwan.net/posts/building-blockchain-in-go-part-6/)
+  - [Part 7: Network](https://jeiwan.net/posts/building-blockchain-in-go-part-7/)
 - [Build Web Application with GoLang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details)
-- [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=Utf-A4rODH8)
+- [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
 
 ## PHP:
 
@@ -517,6 +526,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Ruby:
 
 - [Build a Network Stack with Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
+- Build your own Redis
+  - [Part 0: Introduction](https://rohitpaulk.com/articles/redis-0)
+  - [Part 1: Barebones TCP Server](https://rohitpaulk.com/articles/redis-1)
+  - [Part 2: PING <-> PONG](https://rohitpaulk.com/articles/redis-2)
+  - [Part 3: Concurrent Clients](https://rohitpaulk.com/articles/redis-3)
+  - [Part 4: ECHO](https://rohitpaulk.com/articles/redis-4)
 
 ### Ruby on Rails:
 
@@ -555,6 +570,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1: Implementing WebSocket. Introduction.](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
   - [Part 2: Sending and Receiving Messages](https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html)
 - [Writing a Rust Roguelike for the Desktop and the Web](https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/)
+
+## Scala:
+- [Simple actor-based blockchain](https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177/)
+- [No Magic: Regular Expressions](https://rcoh.svbtle.com/no-magic-regular-expressions)
 
 ## Swift:
 
