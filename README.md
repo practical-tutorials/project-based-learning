@@ -570,6 +570,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1: Implementing WebSocket. Introduction.](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
   - [Part 2: Sending and Receiving Messages](https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html)
 - [Writing a Rust Roguelike for the Desktop and the Web](https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/)
+- Create a simulation of evolution using neural network and genetic algorithm, and compile the application to WebAssembly
+  - [Part 1](https://pwy.io/en/posts/learning-to-fly-pt1/)
+  - [Part 2](https://pwy.io/en/posts/learning-to-fly-pt2/)
+  - [Part 3](https://pwy.io/en/posts/learning-to-fly-pt3/)
+  - [Part 4](https://pwy.io/en/posts/learning-to-fly-pt4/)
 
 ## Scala:
 - [Simple actor-based blockchain](https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177/)
