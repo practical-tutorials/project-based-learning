@@ -588,6 +588,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Swift:
 
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
+- [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
 
 ## Additional Resources
 
