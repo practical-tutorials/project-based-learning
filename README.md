@@ -501,6 +501,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 7: Network](https://jeiwan.net/posts/building-blockchain-in-go-part-7/)
 - [Build Web Application with GoLang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
+- Let's build a URL shortener in Go - with Gin & Redis
+  - [Part 1](https://www.eddywm.com/lets-build-a-url-shortener-in-go/)
+  - [Part 2](https://www.eddywm.com/lets-build-a-url-shortener-in-go-with-redis-part-2-storage-layer/)
+  - [Part 3](https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-3-short-link-generation/)
+  - [Part 4](https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-iv-forwarding/)
 
 ## PHP:
 
