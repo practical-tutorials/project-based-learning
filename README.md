@@ -357,6 +357,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
 - [Build a RESTful API with Flask – The TDD Way](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
 - [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
+- 
 
 ### Bots:
 
@@ -368,6 +369,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
   - [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
 - [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
+- [Create a chatbot with Telegram API](https://dev.to/tbhaxor/making-telegram-bots-with-python-hid)
 
 ### Data Science:
 
@@ -378,6 +380,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4: Predicting Stock Prices](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
   - [Part 5: Deep Dream in TensorFlow](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
   - [Part 6: Genetic Algorithms](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+  - [part 7: Streamlit for Data visualization](https://www.youtube.com/watch?v=Klqn--Mu2pE)
+  - [part 8: CLimate change analysis](https://www.youtube.com/watch?v=ilw2AnNsbIc)
 
 ### Machine Learning:
 
