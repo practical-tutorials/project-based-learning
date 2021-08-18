@@ -153,6 +153,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building a Spell-Checker](https://bernhardwenzel.com/articles/clojure-spellchecker/)
 - [Building a JIRA integration with Clojure & Atlassian Connect](https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807)
 - [Prototyping with Clojure](https://github.com/aliaksandr-s/prototyping-with-clojure)
+- [Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
 
 ## Elixir
 
@@ -491,15 +492,20 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
 - [How to Use Godog for Behavior-driven Development in Go et started with Godog](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go)
 - Building Blockchain in Go
-  - [Part 1: Basic Prototype](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
-  - [Part 2: Proof of Work](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/)
-  - [Part 3: Persistence and CLI](https://jeiwan.cc/posts/building-blockchain-in-go-part-3/)
-  - [Part 4: Transactions 1](https://jeiwan.cc/posts/building-blockchain-in-go-part-4/)
-  - [Part 5: Address](https://jeiwan.cc/posts/building-blockchain-in-go-part-5/)
-  - [Part 6: Transactions 2](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/)
-  - [Part 7: Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
+  - [Part 1: Basic Prototype](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
+  - [Part 2: Proof of Work](https://jeiwan.net/posts/building-blockchain-in-go-part-2/)
+  - [Part 3: Persistence and CLI](https://jeiwan.net/posts/building-blockchain-in-go-part-3/)
+  - [Part 4: Transactions 1](https://jeiwan.net/posts/building-blockchain-in-go-part-4/)
+  - [Part 5: Address](https://jeiwan.net/posts/building-blockchain-in-go-part-5/)
+  - [Part 6: Transactions 2](https://jeiwan.net/posts/building-blockchain-in-go-part-6/)
+  - [Part 7: Network](https://jeiwan.net/posts/building-blockchain-in-go-part-7/)
 - [Build Web Application with GoLang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 - [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
+- Let's build a URL shortener in Go - with Gin & Redis
+  - [Part 1](https://www.eddywm.com/lets-build-a-url-shortener-in-go/)
+  - [Part 2](https://www.eddywm.com/lets-build-a-url-shortener-in-go-with-redis-part-2-storage-layer/)
+  - [Part 3](https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-3-short-link-generation/)
+  - [Part 4](https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-iv-forwarding/)
 
 ## PHP:
 
@@ -570,6 +576,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 2: Sending and Receiving Messages](https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html)
 - [Writing a Rust Roguelike for the Desktop and the Web](https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/)
 - [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
+- [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/)
+- Create a simulation of evolution using neural network and genetic algorithm, and compile the application to WebAssembly
+  - [Part 1](https://pwy.io/en/posts/learning-to-fly-pt1/)
+  - [Part 2](https://pwy.io/en/posts/learning-to-fly-pt2/)
+  - [Part 3](https://pwy.io/en/posts/learning-to-fly-pt3/)
+  - [Part 4](https://pwy.io/en/posts/learning-to-fly-pt4/)
 
 ## Scala:
 - [Simple actor-based blockchain](https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177/)
@@ -578,6 +590,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Swift:
 
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
+- [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
 
 ## Additional Resources
 
