@@ -499,7 +499,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 5: Address](https://jeiwan.net/posts/building-blockchain-in-go-part-5/)
   - [Part 6: Transactions 2](https://jeiwan.net/posts/building-blockchain-in-go-part-6/)
   - [Part 7: Network](https://jeiwan.net/posts/building-blockchain-in-go-part-7/)
-- [Build Web Application with GoLang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+- [Build Web Application with GoLang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 - [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
 - Let's build a URL shortener in Go - with Gin & Redis
   - [Part 1](https://www.eddywm.com/lets-build-a-url-shortener-in-go/)
