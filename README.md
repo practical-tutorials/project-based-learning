@@ -545,6 +545,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 2: PING <-> PONG](https://rohitpaulk.com/articles/redis-2)
   - [Part 3: Concurrent Clients](https://rohitpaulk.com/articles/redis-3)
   - [Part 4: ECHO](https://rohitpaulk.com/articles/redis-4)
+- [Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
 
 ### Ruby on Rails:
 
