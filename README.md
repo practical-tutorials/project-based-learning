@@ -22,6 +22,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Lua](#lua)
 - [OCaml](#ocaml)
 - [PHP](#php)
+- [Pseudocode](#pseudocode)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
@@ -341,6 +342,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 13: Skill Tree](https://github.com/SSYGEN/blog/issues/27)
   - [Part 14: Console](https://github.com/SSYGEN/blog/issues/28)
   - [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
+
+## Pseudocode
+
+- [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 
 ## Python:
 
