@@ -21,6 +21,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [OCaml](#ocaml)
+- [Pascal](#pascal)
 - [PHP](#php)
 - [Python](#python)
 - [R](#r)
@@ -565,6 +566,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## OCaml:
 
 - [Implement a Language with LLVM in OCaml](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml)
+
+## Pascal
+
+- [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/)
 
 ## Ruby:
 
