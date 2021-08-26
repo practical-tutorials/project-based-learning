@@ -28,4 +28,4 @@ Video resources:
 * If you are not sure that a tutorial would fit in the repository, also ask for a review
 
 
-Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact us at <https://gitter.im/practical-tutorials/community>.
+Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact us at [Gitter](https://gitter.im/practical-tutorials/community).
