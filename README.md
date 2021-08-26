@@ -639,3 +639,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [C Project Based Tutorials](https://github.com/rby90/Project-Based-Tutorials-in-C)
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
+- [CodeCrafters](https://codecrafters.io/)
