@@ -629,6 +629,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Additional Resources
 
 - [React Redux Links](https://github.com/markerikson/react-redux-links)
+- [Udemy.com](https://www.udemy.com/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Node School](https://nodeschool.io/)
 - [ScotchIO](https://scotch.io/)
