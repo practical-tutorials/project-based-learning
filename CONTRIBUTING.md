@@ -6,7 +6,7 @@ Before making a pull request, please make sure of the following:
 * Improvements of the same tutorial are encouraged!
 * The pull request needs to have a descriptive title
 * If the language/technology of your tutorial does not exist, feel free to create a new entry in table of contents
-* Make a separate pull request for each of the tutorial
+* Make a separate pull request for each different project
 * Use the following format `[Title](link_to_tutorial)`
 * If your tutorial is a multi-part series, use the following format:
     ```
@@ -19,4 +19,12 @@ Before making a pull request, please make sure of the following:
 * Remove any trailing whitespaces
 * Links must be pointing straight to the tutorials, no URL shorteners. However, if the URL is too long (more than 80 characters), Google URL Shortener is allowed
 
-Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at <tuvtran97@gmail.com>
+Video resources:
+* Video `[Title(video)](link_to_tutorial)`
+* Video playlist `[Title(video playlist)](link_to_tutorial)`
+
+# For maintainers
+* Don't merge your own pull request, ask for review
+
+
+Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact us at <https://gitter.im/practical-tutorials/community>.
