@@ -508,7 +508,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 5: Address](https://jeiwan.cc/posts/building-blockchain-in-go-part-5/)
   - [Part 6: Transactions 2](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/)
   - [Part 7: Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
-- [Build Web Application with GoLang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+- [Build Web Application with GoLang](https://astaxie.gitbooks.io/build-web-application-with-golang/)
 - [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
   - [Part 1: Basic Prototype](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
   - [Part 2: Proof of Work](https://jeiwan.net/posts/building-blockchain-in-go-part-2/)
