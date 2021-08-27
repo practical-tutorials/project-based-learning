@@ -92,7 +92,15 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 8: Stack unwinding](https://blog.tartanllama.xyz/writing-a-linux-debugger-unwinding/)
   - [Part 9: Handling variables](https://blog.tartanllama.xyz/writing-a-linux-debugger-variables/)
   - [Part 10: Advanced topics](https://blog.tartanllama.xyz/writing-a-linux-debugger-advanced-topics/)
-
+- Let's write a compiler
+  - [Part 1: Introduction, selecting a language, and doing some planning](https://briancallahan.net/blog/20210814.html)
+  - [Part 2: A lexer](https://briancallahan.net/blog/20210815.html)
+  - [Part 3: A parser](https://briancallahan.net/blog/20210816.html)
+  - [Part 4: Testing](https://briancallahan.net/blog/20210817.html)
+  - [Part 5: A code generator](https://briancallahan.net/blog/20210818.html)
+  - [Part 6: Input and output](https://briancallahan.net/blog/20210819.html)
+  - [Part 7: Arrays](https://briancallahan.net/blog/20210822.html)
+  - [Part 8: Strings, forward references, and conclusion](https://briancallahan.net/blog/20210826.html)
 ### Network programming
 
 - Let's Code a TCP/IP Stack
