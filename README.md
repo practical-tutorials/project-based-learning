@@ -110,7 +110,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4 - libuv](https://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv/)
   - [Part 5 - Redis case study](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)
   - [Part 6 - Callbacks, Promises and async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
- 
+
 - MQTT Broker from scratch
   - [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
   - [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
@@ -617,6 +617,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1: Implementing WebSocket. Introduction.](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
   - [Part 2: Sending and Receiving Messages](https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html)
 - [Writing a Rust Roguelike for the Desktop and the Web](https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/)
+- [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 - [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/)
 - Create a simulation of evolution using neural network and genetic algorithm, and compile the application to WebAssembly
   - [Part 1](https://pwy.io/en/posts/learning-to-fly-pt1/)
