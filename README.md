@@ -484,7 +484,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build the game "Snake" in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
 - [Write yourself a Git](https://wyag.thb.lt/)
 - [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
-- [Create a Voice assistant using python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
+- [Create a Voice assistant using Python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
 
 ## Go:
 
