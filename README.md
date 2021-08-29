@@ -512,17 +512,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Create a Real Time Chat App with Golang, Angular 2, and WebSocket](https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
 - [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
-- [How to Use Godog for Behavior-driven Development in Go et started with Godog](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go)
+- [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go)
 - Building Blockchain in Go
-  - [Part 1: Basic Prototype](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
-  - [Part 2: Proof of Work](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/)
-  - [Part 3: Persistence and CLI](https://jeiwan.cc/posts/building-blockchain-in-go-part-3/)
-  - [Part 4: Transactions 1](https://jeiwan.cc/posts/building-blockchain-in-go-part-4/)
-  - [Part 5: Address](https://jeiwan.cc/posts/building-blockchain-in-go-part-5/)
-  - [Part 6: Transactions 2](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/)
-  - [Part 7: Network](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)
-- [Build Web Application with GoLang](https://astaxie.gitbooks.io/build-web-application-with-golang/)
-- [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
   - [Part 1: Basic Prototype](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
   - [Part 2: Proof of Work](https://jeiwan.net/posts/building-blockchain-in-go-part-2/)
   - [Part 3: Persistence and CLI](https://jeiwan.net/posts/building-blockchain-in-go-part-3/)
@@ -530,8 +521,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 5: Address](https://jeiwan.net/posts/building-blockchain-in-go-part-5/)
   - [Part 6: Transactions 2](https://jeiwan.net/posts/building-blockchain-in-go-part-6/)
   - [Part 7: Network](https://jeiwan.net/posts/building-blockchain-in-go-part-7/)
+- [Building a container from scratch in Go - Liz Rice (Microscaling Systems)(video)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
 - [Build Web Application with GoLang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
-- [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
 - Building a Chat Application in Go with ReactJS
   - [Part 1: Initial Setup](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-1-initial-setup/)
   - [Part 2: Simple Communication](https://tutorialedge.net/projects/chat-system-in-go-and-react/part-2-simple-communication/)
@@ -549,10 +540,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6 - authentication](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-6-authentication/)
   - [Part 7 - GraphQL](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-7-graphql/)
 - Let's build a URL shortener in Go - with Gin & Redis
-  - [Part 1](https://www.eddywm.com/lets-build-a-url-shortener-in-go/)
-  - [Part 2](https://www.eddywm.com/lets-build-a-url-shortener-in-go-with-redis-part-2-storage-layer/)
-  - [Part 3](https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-3-short-link-generation/)
-  - [Part 4](https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-iv-forwarding/)
+  - [Part 1 - Project setup](https://www.eddywm.com/lets-build-a-url-shortener-in-go/)
+  - [Part 2 - Storage Layer](https://www.eddywm.com/lets-build-a-url-shortener-in-go-with-redis-part-2-storage-layer/)
+  - [Part 3 - Short Link Generator](https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-3-short-link-generation/)
+  - [Part 4 - Forwarding](https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-iv-forwarding/)
 
 ## PHP:
 
