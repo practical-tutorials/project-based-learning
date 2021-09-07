@@ -101,6 +101,20 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6: Input and output](https://briancallahan.net/blog/20210819.html)
   - [Part 7: Arrays](https://briancallahan.net/blog/20210822.html)
   - [Part 8: Strings, forward references, and conclusion](https://briancallahan.net/blog/20210826.html)
+- Arduino
+  - [Part 1: Getting Started - Download and installation.](https://www.arduino.cc/en/Guide)
+  - [Part 2: Digital Write - LED Blink.](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink)
+  - [Part 3: Digital Read - Reading a switch state and print in the serial port.](https://www.arduino.cc/en/Tutorial/BuiltInExamples/DigitalReadSerial)
+  - [Part 4: Internal Pullup - Learn how to enable internal pull-up resistors](https://www.arduino.cc/en/Tutorial/BuiltInExamples/InputPullupSerial)
+  - [Part 5: Debounce - Reading a switch, filtering noise.](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Debounce)
+  - [Part 6: Analog Read - Read the value of a potentiometer and print the result in the serial port](https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogReadSerial)
+  - [Part 7: Analog Read/Write - LED dimmering according to a potentiometer reading](https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInOutSerial)
+  - [Part 8: Analog Input Calibration - Learn how to define analog reading range](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Calibration)
+  - [Part 9: PWM - Control LED brightness from an analog output](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Fading)
+  - [Part 10: Serial Input - Read ASCII commands from serial port](https://www.arduino.cc/en/Tutorial/BuiltInExamples/ReadASCIIString)
+  - [Part 11: Serial Output - Send ASCII commands via serial port](https://www.arduino.cc/en/Tutorial/BuiltInExamples/ASCIITable)
+  - [Part 12: Serial Event - Demonstrates how to use serial events](https://www.arduino.cc/en/Tutorial/BuiltInExamples/SerialEvent) 
+  
 ### Network programming
 
 - Let's Code a TCP/IP Stack
