@@ -2,6 +2,10 @@
 
 Before making a pull request, please make sure of the following:
 * The tutorial(s) you want to add do not already exist
+* ssaci cimo cimo cimo
+* sacimo tacinmi
+* kono to talageee
+* ciccicimo ccio
 * Your tutorial is correctly placed under the appropriate language/technology
 * Improvements of the same tutorial are encouraged!
 * The pull request needs to have a descriptive title
