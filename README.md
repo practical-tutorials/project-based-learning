@@ -192,6 +192,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
 - [Build a TicTacToe Game with JavaScript](https://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
+- [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
 
 ## HTML and CSS:
 
