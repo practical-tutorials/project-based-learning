@@ -546,6 +546,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 3 - Short Link Generator](https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-3-short-link-generation/)
   - [Part 4 - Forwarding](https://www.eddywm.com/lets-build-a-url-shortener-in-go-part-iv-forwarding/)
 - [Building a TCP Chat in Go(video)](https://www.youtube.com/watch?v=Sphme0BqJiY)
+- [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 
 ## PHP:
 
