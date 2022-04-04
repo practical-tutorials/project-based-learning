@@ -28,6 +28,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
+- [Blockchain/Web3.0](#blockchainweb3)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -634,6 +635,15 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 - [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
+
+## Blockchain/Web3:
+
+- [Introduction to Web3 and Blockchain](https://www.odysseydao.com/pathways/intro-to-web3)
+- [Learn Solidity](https://cryptozombies.io/en/course/)
+- [Build a Smart Contract](https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/)
+- [Everything about NFTs](https://nftschool.dev/)
+- [Build a crowdfunding DApp](https://bit.ly/35DF6mh)
+- [Build a decentralized voting system](https://bit.ly/3Jae43o)
 
 ## Additional Resources
 
