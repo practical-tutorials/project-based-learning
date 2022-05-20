@@ -28,6 +28,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
+- [Solidity](#solidity)
 - [Swift](#swift)
 - [Additional resources](#additional-resources)
 
@@ -621,6 +622,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Simple actor-based blockchain](https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177/)
 - [No Magic: Regular Expressions](https://rcoh.svbtle.com/no-magic-regular-expressions)
+
+## Solidity:
+
+- [An Effective Way To Build Your Own Oracle With Solidity](https://noahliechti.hashnode.dev/an-effective-way-to-build-your-own-oracle-with-solidity)
 
 ## Swift:
 
