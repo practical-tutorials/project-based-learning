@@ -625,7 +625,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Solidity:
 
-- [An Effective Way To Build Your Own Oracle With Solidity](https://noahliechti.hashnode.dev/an-effective-way-to-build-your-own-oracle-with-solidity)
+- [An effective way to build your own oracle with Solidity](https://noahliechti.hashnode.dev/an-effective-way-to-build-your-own-oracle-with-solidity)
 
 ## Swift:
 
