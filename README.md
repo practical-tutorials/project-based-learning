@@ -475,7 +475,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
 - [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
 - [Mask detection using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
-
+- [Train Your Deep Learning Model in a Distributed Fashion Step by Step](https://colossalai.org/docs/get_started/installation)
 ### Miscellaneous:
 
 - [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
