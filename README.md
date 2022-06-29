@@ -158,6 +158,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
 - [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
 - [Building the CoreWiki](https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p) This is a Wiki-style content management system that has been completely written in C# with ASP.NET Core and Razor Pages. You can find the source code [here](https://github.com/csharpfritz/CoreWiki).
+- [Let's Learn .NET: .NET MAUI](https://docs.microsoft.com/en-us/shows/lets-learn-dotnet/lets-learn-dotnet-dotnet-maui) Microsoft's LiveTV episode about .NET **M**ulti-Platform **A**pplication **UI** (described in the main repo as "the evolution of Xamarin.Forms") also links to two microsoft learn courses showing how to set up visual studio and make a hello world program and customize the application's UI by editing XAML files.
+- [.NET MAUI - Workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop) a 4 hour workshop developing an example application that "display a list of Monkeys from around the world", from start to finish, using C#, .NET MAUI and XAML. It has source code and written instructions for all steps and can also be followed on video on James Montemagno's channel (also linked on the repo)
 
 ## Clojure:
 
