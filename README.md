@@ -378,7 +378,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
   - [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
 - [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
-- [Build a Personal Assistaant-Your own JARVIS](https://github.com/psmithulsourav/Python-J-A-R-V-I-S)
+- [Build a Personal Assistant-Your own JARVIS](https://github.com/psmithulsourav/Python-J-A-R-V-I-S)
 ### Data Science:
 
 - Learn Python For Data Science by Doing Several Projects (video):
