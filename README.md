@@ -321,6 +321,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Kotlin:
 
 - [Keddit - Learn Kotlin While Developing an Android Application](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+- [Kotlin Basics Course - Build an App](https://developer.android.com/courses/android-basics-kotlin/course)
 
 ## Lua:
 
@@ -476,6 +477,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
 - [Mask detection using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
 
+### Quantum Computing:
+
+- [Getting started with Quantum Comuting with Qiskit](https://qiskit.org/documentation/getting_started.html)
+- [Create your First Quantum Circuit on IBM](https://quantum-computing.ibm.com/composer/docs/iqx/first-circuit)
+
 ### Miscellaneous:
 
 - [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
@@ -582,7 +588,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Haskell:
 
-- [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
+- [Write You a Haskell - Build a Modern Functional Compiler](http://dev.stephendiehl.com/fun/)
 - [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [Write You A Scheme, Version 2](https://github.com/write-you-a-scheme-v2/scheme)
 - [Roll Your Own IRC Bot](https://wiki.haskell.org/Roll_your_own_IRC_bot)
@@ -641,3 +647,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
+- [W3Schools](https://www.w3schools.com/)
