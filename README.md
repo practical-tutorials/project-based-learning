@@ -30,6 +30,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Scala](#scala)
 - [Swift](#swift)
 - [Additional resources](#additional-resources)
+- [Youtube Channels](https://github.com/practical-tutorials/project-based-learning/edit/master/README.md#youtube-channels)
 
 ## C/C++:
 
@@ -641,3 +642,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
+
+## Youtube Channels
+ - [Python Simplified](https://www.youtube.com/c/PythonSimplified)
+ - [Dev-Ed](https://www.youtube.com/c/DevEd)
+ - [Kalle Hallden](https://www.youtube.com/c/KalleHallden)
+ - [Python Programmer](https://www.youtube.com/c/FlickThrough)
+ - [Google Cloud Tech](https://www.youtube.com/user/googlecloudplatform)
