@@ -11,3 +11,4 @@ jobs:
         uses: TechWiz-3/linksafe@main
         with: # comma seperated lists
           verbose: true
+          whitelist_links: "https://learnopengl.com/In-Practice,https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/,https://semaphoreci.com/community/tutorials/"
