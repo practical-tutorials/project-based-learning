@@ -71,7 +71,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 7: Compound Statements](https://norasandler.com/2018/03/14/Write-a-Compiler-7.html)
   - [Part 8: Loops](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
   - [Part 9: Functions](https://norasandler.com/2018/06/27/Write-a-Compiler-9.html)
-  - [Part 9: Recursion](https://norasandler.com/2018/06/27/Write-a-Compiler-9.html)
+  - [Part 9.1: Recursion](https://norasandler.com/2018/06/27/Write-a-Compiler-9.html)
   - [Part 10: Global Variables](https://norasandler.com/2019/02/18/Write-a-Compiler-10.html)
 - [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
 - [Meta Crush Saga: a C++17 compile-time game](https://jguegant.github.io//jguegant.github.io/blogs/tech/meta-crush-saga.html)
