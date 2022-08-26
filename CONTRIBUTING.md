@@ -1,10 +1,10 @@
 # Contribution guidelines
 
 Before making a pull request, please make sure of the following:
-* The tutorial(s) you want to add do not already exist
-* Your tutorial is correctly placed under the appropriate language/technology
+* The tutorial(s) you want to add do not already exist.
+* Your tutorial is correctly placed under the appropriate language/technology.
 * Improvements of the same tutorial are encouraged!
-* The pull request needs to have a descriptive title
+* The pull request needs to have a descriptive title.
 * If the language/technology of your tutorial does not exist, feel free to create a new entry in table of contents
 * Make a separate pull request for each of the tutorial
 * Use the following format `[Title](link_to_tutorial)`
