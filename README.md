@@ -172,15 +172,18 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Flutter:
 
-- [Build a Full Stack Instagram Clone](https://youtu.be/mEPm9w5QlJM)
-- [Facebook Clone Responsive UI](https://youtu.be/HvLb5gdUfDE)
-- [Build a Full Stack Amazon Clone with Admin Panel](https://youtu.be/O3nmP-lZAdg)
-- [Build Full Stack TikTok Clone](https://youtu.be/4E4V9F3cbp4)
-- [Wordle Clone](https://youtu.be/_W0RN_Cqhpg)
-- [Build Twitch Clone with Flutter, Firebase & Agora](https://youtu.be/U9YKZrDX0CQ)
-- [Google Docs Clone with Flutter & Appwrite](https://youtu.be/0_GJ1w_iG44)
+- [Amazon Clone with Admin Panel](https://youtu.be/O3nmP-lZAdg)
+- [Food Delivery App](https://youtu.be/7dAt-JMSCVQ)
+- [Google Docs Clone](https://youtu.be/0_GJ1w_iG44)
+- [Instagram Clone](https://youtu.be/mEPm9w5QlJM)
 - [Multiplayer TicTacToe Game](https://youtu.be/Aut-wfXacXg)
-- [Wallet App UI](https://youtu.be/Nx3iQwh1Wes)
+- [TikTok Clone](https://youtu.be/4E4V9F3cbp4)
+- [Ticket Booking App](https://youtu.be/71AsYo2q_0Y)
+- [Travel App](https://youtu.be/x4DydJKVvQk)
+- [Twitch Clone](https://youtu.be/U9YKZrDX0CQ)
+- [WhatsApp Clone](https://youtu.be/yqwfP2vXWJQ)
+- [Wordle Clone](https://youtu.be/_W0RN_Cqhpg)
+- [Zoom Clone](https://youtu.be/sMA1dKbv33Y)
 
 ## Elixir
 
@@ -389,7 +392,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4](https://danidee10.github.io/2018/01/10/realtime-django-4.html)
   - [Part 5](https://danidee10.github.io/2018/01/13/realtime-django-5.html)
   - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
-
 
 ### Bots:
 
