@@ -11,6 +11,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [C#](#c)
 - [C/C++](#cc)
 - [Clojure](#clojure)
+- [Dart](#dart)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
 - [F#](#f)
@@ -166,6 +167,23 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building a JIRA integration with Clojure & Atlassian Connect](https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807)
 - [Prototyping with Clojure](https://github.com/aliaksandr-s/prototyping-with-clojure)
 - [Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
+
+## Dart:
+
+### Flutter:
+
+- [Amazon Clone with Admin Panel](https://youtu.be/O3nmP-lZAdg)
+- [Food Delivery App](https://youtu.be/7dAt-JMSCVQ)
+- [Google Docs Clone](https://youtu.be/0_GJ1w_iG44)
+- [Instagram Clone](https://youtu.be/mEPm9w5QlJM)
+- [Multiplayer TicTacToe Game](https://youtu.be/Aut-wfXacXg)
+- [TikTok Clone](https://youtu.be/4E4V9F3cbp4)
+- [Ticket Booking App](https://youtu.be/71AsYo2q_0Y)
+- [Travel App](https://youtu.be/x4DydJKVvQk)
+- [Twitch Clone](https://youtu.be/U9YKZrDX0CQ)
+- [WhatsApp Clone](https://youtu.be/yqwfP2vXWJQ)
+- [Wordle Clone](https://youtu.be/_W0RN_Cqhpg)
+- [Zoom Clone](https://youtu.be/sMA1dKbv33Y)
 
 ## Elixir
 
@@ -374,7 +392,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4](https://danidee10.github.io/2018/01/10/realtime-django-4.html)
   - [Part 5](https://danidee10.github.io/2018/01/13/realtime-django-5.html)
   - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
-
 
 ### Bots:
 
