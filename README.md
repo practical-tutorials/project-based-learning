@@ -617,7 +617,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## R:
 
 - [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
-- [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
+- [Build A Cryptocurrency Bot](https://randerson112358.medium.com/create-a-cryptocurrency-trading-bot-in-r-54a445136408)
 - [Learn Associate Rule Mining in R](https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50)
 
 ## Rust:
