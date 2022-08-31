@@ -11,6 +11,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [C#](#c)
 - [C/C++](#cc)
 - [Clojure](#clojure)
+- [Dart](#dart)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
 - [F#](#f)
@@ -165,6 +166,23 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Prototyping with Clojure](https://github.com/aliaksandr-s/prototyping-with-clojure)
 - [Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
 
+## Dart:
+
+### Flutter:
+
+- [Amazon Clone with Admin Panel](https://youtu.be/O3nmP-lZAdg)
+- [Food Delivery App](https://youtu.be/7dAt-JMSCVQ)
+- [Google Docs Clone](https://youtu.be/0_GJ1w_iG44)
+- [Instagram Clone](https://youtu.be/mEPm9w5QlJM)
+- [Multiplayer TicTacToe Game](https://youtu.be/Aut-wfXacXg)
+- [TikTok Clone](https://youtu.be/4E4V9F3cbp4)
+- [Ticket Booking App](https://youtu.be/71AsYo2q_0Y)
+- [Travel App](https://youtu.be/x4DydJKVvQk)
+- [Twitch Clone](https://youtu.be/U9YKZrDX0CQ)
+- [WhatsApp Clone](https://youtu.be/yqwfP2vXWJQ)
+- [Wordle Clone](https://youtu.be/_W0RN_Cqhpg)
+- [Zoom Clone](https://youtu.be/sMA1dKbv33Y)
+
 ## Elixir
 
 - [Building a Simple Chat App With Elixir and Phoenix](https://sheharyar.me/blog/simple-chat-phoenix-elixir/)
@@ -184,7 +202,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 4-13 is written in Java)
 - [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
 - [Build an Android Flashlight App](https://www.youtube.com/watch?v=dhWL4DC7Krs) (video)
-- [Build a Spring Boot App with User Authentication](https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication)
+- [Build a Spring Boot App with User Authentication](https://spring.io/guides/gs/securing-web/)
 
 ## JavaScript:
 
@@ -365,6 +383,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - Build a Community-driven delivery application with Django, Postgres and JavaScript
   - [Part 1](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/)
   - [Part 2](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2/)
+- Realtime Chat application with Vue, django-notifs, RabbitMQ and uWSGI
+  - [Part 1](https://danidee10.github.io/2018/01/01/realtime-django-1.html)
+  - [Part 2](https://danidee10.github.io/2018/01/03/realtime-django-2.html)
+  - [Part 3](https://danidee10.github.io/2018/01/07/realtime-django-3.html)
+  - [Part 4](https://danidee10.github.io/2018/01/10/realtime-django-4.html)
+  - [Part 5](https://danidee10.github.io/2018/01/13/realtime-django-5.html)
+  - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
 
 ### Bots:
 
