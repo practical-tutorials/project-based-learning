@@ -429,6 +429,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Using BOW, TFIDF and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-bow-tfidf-and-random-forest-c54ad88d1370)
   - [Using Word2Vec and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d)
 - [Detecting Fake News with Python and Machine Learning](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
+- [Machine Learning - Andrew Ng, Stanford University Full Course](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 ### OpenCV:
 
@@ -666,3 +667,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
+- [Real Python](https://realpython.com/start-here/)
