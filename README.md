@@ -501,6 +501,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
 - [Mask detection using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
 
+### Desktop Application:
+
+- [Multimedia playlist and player in Python, using PyQt](https://www.pythonguis.com/examples/python-multimedia-player)
+
 ### Miscellaneous:
 
 - [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
