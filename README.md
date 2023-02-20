@@ -363,6 +363,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
 
 ## Python:
+- [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)
 
 ### Web Scraping:
 
