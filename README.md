@@ -184,6 +184,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [WhatsApp Clone](https://youtu.be/yqwfP2vXWJQ)
 - [Wordle Clone](https://youtu.be/_W0RN_Cqhpg)
 - [Zoom Clone](https://youtu.be/sMA1dKbv33Y)
+- [Netflix Clone](https://youtu.be/J8IFNKzs3TI)
 
 ## Elixir
 
