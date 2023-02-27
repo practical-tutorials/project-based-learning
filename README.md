@@ -1,6 +1,7 @@
 # Project Based Learning
 
 [![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![GitHub stars](https://img.shields.io/github/stars/practical-tutorials/project-based-learning.svg?style=flat-square)](https://github.com/practical-tutorials/project-based-learning) 
 
 A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
@@ -666,3 +667,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=practical-tutorials/project-based-learning&type=Timeline)](https://star-history.com/#practical-tutorials/project-based-learning&Timeline)
