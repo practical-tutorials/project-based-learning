@@ -291,6 +291,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - How to build your own Uber-for-X App using JavaScript, Node.JS, MongoDB and Web Sockets
   - [Part 1](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app/)
   - [Part 2](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app-part-2/)
+- [Google Sheets API Integration with Node.JS,JavaScript, MongoDB, Express ]
+  - [Part 1] (https://medium.com/@chidinma242/google-sheets-api-integration-with-node-js-aaafe14aa635)
+  - [Part 2] (https://medium.com/@chidinma242/google-sheets-api-integration-with-node-js-part-two-2-f3556a92f7d4)
 
 #### Vue
 
