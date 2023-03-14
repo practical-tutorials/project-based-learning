@@ -416,6 +416,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Machine Learning:
 
+- [Machine learning algorithms playlist](https://www.youtube.com/watch?v=NUXdtN1W1FE&list=PLEiEAq2VkUULNa6MHQAZSOBxzB6HHFXj4) (video)
 - [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM) (video)
 - [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 - [Predict Quality Of Wine](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
