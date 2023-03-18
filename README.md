@@ -230,6 +230,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 #### React:
 
+- [Building single page applications with ReactJS that use REST APIs built with Node.js.](https://fullstackopen.com/en/)
 - [Create Serverless React.js Apps](http://serverless-stack.com/)
 - [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
 - [Create a Character Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio)
