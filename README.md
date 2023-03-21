@@ -293,6 +293,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - How to build your own Uber-for-X App using JavaScript, Node.JS, MongoDB and Web Sockets
   - [Part 1](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app/)
   - [Part 2](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app-part-2/)
+- [Build a UserService with Microservice architecture using Node, Express framework and Mongodb database]
 
 #### Vue
 
