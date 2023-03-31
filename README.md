@@ -7,7 +7,7 @@ A list of programming tutorials in which aspiring software developers learn how 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## Table of Contents:
-
+- [Assembly](#Assembly)
 - [C#](#c)
 - [C/C++](#cc)
 - [Clojure](#clojure)
@@ -99,11 +99,21 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1: Introduction, selecting a language, and doing some planning](https://briancallahan.net/blog/20210814.html)
   - [Part 2: A lexer](https://briancallahan.net/blog/20210815.html)
   - [Part 3: A parser](https://briancallahan.net/blog/20210816.html)
-  - [Part 4: Testing](https://briancallahan.net/blog/20210817.html)
+  - [Part 4: Testing](https://brRiancallahan.net/blog/20210817.html)
   - [Part 5: A code generator](https://briancallahan.net/blog/20210818.html)
   - [Part 6: Input and output](https://briancallahan.net/blog/20210819.html)
   - [Part 7: Arrays](https://briancallahan.net/blog/20210822.html)
   - [Part 8: Strings, forward references, and conclusion](https://briancallahan.net/blog/20210826.html)
+
+## Assembly:
+- [Learn basics of Assembly](https://github.com/D-Sensei/ASM/tree/main/Basics)
+-Projects
+  - [Build a Calculator](https://github.com/D-Sensei/ASM/tree/main/Calculator)
+  - [Create a Parking Mangement system](https://github.com/D-Sensei/ASM/tree/main/Parking-Management-System)
+  - [Build a Ticktactoe game](https://github.com/D-Sensei/ASM/tree/main/Ticktactoe)
+  - [Digital Clock](https://github.com/D-Sensei/ASM/tree/main/digital-lock)
+- [Resource/Books](https://github.com/D-Sensei/ASM/blob/main/Resources/Books.md)
+
 
 ### Network programming
 
@@ -152,6 +162,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Final thoughts](https://learnopengl.com/In-Practice/2D-Game/Final-thoughts)
 - [Handmade Hero](https://handmadehero.org)
 - [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) (video)
+
 
 ## C#:
 
