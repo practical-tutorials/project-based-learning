@@ -107,7 +107,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Assembly:
 - [Learn basics of Assembly](https://github.com/D-Sensei/ASM/tree/main/Basics)
--Projects
+- Projects
   - [Build a Calculator](https://github.com/D-Sensei/ASM/tree/main/Calculator)
   - [Create a Parking Mangement system](https://github.com/D-Sensei/ASM/tree/main/Parking-Management-System)
   - [Build a Ticktactoe game](https://github.com/D-Sensei/ASM/tree/main/Ticktactoe)
