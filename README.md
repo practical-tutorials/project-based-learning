@@ -113,6 +113,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Build a Ticktactoe game](https://github.com/D-Sensei/ASM/tree/main/Ticktactoe)
   - [Digital Clock](https://github.com/D-Sensei/ASM/tree/main/digital-lock)
 - [Resource/Books](https://github.com/D-Sensei/ASM/blob/main/Resources/Books.md)
+- [Installations](https://github.com/D-Sensei/ASM/blob/main/README.md)
 
 
 ### Network programming
