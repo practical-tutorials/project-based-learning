@@ -32,6 +32,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Swift](#swift)
 - [Additional resources](#additional-resources)
 
+## C#:
+
+- [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
+- [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
+- [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
+- [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
+- [Building the CoreWiki](https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p) This is a Wiki-style content management system that has been completely written in C# with ASP.NET Core and Razor Pages. You can find the source code [here](https://github.com/csharpfritz/CoreWiki).
+
 ## C/C++:
 
 - [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
@@ -105,61 +113,53 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 7: Arrays](https://briancallahan.net/blog/20210822.html)
   - [Part 8: Strings, forward references, and conclusion](https://briancallahan.net/blog/20210826.html)
 
-### Network programming
+  ### Network programming
 
-- Let's Code a TCP/IP Stack
+  - Let's Code a TCP/IP Stack
 
-  - [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
-  - [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
-  - [Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
-  - [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
-  - [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
+    - [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+    - [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
+    - [Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
+    - [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
+    - [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 
-- Programming concurrent servers
+  - Programming concurrent servers
 
-  - [Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
-  - [Part 2 - Threads](https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/)
-  - [Part 3 - Event-driven](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)
-  - [Part 4 - libuv](https://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv/)
-  - [Part 5 - Redis case study](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)
-  - [Part 6 - Callbacks, Promises and async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
+    - [Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
+    - [Part 2 - Threads](https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/)
+    - [Part 3 - Event-driven](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)
+    - [Part 4 - libuv](https://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv/)
+    - [Part 5 - Redis case study](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)
+    - [Part 6 - Callbacks, Promises and async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
 
-- MQTT Broker from scratch
-  - [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
-  - [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
-  - [Part 3 - Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)
-  - [Part 4 - Data structures](https://codepr.github.io/posts/sol-mqtt-broker-p4)
-  - [Part 5 - Topic abstraction](https://codepr.github.io/posts/sol-mqtt-broker-p5)
-  - [Part 6 - Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)
-  - [Bonus - Multithreading](https://codepr.github.io/posts/sol-mqtt-broker-bonus)
+  - MQTT Broker from scratch
+    - [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
+    - [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
+    - [Part 3 - Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)
+    - [Part 4 - Data structures](https://codepr.github.io/posts/sol-mqtt-broker-p4)
+    - [Part 5 - Topic abstraction](https://codepr.github.io/posts/sol-mqtt-broker-p5)
+    - [Part 6 - Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)
+    - [Bonus - Multithreading](https://codepr.github.io/posts/sol-mqtt-broker-bonus)
 
-### OpenGL:
+  ### OpenGL:
 
-- Creating 2D Breakout game clone in C++ with OpenGL
-  - [Breakout](https://learnopengl.com/In-Practice/2D-Game/Breakout)
-  - [Setting up](https://learnopengl.com/In-Practice/2D-Game/Setting-up)
-  - [Rendering Sprites](https://learnopengl.com/In-Practice/2D-Game/Rendering-Sprites)
-  - [Levels](https://learnopengl.com/In-Practice/2D-Game/Levels)
-  - Collisions
-    - [Ball](https://learnopengl.com/In-Practice/2D-Game/Collisions/Ball)
-    - [Collision detection](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection)
-    - [Collision resolution](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-resolution)
-  - [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles)
-  - [Postprocessing](https://learnopengl.com/In-Practice/2D-Game/Postprocessing)
-  - [Powerups](https://learnopengl.com/In-Practice/2D-Game/Powerups)
-  - [Audio](https://learnopengl.com/In-Practice/2D-Game/Audio)
-  - [Render text](https://learnopengl.com/In-Practice/2D-Game/Render-text)
-  - [Final thoughts](https://learnopengl.com/In-Practice/2D-Game/Final-thoughts)
-- [Handmade Hero](https://handmadehero.org)
-- [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) (video)
-
-## C#:
-
-- [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
-- [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
-- [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
-- [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
-- [Building the CoreWiki](https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p) This is a Wiki-style content management system that has been completely written in C# with ASP.NET Core and Razor Pages. You can find the source code [here](https://github.com/csharpfritz/CoreWiki).
+  - Creating 2D Breakout game clone in C++ with OpenGL
+    - [Breakout](https://learnopengl.com/In-Practice/2D-Game/Breakout)
+    - [Setting up](https://learnopengl.com/In-Practice/2D-Game/Setting-up)
+    - [Rendering Sprites](https://learnopengl.com/In-Practice/2D-Game/Rendering-Sprites)
+    - [Levels](https://learnopengl.com/In-Practice/2D-Game/Levels)
+    - Collisions
+      - [Ball](https://learnopengl.com/In-Practice/2D-Game/Collisions/Ball)
+      - [Collision detection](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection)
+      - [Collision resolution](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-resolution)
+    - [Particles](https://learnopengl.com/In-Practice/2D-Game/Particles)
+    - [Postprocessing](https://learnopengl.com/In-Practice/2D-Game/Postprocessing)
+    - [Powerups](https://learnopengl.com/In-Practice/2D-Game/Powerups)
+    - [Audio](https://learnopengl.com/In-Practice/2D-Game/Audio)
+    - [Render text](https://learnopengl.com/In-Practice/2D-Game/Render-text)
+    - [Final thoughts](https://learnopengl.com/In-Practice/2D-Game/Final-thoughts)
+  - [Handmade Hero](https://handmadehero.org)
+  - [How to Make Minecraft in C++/OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) (video)
 
 ## Clojure:
 
@@ -171,21 +171,21 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Dart:
 
-### Flutter:
+  ### Flutter:
 
-- [Amazon Clone with Admin Panel](https://youtu.be/O3nmP-lZAdg)
-- [Food Delivery App](https://youtu.be/7dAt-JMSCVQ)
-- [Google Docs Clone](https://youtu.be/0_GJ1w_iG44)
-- [Instagram Clone](https://youtu.be/mEPm9w5QlJM)
-- [Multiplayer TicTacToe Game](https://youtu.be/Aut-wfXacXg)
-- [TikTok Clone](https://youtu.be/4E4V9F3cbp4)
-- [Ticket Booking App](https://youtu.be/71AsYo2q_0Y)
-- [Travel App](https://youtu.be/x4DydJKVvQk)
-- [Twitch Clone](https://youtu.be/U9YKZrDX0CQ)
-- [WhatsApp Clone](https://youtu.be/yqwfP2vXWJQ)
-- [Wordle Clone](https://youtu.be/_W0RN_Cqhpg)
-- [Zoom Clone](https://youtu.be/sMA1dKbv33Y)
-- [Netflix Clone](https://youtu.be/J8IFNKzs3TI)
+  - [Amazon Clone with Admin Panel](https://youtu.be/O3nmP-lZAdg)
+  - [Food Delivery App](https://youtu.be/7dAt-JMSCVQ)
+  - [Google Docs Clone](https://youtu.be/0_GJ1w_iG44)
+  - [Instagram Clone](https://youtu.be/mEPm9w5QlJM)
+  - [Multiplayer TicTacToe Game](https://youtu.be/Aut-wfXacXg)
+  - [TikTok Clone](https://youtu.be/4E4V9F3cbp4)
+  - [Ticket Booking App](https://youtu.be/71AsYo2q_0Y)
+  - [Travel App](https://youtu.be/x4DydJKVvQk)
+  - [Twitch Clone](https://youtu.be/U9YKZrDX0CQ)
+  - [WhatsApp Clone](https://youtu.be/yqwfP2vXWJQ)
+  - [Wordle Clone](https://youtu.be/_W0RN_Cqhpg)
+  - [Zoom Clone](https://youtu.be/sMA1dKbv33Y)
+  - [Netflix Clone](https://youtu.be/J8IFNKzs3TI)
 
 ## Elixir
 
@@ -200,332 +200,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## F#:
 
 - [Write your own Excel in 100 lines of F#](http://tomasp.net/blog/2018/write-your-own-excel)
-
-## Java:
-
-- [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 4-13 is written in Java)
-- [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
-- [Build an Android Flashlight App](https://www.youtube.com/watch?v=dhWL4DC7Krs) (video)
-- [Build a Spring Boot App with User Authentication](https://spring.io/guides/gs/securing-web/)
-
-## JavaScript:
-
-- [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
-- [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
-- [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
-- [Build a TicTacToe Game with JavaScript](https://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc)
-- [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
-- [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
-
-## HTML and CSS:
-
-- [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
-- [Build an HTML Calculator with JS](https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
-- [Build Snake using only JavaScript, HTML & CSS](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/)
-
-### Mobile Application:
-
-- [Build a React Native Todo Application](https://egghead.io/courses/build-a-react-native-todo-application)
-- [Build a React Native Application with Redux Thunk](https://medium.com/@alialhaddad/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0)
-
-### Web Applications:
-
-#### React:
-
-- [Create Serverless React.js Apps](http://serverless-stack.com/)
-- [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
-- [Create a Character Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio)
-- [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
-- [Build a Full Stack Movie Voting App with Test-First Development using Mocha, React, Redux and Immutable](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-- [Build a Twitter Stream with React and Node](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
-- [Build A Simple Medium Clone using React.js and Node.js](https://medium.com/@kris101/clone-medium-on-node-js-and-react-js-731cdfbb6878)
-- [Integrate MailChimp in JS](https://medium.freecodecamp.org/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f)
-- [Build A Chrome Extension with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
-- [Build A ToDo App With React Native](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a)
-- [Make a Chat Application](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
-- [Create a News App with React Native](https://medium.freecodecamp.org/create-a-news-app-using-react-native-ced249263627)
-- [Learn Webpack For React](https://medium.freecodecamp.org/learn-webpack-for-react-a36d4cac5060)
-- [Testing React App With Puppeteer and Jest](https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59)
-- [Build Your Own React Boilerplate](https://medium.freecodecamp.org/how-to-build-your-own-react-boilerplate-2f8cbbeb9b3f)
-- [Code The Game Of Life With React](https://medium.freecodecamp.org/create-gameoflife-with-react-in-one-hour-8e686a410174)
-- [A Basic React+Redux Introductory Tutorial](https://hackernoon.com/a-basic-react-redux-introductory-tutorial-adcc681eeb5e)
-- [Build an Appointment Scheduler](https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040)
-- [Build A Chat App with Sentiment Analysis](https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643)
-- [Build A Full Stack Web Application Setup](https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708)
-- [Create Todoist clone with React and Firebase](https://www.youtube.com/watch?v=hT3j87FMR6M)
-- Build A Random Quote Machine
-  - [Part 1](https://www.youtube.com/watch?v=3QngsWA9IEE)
-  - [Part 2](https://www.youtube.com/watch?v=XnoTmO06OYo)
-  - [Part 3](https://www.youtube.com/watch?v=us51Jne67_I)
-  - [Part 4](https://www.youtube.com/watch?v=iZx7hqHb5MU)
-  - [Part 5](https://www.youtube.com/watch?v=lpba9vBqXl0)
-  - [Part 6](https://www.youtube.com/watch?v=Jvp8j6zrFHE)
-  - [Part 7](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
-- [React Phone E-Commerce Project(video)](https://www.youtube.com/watch?v=-edmQKcOW8s)
-
-#### Angular:
-
-- [Build an Instagram Clone with Angular 1.x](https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
-- Build an offline-capable Hacker News client with Angular 2+
-  - [Part 1](https://houssein.me/angular2-hacker-news)
-  - [Part 2](https://houssein.me/progressive-angular-applications)
-- [Build a Google+ clone with Django and AngularJS (Angular 1.x)](https://thinkster.io/django-angularjs-tutorial)
-- Build A Beautiful Real World App with Angular 8 :
-
-  - [Part I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
-  - [Part II](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d)
-
-- [Build Responsive layout with BootStrap 4 and Angular 6](https://medium.com/@tomastrajan/how-to-build-responsive-layouts-with-bootstrap-4-and-angular-6-cfbb108d797b)
-- ToDo App with Angular 5
-  - [Introduction to Angular](http://www.discoversdk.com/blog/intro-to-angular-and-the-evolution-of-the-web)
-  - [Part 1](http://www.discoversdk.com/blog/angular-5-to-do-list-app-part-1)
-
-#### Node:
-
-- [Build a real-time Markdown Editor with NodeJS](https://scotch.io/tutorials/building-a-real-time-markdown-viewer)
-- [Test-Driven Development with Node, Postgres and Knex](http://mherman.org/blog/2016/04/28/test-driven-development-with-node/)
-- Write a Twitter Bot in Node.js
-  - [Part 1](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
-  - [Part 2](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
-- [Build A Simple Search Bot in 30 minutes](https://medium.freecodecamp.org/how-to-build-a-simple-search-bot-in-30-minutes-eb56fcedcdb1)
-- [Build A Job Scraping Web App](https://medium.freecodecamp.org/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc)
-- [Building a GitHub App](https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html)
-- How to build your own Uber-for-X App using JavaScript, Node.JS, MongoDB and Web Sockets
-  - [Part 1](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app/)
-  - [Part 2](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app-part-2/)
-
-#### Vue
-
-- [Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
-- [Vue.js Application Tutorial – Creating a Simple Budgeting App with Vue](https://matthiashager.com/complete-vuejs-application-tutorial/)
-- [Build a Blog with Vue, GraphQL and Apollo](https://scotch.io/tutorials/build-a-blog-with-vue-graphql-and-apollo-client)
-- Build a full stack web application using MEVN (MongoDB, Express, Vue, Node) stack
-  - [Part 1](https://medium.com/@anaida07/mevn-stack-application-part-1-3a27b61dcae0)
-  - [Part 2](https://medium.com/@anaida07/mevn-stack-application-part-2-2-9ebcf8a22753)
-- [Vue.js To-Do List Tutorial (video)](https://www.youtube.com/watch?v=78tNYZUS-ps)
-- [Vue 2 + Pub/Sub: Build a peer to peer multi-user platform for games](https://www.ably.io/tutorials/peer-to-peer-vue)
-
-#### Others (Hapi, Express...):
-
-- Build a Progressive Web Application (PWA)
-  - [Part 1](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
-  - [Part 2](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
-  - [Part 3](https://bitsofco.de/bitsofcode-pwa-part-3-push-notifications/)
-- [Build A Native Desktop App with JS](https://medium.freecodecamp.org/build-native-desktop-apps-with-javascript-a49ede90d8e9)
-- Build a Powerful API with NodeJs,GraphQL and Hapi
-  - [Part I](https://medium.com/@wesharehoodies/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
-
-#### D3.js
-
-- [Learn D3 using examples](https://www.sitepoint.com/d3-js-data-visualizations/)
-- [Learn To Make A Line Chart](https://medium.freecodecamp.org/learn-to-create-a-line-chart-using-d3-js-4f43f1ee716b)
-
-### Game Development:
-
-- [Make 2D Breakout Game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
-- Make Flappy Bird in HTML5 and JavaScript with Phaser
-  - [Part 1](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
-  - [Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
-
-### Desktop Application:
-
-- [Build A Desktop Chat App with React and Electron](https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f)
-
-### Miscellaneous:
-
-- [How to Build a Web Framework in Less Than 20 Lines of Code](https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/)
-- [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
-- [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
-- [Build A Realtime Serverless GraphQL API with WebSockets on AWS](https://andrewgriffithsonline.com/blog/serverless-websockets-on-aws/)
-
-## Kotlin:
-
-- [Keddit - Learn Kotlin While Developing an Android Application](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
-
-## Lua:
-
-### LÖVE:
-
-- BYTEPATH: Creation of a Complete Game with Lua and LÖVE
-  - [Part 0: Introduction](https://github.com/SSYGEN/blog/issues/30)
-  - [Part 1: Game Loop](https://github.com/SSYGEN/blog/issues/15)
-  - [Part 2: Libraries](https://github.com/SSYGEN/blog/issues/16)
-  - [Part 3: Rooms and Areas](https://github.com/SSYGEN/blog/issues/17)
-  - [Part 4: Exercises](https://github.com/SSYGEN/blog/issues/18)
-  - [Part 5: Game Basics](https://github.com/SSYGEN/blog/issues/19)
-  - [Part 6: Player Basics](https://github.com/SSYGEN/blog/issues/20)
-  - [Part 7: Player Stats and Attacks](https://github.com/SSYGEN/blog/issues/21)
-  - [Part 8: Enemies](https://github.com/SSYGEN/blog/issues/22)
-  - [Part 9: Director and Gameplay Loop](https://github.com/SSYGEN/blog/issues/23)
-  - [Part 10: Coding Practices](https://github.com/SSYGEN/blog/issues/24)
-  - [Part 11: Passives](https://github.com/SSYGEN/blog/issues/25)
-  - [Part 12: More Passives](https://github.com/SSYGEN/blog/issues/26)
-  - [Part 13: Skill Tree](https://github.com/SSYGEN/blog/issues/27)
-  - [Part 14: Console](https://github.com/SSYGEN/blog/issues/28)
-  - [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
-
-## Python:
-
-### Web Scraping:
-
-- [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
-- [Scrape a Website with Scrapy and MongoDB](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
-- [How To Scrape With Python and Selenium WebDriver](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
-- [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
-
-### Web Applications:
-
-- [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-- [Create a Blog Web App In Django](https://tutorial.djangogirls.org/en/)
-- [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
-- [Build a Todo List with Flask and RethinkDB](https://realpython.com/blog/python/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/)
-- [Build a Todo List with Django and Test-Driven Development](http://www.obeythetestinggoat.com/)
-- [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
-- [Microservices with Docker, Flask, and React](https://testdriven.io/)
-- [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
-- [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
-- Build a Community-driven delivery application with Django, Postgres and JavaScript
-  - [Part 1](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/)
-  - [Part 2](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2/)
-- Realtime Chat application with Vue, django-notifs, RabbitMQ and uWSGI
-  - [Part 1](https://danidee10.github.io/2018/01/01/realtime-django-1.html)
-  - [Part 2](https://danidee10.github.io/2018/01/03/realtime-django-2.html)
-  - [Part 3](https://danidee10.github.io/2018/01/07/realtime-django-3.html)
-  - [Part 4](https://danidee10.github.io/2018/01/10/realtime-django-4.html)
-  - [Part 5](https://danidee10.github.io/2018/01/13/realtime-django-5.html)
-  - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
-
-### Bots:
-
-- [Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
-- [How to Make a Reddit Bot - YouTube](https://www.youtube.com/watch?v=krTUf7BpTc0) (video)
-- [Build a Facebook Messenger Bot](https://blog.hartleybrody.com/fb-messenger-bot/)
-- [Making a Reddit + Facebook Messenger Bot](https://pythontips.com/2017/04/13/making-a-reddit-facebook-messenger-bot/)
-- How To Create a Telegram Bot Using Python
-  - [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
-  - [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
-- [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
-
-### Data Science:
-
-- Learn Python For Data Science by Doing Several Projects (video):
-  - [Part 1: Introduction](https://www.youtube.com/watch?v=T5pRlIbr6gg)
-  - [Part 2: Twitter Sentiment Analysis](https://www.youtube.com/watch?v=o_OZdbCzHUA)
-  - [Part 3: Recommendation Systems](https://www.youtube.com/watch?v=9gBC9R-msAk&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=3)
-  - [Part 4: Predicting Stock Prices](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
-  - [Part 5: Deep Dream in TensorFlow](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
-  - [Part 6: Genetic Algorithms](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
-
-### Machine Learning:
-
-- [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM) (video)
-- [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
-- [Predict Quality Of Wine](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
-- [Solving A Fruits Classification Problem](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
-- [Learn Unsupervised Learning with Python](https://scikit-learn.org/stable/unsupervised_learning.html)
-- [Build Your Own Neural Net from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
-- [Linear Regression in Python without sklearn](https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122)
-- [Multivariate Linear Regression without sklearn](https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905)
-- [Music Recommender using KNN](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
-- Find Similar Quora Questions-
-  - [Using BOW, TFIDF and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-bow-tfidf-and-random-forest-c54ad88d1370)
-  - [Using Word2Vec and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d)
-- [Detecting Fake News with Python and Machine Learning](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
-
-### OpenCV:
-
-- [Build A Document Scanner](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
-- [Build A Face Detector using OpenCV and Deep Learning](https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
-- [Build fastest custom object Detection system yusing YOLOv3(video playlist)](https://www.youtube.com/playlist?list=PLKHYJbyeQ1a0oGzgRXy-QwAN1tSV4XZxg)
-- [Build a Face Recognition System using OpenCV, Python and Deep Learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
-- [Detect The Salient Features in an Image](https://www.pyimagesearch.com/2018/07/16/opencv-saliency-detection/)
-- [Build A Barcode Scanner](https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/)
-- [Learn Face Clustering with Python](https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/)
-- [Object Tracking with Camshift](https://www.pyimagesearch.com/wp-content/uploads/2014/11/opencv_crash_course_camshift.pdf)
-- [Semantic Segmentation with OpenCV and Deep Learning](https://www.pyimagesearch.com/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning/)
-- [Text Detection in Images and Videos](https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/)
-- [People Counter using OpenCV](https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/)
-- [Tracking Multiple Objects with OpenCV](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
-- [Neural Style Transfer with OpenCV](https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/)
-- [OpenCV OCR and Text Recognition](https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/)
-- [Text Skew Correction Tutorial](https://www.pyimagesearch.com/2017/02/20/text-skew-correction-opencv-python/)
-- [Facial Landmark Detection Tutorial](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)
-- [Object Detection using Mask-R-CNN](https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/)
-- [Automatic Target Detection Tutorial](https://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/)
-- [EigenFaces using OpenCV](https://www.learnopencv.com/eigenface-using-opencv-c-python/)
-- [Faster(5-point) Facial Landmark Detection Tutorial](https://www.pyimagesearch.com/2018/04/02/faster-facial-landmark-detector-with-dlib/)
-- [Hand Keypoint Detection](https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/)
-- Dlib Correlation Object Tracking -
-  - [Single Object Tracker](https://www.pyimagesearch.com/2018/10/22/object-tracking-with-dlib/)
-  - [Mutiple Object Tracker](https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/)
-- [Image Stitching with OpenCV and Python](https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/)
-- [Instance Segmentation with OpenCV](https://www.pyimagesearch.com/2018/11/26/instance-segmentation-with-opencv/)
-- [Face mask detector](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
-
-### Deep Learning:
-
-- [Using Convolutional Neural Nets to Detect Facial Keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
-- [Generate an Average Face using Python and OpenCV](https://www.learnopencv.com/average-face-opencv-c-python-tutorial/)
-- [Break A Captcha System using CNNs](https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710)
-- [Use pre-trained Inception model to provide image predictions](https://medium.com/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058)
-- [Create your first CNN](https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2)
-- [Build A Facial Recognition Pipeline](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
-- [Build An Image Caption Generator](https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f)
-- [Make your Own Face Recognition System](https://medium.freecodecamp.org/making-your-own-face-recognition-system-29a8e728107c)
-- [Train a Language Detection AI in 20 minutes](https://towardsdatascience.com/how-i-trained-a-language-detection-ai-in-20-minutes-with-a-97-accuracy-fdeca0fb7724)
-- [Object Detection With Neural Networks](https://towardsdatascience.com/object-detection-with-neural-networks-a4e2c46b4491)
-- Learn Twitter Sentiment Analysis -
-  - [Part I - Data Cleaning](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90)
-  - [Part II - EDA, Data Visualisation](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913)
-  - [Part III - Zipf's Law, Data Visualisation](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7)
-  - [Part IV - Feature Extraction(count vectoriser)](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5)
-  - [Part V - Feature Extraction(Tfidf vectoriser)](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-5-50b4e87d9bdd)
-  - [Part VI - Doc2Vec](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-6-doc2vec-603f11832504)
-  - [Part VII - Phrase Modeling + Doc2Vec](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-7-phrase-modeling-doc2vec-592a8a996867)
-  - [Part VIII - Dimensionality Reduction](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-8-dimensionality-reduction-chi2-pca-c6d06fb3fcf3)
-  - [Part IX - Neural Nets with Tfdif vectors](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-9-neural-networks-with-tfidf-vectors-using-d0b4af6be6d7)
-  - [Part X - Neural Nets with word2vec/doc2vec](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-10-neural-network-with-a6441269aa3c)
-  - [Part XI - CNN with Word2Vec](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74)
-- [Use Transfer Learning for custom image classification](https://becominghuman.ai/transfer-learning-retraining-inception-v3-for-custom-image-classification-2820f653c557)
-- [Learn to Code a simple Neural Network in 11 lines of Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
-- [Build a Neural Network using Gradient Descent Approach](https://iamtrask.github.io/2015/07/27/python-network-part2/)
-- [Train a Keras Model To Generate Colors](https://heartbeat.fritz.ai/how-to-train-a-keras-model-to-generate-colors-3bc79e54971b)
-- [Get Started with Keras on a Custom Dataset](https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/)
-- [Use EigenFaces and FisherFaces on Faces94 dataset](https://nicholastsmith.wordpress.com/2016/02/18/eigenfaces-versus-fisherfaces-on-the-faces94-database-with-scikit-learn/)
-- [Kaggle MNIST Digit Recognizer Tutorial](https://medium.com/@lvarruda/how-to-get-top-2-position-on-kaggles-mnist-digit-recognizer-48185d80a2d4)
-- [Fashion MNIST tutorial with tf.keras](https://medium.com/tensorflow/hello-deep-learning-fashion-mnist-with-keras-50fcff8cd74a)
-- [CNN using Keras to automatically classify root health](https://www.pyimagesearch.com/2018/10/15/deep-learning-hydroponics-and-medical-marijuana/)
-- [Keras vs Tensorflow](https://www.pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/)
-- [Deep Learning and Medical Image Analysis for Malaria Detection](https://www.pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/)
-- [Transfer Learning for Image Classification using Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8)
-- [Code a Smile Classifier using CNNS in Python](https://github.com/kylemcdonald/SmileCNN)
-- [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
-- [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
-- [Mask detection using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
-
-### Miscellaneous:
-
-- [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
-- [Build a Simple Blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-- [Write a NoSQL Database in Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/)
-- [Building a Gas Pump Scanner with OpenCV/Python/iOS](https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b)
-- [Build a Distributed Streaming System with Python and Kafka](https://codequs.com/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python)
-- [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/)
-- Making a low level (Linux) debugger
-  - [Part 1](https://blog.asrpo.com/making_a_low_level_debugger)
-  - [Part 2: C](https://blog.asrpo.com/making_a_low_level_debugger_part_2)
-- Implementing a Search Engine
-  - [Part 1](http://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/)
-  - [Part 2](http://www.ardendertat.com/2011/05/31/how-to-implement-a-search-engine-part-2-query-index/)
-  - [Part 3](http://www.ardendertat.com/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf/)
-- [Build the Game of Life](https://robertheaton.com/2018/07/20/project-2-game-of-life/)
-- [Create terminal ASCII art](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
-- [Write a Tic-Tac-Toe AI](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
-- [Create photomosaic art](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/)
-- [Build the game "Snake" in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
-- [Write yourself a Git](https://wyag.thb.lt/)
-- [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
-- [Create a Voice assistant using Python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
 
 ## Go:
 
@@ -567,6 +241,185 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [REST API masterclass with Go, PostgreSQL and Docker(video playlist)`in progress`](https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
 
+## Haskell:
+
+- [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
+- [Write Yourself a Scheme in 47 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+- [Write You A Scheme, Version 1](https://github.com/write-you-a-scheme-v2/scheme)
+- [Roll Your Own IRC Bot](https://wiki.haskell.org/Roll_your_own_IRC_bot)
+- [Making Movie Monad](https://lettier.github.io/posts/2015-08-15-making-movie-monad.html)
+- [Making a Website with Haskell **(outdated)**](http://adit.io/posts/2012-04-15-making-a-website-with-haskell.html)
+
+## HTML and CSS:
+
+- [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
+- [Build an HTML Calculator with JS](https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
+- [Build Snake using only JavaScript, HTML & CSS](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/)
+
+
+## Java:
+
+- [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 4-13 is written in Java)
+- [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
+- [Build an Android Flashlight App](https://www.youtube.com/watch?v=dhWL4DC7Krs) (video)
+- [Build a Spring Boot App with User Authentication](https://spring.io/guides/gs/securing-web/)
+
+## JavaScript:
+
+- [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
+- [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
+- [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
+- [Build a TicTacToe Game with JavaScript](https://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc)
+- [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
+- [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
+
+
+  ### Mobile Application:
+
+  - [Build a React Native Todo Application](https://egghead.io/courses/build-a-react-native-todo-application)
+  - [Build a React Native Application with Redux Thunk](https://medium.com/@alialhaddad/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0)
+
+  ### Web Applications:
+
+  #### React:
+
+  - [Create Serverless React.js Apps](http://serverless-stack.com/)
+  - [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
+  - [Create a Character Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio)
+  - [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
+  - [Build a Full Stack Movie Voting App with Test-First Development using Mocha, React, Redux and Immutable](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+  - [Build a Twitter Stream with React and Node](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
+  - [Build A Simple Medium Clone using React.js and Node.js](https://medium.com/@kris101/clone-medium-on-node-js-and-react-js-731cdfbb6878)
+  - [Integrate MailChimp in JS](https://medium.freecodecamp.org/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f)
+  - [Build A Chrome Extension with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
+  - [Build A ToDo App With React Native](https://blog.hasura.io/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a)
+  - [Make a Chat Application](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
+  - [Create a News App with React Native](https://medium.freecodecamp.org/create-a-news-app-using-react-native-ced249263627)
+  - [Learn Webpack For React](https://medium.freecodecamp.org/learn-webpack-for-react-a36d4cac5060)
+  - [Testing React App With Puppeteer and Jest](https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59)
+  - [Build Your Own React Boilerplate](https://medium.freecodecamp.org/how-to-build-your-own-react-boilerplate-2f8cbbeb9b3f)
+  - [Code The Game Of Life With React](https://medium.freecodecamp.org/create-gameoflife-with-react-in-one-hour-8e686a410174)
+  - [A Basic React+Redux Introductory Tutorial](https://hackernoon.com/a-basic-react-redux-introductory-tutorial-adcc681eeb5e)
+  - [Build an Appointment Scheduler](https://hackernoon.com/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040)
+  - [Build A Chat App with Sentiment Analysis](https://codeburst.io/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643)
+  - [Build A Full Stack Web Application Setup](https://hackernoon.com/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708)
+  - [Create Todoist clone with React and Firebase](https://www.youtube.com/watch?v=hT3j87FMR6M)
+  - Build A Random Quote Machine
+    - [Part 1](https://www.youtube.com/watch?v=3QngsWA9IEE)
+    - [Part 2](https://www.youtube.com/watch?v=XnoTmO06OYo)
+    - [Part 3](https://www.youtube.com/watch?v=us51Jne67_I)
+    - [Part 4](https://www.youtube.com/watch?v=iZx7hqHb5MU)
+    - [Part 5](https://www.youtube.com/watch?v=lpba9vBqXl0)
+    - [Part 6](https://www.youtube.com/watch?v=Jvp8j6zrFHE)
+    - [Part 7](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
+  - [React Phone E-Commerce Project(video)](https://www.youtube.com/watch?v=-edmQKcOW8s)
+
+  #### Angular:
+
+  - [Build an Instagram Clone with Angular 1.x](https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
+  - Build an offline-capable Hacker News client with Angular 2+
+    - [Part 1](https://houssein.me/angular2-hacker-news)
+    - [Part 2](https://houssein.me/progressive-angular-applications)
+  - [Build a Google+ clone with Django and AngularJS (Angular 1.x)](https://thinkster.io/django-angularjs-tutorial)
+  - Build A Beautiful Real World App with Angular 8 :
+
+    - [Part I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
+    - [Part II](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d)
+
+  - [Build Responsive layout with BootStrap 4 and Angular 6](https://medium.com/@tomastrajan/how-to-build-responsive-layouts-with-bootstrap-4-and-angular-6-cfbb108d797b)
+  - ToDo App with Angular 5
+    - [Introduction to Angular](http://www.discoversdk.com/blog/intro-to-angular-and-the-evolution-of-the-web)
+    - [Part 1](http://www.discoversdk.com/blog/angular-5-to-do-list-app-part-1)
+
+  #### Node:
+
+  - [Build a real-time Markdown Editor with NodeJS](https://scotch.io/tutorials/building-a-real-time-markdown-viewer)
+  - [Test-Driven Development with Node, Postgres and Knex](http://mherman.org/blog/2016/04/28/test-driven-development-with-node/)
+  - Write a Twitter Bot in Node.js
+    - [Part 1](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
+    - [Part 2](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
+  - [Build A Simple Search Bot in 30 minutes](https://medium.freecodecamp.org/how-to-build-a-simple-search-bot-in-30-minutes-eb56fcedcdb1)
+  - [Build A Job Scraping Web App](https://medium.freecodecamp.org/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc)
+  - [Building a GitHub App](https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html)
+  - How to build your own Uber-for-X App using JavaScript, Node.JS, MongoDB and Web Sockets
+    - [Part 1](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app/)
+    - [Part 2](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app-part-2/)
+
+  #### Vue
+
+  - [Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
+  - [Vue.js Application Tutorial – Creating a Simple Budgeting App with Vue](https://matthiashager.com/complete-vuejs-application-tutorial/)
+  - [Build a Blog with Vue, GraphQL and Apollo](https://scotch.io/tutorials/build-a-blog-with-vue-graphql-and-apollo-client)
+  - Build a full stack web application using MEVN (MongoDB, Express, Vue, Node) stack
+    - [Part 1](https://medium.com/@anaida07/mevn-stack-application-part-1-3a27b61dcae0)
+    - [Part 2](https://medium.com/@anaida07/mevn-stack-application-part-2-2-9ebcf8a22753)
+  - [Vue.js To-Do List Tutorial (video)](https://www.youtube.com/watch?v=78tNYZUS-ps)
+  - [Vue 2 + Pub/Sub: Build a peer to peer multi-user platform for games](https://www.ably.io/tutorials/peer-to-peer-vue)
+
+  #### Others (Hapi, Express...):
+
+  - Build a Progressive Web Application (PWA)
+    - [Part 1](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
+    - [Part 2](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
+    - [Part 3](https://bitsofco.de/bitsofcode-pwa-part-3-push-notifications/)
+  - [Build A Native Desktop App with JS](https://medium.freecodecamp.org/build-native-desktop-apps-with-javascript-a49ede90d8e9)
+  - Build a Powerful API with NodeJs,GraphQL and Hapi
+    - [Part I](https://medium.com/@wesharehoodies/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
+
+  #### D3.js
+
+  - [Learn D3 using examples](https://www.sitepoint.com/d3-js-data-visualizations/)
+  - [Learn To Make A Line Chart](https://medium.freecodecamp.org/learn-to-create-a-line-chart-using-d3-js-4f43f1ee716b)
+
+  ### Game Development:
+
+  - [Make 2D Breakout Game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
+  - Make Flappy Bird in HTML5 and JavaScript with Phaser
+    - [Part 1](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
+    - [Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
+
+  ### Desktop Application:
+
+  - [Build A Desktop Chat App with React and Electron](https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f)
+
+  ### Miscellaneous:
+
+  - [How to Build a Web Framework in Less Than 20 Lines of Code](https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/)
+  - [Build Yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
+  - [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
+  - [Build A Realtime Serverless GraphQL API with WebSockets on AWS](https://andrewgriffithsonline.com/blog/serverless-websockets-on-aws/)
+
+## Kotlin:
+
+- [Keddit - Learn Kotlin While Developing an Android Application](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+
+## Lua:
+
+  ### LÖVE:
+
+  - BYTEPATH: Creation of a Complete Game with Lua and LÖVE
+    - [Part 0: Introduction](https://github.com/SSYGEN/blog/issues/30)
+    - [Part 1: Game Loop](https://github.com/SSYGEN/blog/issues/15)
+    - [Part 2: Libraries](https://github.com/SSYGEN/blog/issues/16)
+    - [Part 3: Rooms and Areas](https://github.com/SSYGEN/blog/issues/17)
+    - [Part 4: Exercises](https://github.com/SSYGEN/blog/issues/18)
+    - [Part 5: Game Basics](https://github.com/SSYGEN/blog/issues/19)
+    - [Part 6: Player Basics](https://github.com/SSYGEN/blog/issues/20)
+    - [Part 7: Player Stats and Attacks](https://github.com/SSYGEN/blog/issues/21)
+    - [Part 8: Enemies](https://github.com/SSYGEN/blog/issues/22)
+    - [Part 9: Director and Gameplay Loop](https://github.com/SSYGEN/blog/issues/23)
+    - [Part 10: Coding Practices](https://github.com/SSYGEN/blog/issues/24)
+    - [Part 11: Passives](https://github.com/SSYGEN/blog/issues/25)
+    - [Part 12: More Passives](https://github.com/SSYGEN/blog/issues/26)
+    - [Part 13: Skill Tree](https://github.com/SSYGEN/blog/issues/27)
+    - [Part 14: Console](https://github.com/SSYGEN/blog/issues/28)
+    - [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
+
+## OCaml:
+
+- [Implement a Language with LLVM in OCaml](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml)
+- [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
+
 ## PHP:
 
 - [How To Build A Blog With Laravel](https://www.youtube.com/playlist?list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx) (video)
@@ -585,10 +438,175 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 7: Deployment](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-7-deployment-40bb3c895627)
 - [Build a Laravel CRUD Application From Scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
 
-## OCaml:
 
-- [Implement a Language with LLVM in OCaml](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm-in-objective-caml)
-- [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
+## Python:
+
+  ### Web Scraping:
+
+  - [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
+  - [Scrape a Website with Scrapy and MongoDB](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
+  - [How To Scrape With Python and Selenium WebDriver](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
+  - [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
+
+  ### Web Applications:
+
+  - [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+  - [Create a Blog Web App In Django](https://tutorial.djangogirls.org/en/)
+  - [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
+  - [Build a Todo List with Flask and RethinkDB](https://realpython.com/blog/python/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/)
+  - [Build a Todo List with Django and Test-Driven Development](http://www.obeythetestinggoat.com/)
+  - [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
+  - [Microservices with Docker, Flask, and React](https://testdriven.io/)
+  - [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
+  - [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
+  - Build a Community-driven delivery application with Django, Postgres and JavaScript
+    - [Part 1](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/)
+    - [Part 2](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2/)
+  - Realtime Chat application with Vue, django-notifs, RabbitMQ and uWSGI
+    - [Part 1](https://danidee10.github.io/2018/01/01/realtime-django-1.html)
+    - [Part 2](https://danidee10.github.io/2018/01/03/realtime-django-2.html)
+    - [Part 3](https://danidee10.github.io/2018/01/07/realtime-django-3.html)
+    - [Part 4](https://danidee10.github.io/2018/01/10/realtime-django-4.html)
+    - [Part 5](https://danidee10.github.io/2018/01/13/realtime-django-5.html)
+    - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
+
+  ### Bots:
+
+  - [Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
+  - [How to Make a Reddit Bot - YouTube](https://www.youtube.com/watch?v=krTUf7BpTc0) (video)
+  - [Build a Facebook Messenger Bot](https://blog.hartleybrody.com/fb-messenger-bot/)
+  - [Making a Reddit + Facebook Messenger Bot](https://pythontips.com/2017/04/13/making-a-reddit-facebook-messenger-bot/)
+  - How To Create a Telegram Bot Using Python
+    - [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
+    - [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
+  - [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
+
+  ### Data Science:
+
+  - Learn Python For Data Science by Doing Several Projects (video):
+    - [Part 1: Introduction](https://www.youtube.com/watch?v=T5pRlIbr6gg)
+    - [Part 2: Twitter Sentiment Analysis](https://www.youtube.com/watch?v=o_OZdbCzHUA)
+    - [Part 3: Recommendation Systems](https://www.youtube.com/watch?v=9gBC9R-msAk&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=3)
+    - [Part 4: Predicting Stock Prices](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+    - [Part 5: Deep Dream in TensorFlow](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
+    - [Part 6: Genetic Algorithms](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+
+  ### Machine Learning:
+
+  - [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM) (video)
+  - [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+  - [Predict Quality Of Wine](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
+  - [Solving A Fruits Classification Problem](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
+  - [Learn Unsupervised Learning with Python](https://scikit-learn.org/stable/unsupervised_learning.html)
+  - [Build Your Own Neural Net from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+  - [Linear Regression in Python without sklearn](https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122)
+  - [Multivariate Linear Regression without sklearn](https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905)
+  - [Music Recommender using KNN](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
+  - Find Similar Quora Questions-
+    - [Using BOW, TFIDF and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-bow-tfidf-and-random-forest-c54ad88d1370)
+    - [Using Word2Vec and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d)
+  - [Detecting Fake News with Python and Machine Learning](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
+
+  ### OpenCV:
+
+  - [Build A Document Scanner](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
+  - [Build A Face Detector using OpenCV and Deep Learning](https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/)
+  - [Build fastest custom object Detection system yusing YOLOv3(video playlist)](https://www.youtube.com/playlist?list=PLKHYJbyeQ1a0oGzgRXy-QwAN1tSV4XZxg)
+  - [Build a Face Recognition System using OpenCV, Python and Deep Learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
+  - [Detect The Salient Features in an Image](https://www.pyimagesearch.com/2018/07/16/opencv-saliency-detection/)
+  - [Build A Barcode Scanner](https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/)
+  - [Learn Face Clustering with Python](https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/)
+  - [Object Tracking with Camshift](https://www.pyimagesearch.com/wp-content/uploads/2014/11/opencv_crash_course_camshift.pdf)
+  - [Semantic Segmentation with OpenCV and Deep Learning](https://www.pyimagesearch.com/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning/)
+  - [Text Detection in Images and Videos](https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/)
+  - [People Counter using OpenCV](https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/)
+  - [Tracking Multiple Objects with OpenCV](https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/)
+  - [Neural Style Transfer with OpenCV](https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/)
+  - [OpenCV OCR and Text Recognition](https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/)
+  - [Text Skew Correction Tutorial](https://www.pyimagesearch.com/2017/02/20/text-skew-correction-opencv-python/)
+  - [Facial Landmark Detection Tutorial](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)
+  - [Object Detection using Mask-R-CNN](https://www.learnopencv.com/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c/)
+  - [Automatic Target Detection Tutorial](https://www.pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/)
+  - [EigenFaces using OpenCV](https://www.learnopencv.com/eigenface-using-opencv-c-python/)
+  - [Faster(5-point) Facial Landmark Detection Tutorial](https://www.pyimagesearch.com/2018/04/02/faster-facial-landmark-detector-with-dlib/)
+  - [Hand Keypoint Detection](https://www.learnopencv.com/hand-keypoint-detection-using-deep-learning-and-opencv/)
+  - Dlib Correlation Object Tracking -
+    - [Single Object Tracker](https://www.pyimagesearch.com/2018/10/22/object-tracking-with-dlib/)
+    - [Mutiple Object Tracker](https://www.pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/)
+  - [Image Stitching with OpenCV and Python](https://www.pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/)
+  - [Instance Segmentation with OpenCV](https://www.pyimagesearch.com/2018/11/26/instance-segmentation-with-opencv/)
+  - [Face mask detector](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)
+
+  ### Deep Learning:
+
+  - [Using Convolutional Neural Nets to Detect Facial Keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
+  - [Generate an Average Face using Python and OpenCV](https://www.learnopencv.com/average-face-opencv-c-python-tutorial/)
+  - [Break A Captcha System using CNNs](https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710)
+  - [Use pre-trained Inception model to provide image predictions](https://medium.com/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058)
+  - [Create your first CNN](https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2)
+  - [Build A Facial Recognition Pipeline](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
+  - [Build An Image Caption Generator](https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f)
+  - [Make your Own Face Recognition System](https://medium.freecodecamp.org/making-your-own-face-recognition-system-29a8e728107c)
+  - [Train a Language Detection AI in 20 minutes](https://towardsdatascience.com/how-i-trained-a-language-detection-ai-in-20-minutes-with-a-97-accuracy-fdeca0fb7724)
+  - [Object Detection With Neural Networks](https://towardsdatascience.com/object-detection-with-neural-networks-a4e2c46b4491)
+  - Learn Twitter Sentiment Analysis -
+    - [Part I - Data Cleaning](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90)
+    - [Part II - EDA, Data Visualisation](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913)
+    - [Part III - Zipf's Law, Data Visualisation](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7)
+    - [Part IV - Feature Extraction(count vectoriser)](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5)
+    - [Part V - Feature Extraction(Tfidf vectoriser)](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-5-50b4e87d9bdd)
+    - [Part VI - Doc2Vec](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-6-doc2vec-603f11832504)
+    - [Part VII - Phrase Modeling + Doc2Vec](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-7-phrase-modeling-doc2vec-592a8a996867)
+    - [Part VIII - Dimensionality Reduction](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-8-dimensionality-reduction-chi2-pca-c6d06fb3fcf3)
+    - [Part IX - Neural Nets with Tfdif vectors](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-9-neural-networks-with-tfidf-vectors-using-d0b4af6be6d7)
+    - [Part X - Neural Nets with word2vec/doc2vec](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-10-neural-network-with-a6441269aa3c)
+    - [Part XI - CNN with Word2Vec](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74)
+  - [Use Transfer Learning for custom image classification](https://becominghuman.ai/transfer-learning-retraining-inception-v3-for-custom-image-classification-2820f653c557)
+  - [Learn to Code a simple Neural Network in 11 lines of Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+  - [Build a Neural Network using Gradient Descent Approach](https://iamtrask.github.io/2015/07/27/python-network-part2/)
+  - [Train a Keras Model To Generate Colors](https://heartbeat.fritz.ai/how-to-train-a-keras-model-to-generate-colors-3bc79e54971b)
+  - [Get Started with Keras on a Custom Dataset](https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/)
+  - [Use EigenFaces and FisherFaces on Faces94 dataset](https://nicholastsmith.wordpress.com/2016/02/18/eigenfaces-versus-fisherfaces-on-the-faces94-database-with-scikit-learn/)
+  - [Kaggle MNIST Digit Recognizer Tutorial](https://medium.com/@lvarruda/how-to-get-top-2-position-on-kaggles-mnist-digit-recognizer-48185d80a2d4)
+  - [Fashion MNIST tutorial with tf.keras](https://medium.com/tensorflow/hello-deep-learning-fashion-mnist-with-keras-50fcff8cd74a)
+  - [CNN using Keras to automatically classify root health](https://www.pyimagesearch.com/2018/10/15/deep-learning-hydroponics-and-medical-marijuana/)
+  - [Keras vs Tensorflow](https://www.pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/)
+  - [Deep Learning and Medical Image Analysis for Malaria Detection](https://www.pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/)
+  - [Transfer Learning for Image Classification using Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8)
+  - [Code a Smile Classifier using CNNS in Python](https://github.com/kylemcdonald/SmileCNN)
+  - [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
+  - [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
+  - [Mask detection using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
+
+  ### Miscellaneous:
+
+  - [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
+  - [Build a Simple Blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+  - [Write a NoSQL Database in Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/)
+  - [Building a Gas Pump Scanner with OpenCV/Python/iOS](https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b)
+  - [Build a Distributed Streaming System with Python and Kafka](https://codequs.com/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python)
+  - [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/)
+  - Making a low level (Linux) debugger
+    - [Part 1](https://blog.asrpo.com/making_a_low_level_debugger)
+    - [Part 2: C](https://blog.asrpo.com/making_a_low_level_debugger_part_2)
+  - Implementing a Search Engine
+    - [Part 1](http://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/)
+    - [Part 2](http://www.ardendertat.com/2011/05/31/how-to-implement-a-search-engine-part-2-query-index/)
+    - [Part 3](http://www.ardendertat.com/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf/)
+  - [Build the Game of Life](https://robertheaton.com/2018/07/20/project-2-game-of-life/)
+  - [Create terminal ASCII art](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
+  - [Write a Tic-Tac-Toe AI](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
+  - [Create photomosaic art](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics/)
+  - [Build the game "Snake" in the terminal](https://robertheaton.com/2018/12/02/programming-project-5-snake/)
+  - [Write yourself a Git](https://wyag.thb.lt/)
+  - [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+  - [Create a Voice assistant using Python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
+
+## R:
+
+- [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
+- [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
+- [Learn Associate Rule Mining in R](https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50)
 
 ## Ruby:
 
@@ -601,27 +619,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4: ECHO](https://rohitpaulk.com/articles/redis-4)
 - [Rebuilding Git in Ruby](https://thoughtbot.com/blog/rebuilding-git-in-ruby)
 
-### Ruby on Rails:
+  ### Ruby on Rails:
 
-- [The Ruby on Rails Tutorial](https://www.railstutorial.org/book)
-- [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
-- [Build a Social Network using Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
-- [How To Build a Ruby on Rails Application](https://www.digitalocean.com/community/tutorials/how-to-build-a-ruby-on-rails-application)
+  - [The Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+  - [Build Instagram From Scratch with Ruby on Rails](https://www.dropbox.com/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf?dl=0)
+  - [Build a Social Network using Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
+  - [How To Build a Ruby on Rails Application](https://www.digitalocean.com/community/tutorials/how-to-build-a-ruby-on-rails-application)
 
-## Haskell:
-
-- [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
-- [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
-- [Write You A Scheme, Version 2](https://github.com/write-you-a-scheme-v2/scheme)
-- [Roll Your Own IRC Bot](https://wiki.haskell.org/Roll_your_own_IRC_bot)
-- [Making Movie Monad](https://lettier.github.io/posts/2016-08-15-making-movie-monad.html)
-- [Making a Website with Haskell **(outdated)**](http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html)
-
-## R:
-
-- [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
-- [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
-- [Learn Associate Rule Mining in R](https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50)
 
 ## Rust:
 
