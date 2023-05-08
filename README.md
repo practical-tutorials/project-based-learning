@@ -12,7 +12,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [C/C++](#cc)
 - [Clojure](#clojure)
 - [Dart](#dart)
-- [Elixir](#elixir)
+- [Elixir](#elixir)Cancel changes
 - [Erlang](#erlang)
 - [F#](#f)
 - [Go](#go)
@@ -408,6 +408,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Data Science:
 
+- [_Data Science Learning Paths_(https://github.com/point8/data-science-learning-paths)
+  - [Data Analysis with Python](https://github.com/point8/data-science-learning-paths/blob/22506174affeb267b34c17a96ec24102f5c27e40/notebooks/index/dap2-data-analysis-python.ipynb)
+  - [Machine Learning with Python](https://github.com/point8/data-science-learning-paths/blob/22506174affeb267b34c17a96ec24102f5c27e40/notebooks/index/mlp2-machine-learning-python-2day.ipynb)
+  - [Deep Learning with TensorFlow](https://github.com/point8/data-science-learning-paths/blob/22506174affeb267b34c17a96ec24102f5c27e40/notebooks/index/dlt2-intro-dl-tensorflow-2day.ipynb)
+  - [Machine Learning on Time Series](https://github.com/point8/data-science-learning-paths/blob/22506174affeb267b34c17a96ec24102f5c27e40/notebooks/index/mlts-machine-learning-time-series.ipynb)
+  - [Big Data Analysis with PySpark](https://github.com/point8/data-science-learning-paths/blob/22506174affeb267b34c17a96ec24102f5c27e40/notebooks/index/bdas2-big-data-analysis-pyspark.ipynb)
 - Learn Python For Data Science by Doing Several Projects (video):
   - [Part 1: Introduction](https://www.youtube.com/watch?v=T5pRlIbr6gg)
   - [Part 2: Twitter Sentiment Analysis](https://www.youtube.com/watch?v=o_OZdbCzHUA)
