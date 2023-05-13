@@ -375,6 +375,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Web Applications:
 
+- [Turning a Website into an API with BeautifulSoup and FastAPI](https://dev.to/niklastiede/building-an-api-with-fastapi-1iji)
 - [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Create a Blog Web App In Django](https://tutorial.djangogirls.org/en/)
 - [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
