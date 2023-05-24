@@ -10,6 +10,7 @@ while True:
     if year == '':
         year = str(DEFAULT_YEAR)
         print("Setting default year to {}...".format(year))
+        break
 
     if len(year) == 4 and year.isdigit():
         break
