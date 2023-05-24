@@ -10,4 +10,3 @@ Dependencies:
 - lxml 4.9.2
 - beautifulsoup4 4.12.2
 - Python 3.9.13
-- urllib3 2.0.2
