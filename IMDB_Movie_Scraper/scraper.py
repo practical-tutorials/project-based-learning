@@ -1,7 +1,9 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
+BASE_URL = 'https://www.imdb.com'
 DEFAULT_YEAR = 2017
+LIMIT = 30
 
 # Getting user input
 while True:
@@ -19,11 +21,28 @@ while True:
 
 
 # Sending a GET request to specified URL and getting the response as a HTTPResponse object
-url = "https://www.imdb.com/search/title/?release_date=" + year
+url = BASE_URL + "/search/title/?release_date=" + year
 http_response = urlopen(url)
 markup = http_response.read()
 
 # Parser
 soup = BeautifulSoup(markup, 'lxml')
-print(soup.prettify())
-# print(soup.find_all('title'))
+movie_list = soup.find_all('div', class_='lister-item mode-advanced')
+
+def get_movie_info(movie):
+    return {
+        'title': movie.find('h3', class_='lister-item-header').a.text,
+        'rating': movie.find('div', class_='inline-block ratings-imdb-rating').text.strip(),
+        'path': movie.find('h3', class_='lister-item-header').a['href']
+    }
+
+movie_list = list(map(get_movie_info, movie_list))
+
+def print_movie_info(enumerator_item):
+    print(enumerator_item)
+    idx, movie = enumerator_item
+
+    print(f'{idx}. {movie["title"]}, {movie["rating"]}\n{BASE_URL + movie["path"]}')
+
+print(list(enumerate(movie_list, 1)))
+map(print_movie_info, list(enumerate(movie_list, 1)))
