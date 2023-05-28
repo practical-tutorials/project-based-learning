@@ -39,3 +39,4 @@ movie_list = list(map(get_movie_info, movie_list))
 
 for idx, movie in enumerate(movie_list, 1):
     print(f'{idx}. {movie["title"]}, {movie["rating"]}\n{BASE_URL + movie["path"]}')
+    
