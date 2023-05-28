@@ -3,7 +3,6 @@ from urllib.request import urlopen
 
 BASE_URL = 'https://www.imdb.com'
 DEFAULT_YEAR = 2017
-LIMIT = 30
 
 # Getting user input
 while True:
@@ -32,17 +31,11 @@ movie_list = soup.find_all('div', class_='lister-item mode-advanced')
 def get_movie_info(movie):
     return {
         'title': movie.find('h3', class_='lister-item-header').a.text,
-        'rating': movie.find('div', class_='inline-block ratings-imdb-rating').text.strip(),
+        'rating': movie.find('div', class_='inline-block ratings-imdb-rating').text.strip() if movie.find('div', class_='inline-block ratings-imdb-rating') else 'No rating',
         'path': movie.find('h3', class_='lister-item-header').a['href']
     }
 
 movie_list = list(map(get_movie_info, movie_list))
 
-def print_movie_info(enumerator_item):
-    print(enumerator_item)
-    idx, movie = enumerator_item
-
+for idx, movie in enumerate(movie_list, 1):
     print(f'{idx}. {movie["title"]}, {movie["rating"]}\n{BASE_URL + movie["path"]}')
-
-print(list(enumerate(movie_list, 1)))
-map(print_movie_info, list(enumerate(movie_list, 1)))
