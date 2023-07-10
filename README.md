@@ -160,6 +160,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
 - [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
 - [Building the CoreWiki](https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p) This is a Wiki-style content management system that has been completely written in C# with ASP.NET Core and Razor Pages. You can find the source code [here](https://github.com/csharpfritz/CoreWiki).
+- [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide) This is a Chinese version of C#/.NET/.NET Core learning, working, interview guide tutorial, the tutorial includes content: C#/.NET/.NET Core basics, learning materials, videos, articles, books, frameworks, community organizations, essential tools for development and a summary of common interview questions.
 
 ## Clojure:
 
