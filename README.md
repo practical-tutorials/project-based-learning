@@ -644,6 +644,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 2](https://pwy.io/en/posts/learning-to-fly-pt2/)
   - [Part 3](https://pwy.io/en/posts/learning-to-fly-pt3/)
   - [Part 4](https://pwy.io/en/posts/learning-to-fly-pt4/)
+- [Implementing BitTorrent in Rust](https://www.youtube.com/watch?v=fhEHBQog-Cc&t=6606s&ab_channel=JonGjengset)
 
 ## Scala:
 
