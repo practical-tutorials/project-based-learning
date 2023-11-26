@@ -366,6 +366,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Python:
 
+### Pandas
+- [Tutorial](https://github.com/shahiakhilesh1304/PandaTutorial.git)
+
 ### Web Scraping:
 
 - [Mining Twitter Data with Python](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
