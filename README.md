@@ -422,6 +422,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4: Predicting Stock Prices](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
   - [Part 5: Deep Dream in TensorFlow](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
   - [Part 6: Genetic Algorithms](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+  - [End-To-End Data Science Playlist-Get Prepared With Industry Ready Projects](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
+  - [Data Science and Machine Learning with Python and R](https://www.youtube.com/playlist?list=PLZoTAELRMXVOnN_g96ayzXX5i7RRO0QhL)
+  - [End To End Data Science Projects 2023](https://www.youtube.com/playlist?list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag)
+  - [Data Science Projects](https://www.youtube.com/playlist?list=PLZoTAELRMXVNUcr7osiU7CCm8hcaqSzGw) 
 
 ### Machine Learning:
 
@@ -438,6 +442,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Using BOW, TFIDF and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-bow-tfidf-and-random-forest-c54ad88d1370)
   - [Using Word2Vec and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d)
 - [Detecting Fake News with Python and Machine Learning](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
+- [Machine Learning 2023](https://www.youtube.com/playlist?list=PLZoTAELRMXVPMbdMTjwolBI0cJcvASePD)
+- [Live Machine Learning](https://www.youtube.com/playlist?list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz)
+- [ML Usecases](https://www.youtube.com/playlist?list=PLZoTAELRMXVPjvhLlo7v6H-emT8tNkRaW)
+- [Machine Learning Interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY)
+- [Machine Learning Pipelines](https://www.youtube.com/playlist?list=PLZoTAELRMXVMcRQwR5_J8k9S7cffVFq_U)
+- [Complete Machine Learning playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+- [Recommendation Systems](https://www.youtube.com/playlist?list=PLZoTAELRMXVN7QGpcuN-Vg35Hgjp3htvi)
 
 ### OpenCV:
 
