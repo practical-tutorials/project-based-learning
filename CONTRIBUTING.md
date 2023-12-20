@@ -19,4 +19,4 @@ Before making a pull request, please make sure of the following:
 * Remove any trailing whitespaces
 * Links must be pointing straight to the tutorials, no URL shorteners. However, if the URL is too long (more than 80 characters), Google URL Shortener is allowed
 
-Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at <tuvtran97@gmail.com>
+Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at xyz@gmail.com
