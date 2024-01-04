@@ -639,6 +639,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Writing a Rust Roguelike for the Desktop and the Web](https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/)
 - [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 - [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/)
+- [Write a Toy VPN in Rust](https://write.yiransheng.com/vpn)
 - Create a simulation of evolution using neural network and genetic algorithm, and compile the application to WebAssembly
   - [Part 1](https://pwy.io/en/posts/learning-to-fly-pt1/)
   - [Part 2](https://pwy.io/en/posts/learning-to-fly-pt2/)
