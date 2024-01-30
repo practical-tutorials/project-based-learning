@@ -31,6 +31,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Scala](#scala)
 - [Swift](#swift)
 - [Additional resources](#additional-resources)
+- [SQL](#SQL)
 
 ## C/C++:
 
@@ -669,3 +670,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
+## SQL
+
+- [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/)
+- [Introduction to Databases and SQL querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/)
+- [Advanced SQL Databases and SQL querying](https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/)
