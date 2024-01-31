@@ -216,6 +216,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a TicTacToe Game with JavaScript](https://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
 - [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
+- [Build a simple URL shortener with javaScript](https://www.freecodecamp.org/news/building-a-simple-url-shortener-with-just-html-and-javascript-6ea1ecda308c/?source=post_page-----54c80de4f48c--------------------------------)
+- [Build memory game in javascript](https://medium.com/free-code-camp/vanilla-javascript-tutorial-build-a-memory-game-in-30-minutes-e542c4447eae)
+- [Build a count-down timer with javascript](https://hackr.io/blog/how-to-create-a-javascript-countdown-timer)
+- [Build a digital javascript drum kit](https://hackr.io/blog/how-to-build-a-javascript-drum-kit)
 
 ## HTML and CSS:
 
