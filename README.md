@@ -20,6 +20,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [HTML/CSS](#html-and-css)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Julia](#julia)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [OCaml](#ocaml)
@@ -216,6 +217,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a TicTacToe Game with JavaScript](https://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
 - [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
+
+## Julia:
+
+- [Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial](https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/)
 
 ## HTML and CSS:
 
