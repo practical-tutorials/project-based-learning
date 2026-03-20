@@ -30,6 +30,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
+- [TypeScript](#typescript)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -654,6 +655,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 - [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
+
+## TypeScript:
+
+- [Build a Browser-Based Terminal Emulator from Scratch in TypeScript](https://ronak-create.github.io/Terminal-Emulator/)
 
 ## Additional Resources
 
