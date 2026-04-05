@@ -20,6 +20,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [HTML/CSS](#html-and-css)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Build an AI Bug Reporter](https://github.com/Ankitajainkuniya/glitch-widget) - Learn to build a bug reporting widget with screenshot capture, voice recording, and AI triage
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [OCaml](#ocaml)
