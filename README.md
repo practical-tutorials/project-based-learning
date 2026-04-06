@@ -6,6 +6,7 @@ A list of programming tutorials in which aspiring software developers learn how 
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for project-based development orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## Table of Contents:
 
 - [C#](#c)
