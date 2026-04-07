@@ -669,3 +669,38 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
+
+---
+
+## 🚀 Project Overview
+Enhanced README documentation for clarity, badges, and contribution guidance.
+
+## ✨ Features
+- Improved documentation structure
+- Repository metadata and badges
+- Automated activity insights
+- Contribution guidance
+
+## 🤝 Contributing
+Contributions are welcome.  
+Feel free to open issues or submit pull requests.
+
+## 📊 Repository Statistics
+![Stars](https://img.shields.io/github/stars/practical-tutorials/project-based-learning)
+![Forks](https://img.shields.io/github/forks/practical-tutorials/project-based-learning)
+![Issues](https://img.shields.io/github/issues/practical-tutorials/project-based-learning)
+![License](https://img.shields.io/github/license/practical-tutorials/project-based-learning)
+
+## 📜 Recent Repository Activity
+- 243d339 Add "Write a game boy emulator in Ocaml" (#419) (Axel Baudot, 2023-03-21)
+- 4277a10 Add a new c/c++ project (#403) (Cheese, 2023-03-21)
+- 6d753e5 Added Flutter Netflix Clone Tutorial (#408) (Rory Donald, 2023-03-20)
+- 74363c5 Adding Flutter Tutorials (#364) (Rivaan Ranawat, 2022-08-28)
+- ba4c3c6 Added Realtime Chat app tutorial for django (#371) (Alireza Ghorbani, 2022-08-25)
+
+## 🕒 Last Updated
+Wed Apr  8 02:49:51 +04 2026
+
+---
+
+### 🤖 Automated Documentation Update
