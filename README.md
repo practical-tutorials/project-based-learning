@@ -394,6 +394,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4](https://danidee10.github.io/2018/01/10/realtime-django-4.html)
   - [Part 5](https://danidee10.github.io/2018/01/13/realtime-django-5.html)
   - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
+- [Creating APIs with Python - Comprehensive Course for Beginners](https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/)
 
 ### Bots:
 
