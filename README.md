@@ -418,6 +418,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - Data Analysis with Python (course):
   - [Introduction to Data Analysis](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+
 ### Machine Learning:
 
 - [Write Linear Regression From Scratch in Python](https://www.youtube.com/watch?v=uwwWVAgJBcM) (video)
