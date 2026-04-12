@@ -417,7 +417,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6: Genetic Algorithms](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
 
 - Data Analysis with Python (course):
-  - [Introduction to Data Analysis](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+  - [Freecodecamp Introduction to Data Analysis](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
 ### Machine Learning:
 
