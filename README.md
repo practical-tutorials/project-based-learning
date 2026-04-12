@@ -406,6 +406,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
 - [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 
+### Data Analysis:
+
+
 ### Data Science:
 
 - Learn Python For Data Science by Doing Several Projects (video):
@@ -415,6 +418,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4: Predicting Stock Prices](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
   - [Part 5: Deep Dream in TensorFlow](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
   - [Part 6: Genetic Algorithms](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+
+- Data Analysis with Python (course):
+  - [Introduction to Data Analysis](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
 ### Machine Learning:
 
