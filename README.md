@@ -6,6 +6,17 @@ A list of programming tutorials in which aspiring software developers learn how 
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
+### Resource tags
+
+Use one tag at the end of each tutorial item to indicate its primary format:
+`[guide] [video] [course] [book] [repo]`
+
+Example:
+
+- [Tutorial Title](https://example.com) [guide]
+
+This rollout can start with new entries first and expand gradually across older lists.
+
 ## Table of Contents:
 
 - [C#](#c)
@@ -34,9 +45,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## C/C++:
 
-- [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
-- [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
-- [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+- [Build an Interpreter](http://www.craftinginterpreters.com/) [book] (Chapter 14 on is written in C)
+- [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory) [guide]
+- [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) [guide]
 - [Write a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
 - [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
