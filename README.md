@@ -406,6 +406,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
 - [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 
+### Data Engineering:
+
+- [Data Engineering Fundamentals](https://github.com/Mavengence/data-engineering-fundamentals) - Ten DE concepts taught as browser simulators. Drag the watermark, overflow a worker, break a capstone gate. No install.
+
 ### Data Science:
 
 - Learn Python For Data Science by Doing Several Projects (video):
