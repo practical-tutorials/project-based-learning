@@ -6,6 +6,14 @@ A list of programming tutorials in which aspiring software developers learn how 
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
+### Resource tags
+
+Use one resource-type tag at the end of each tutorial item:
+`[guide] [video] [course] [book] [repo]`
+
+Example:
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) [repo]
+
 ## Table of Contents:
 
 - [C#](#c)
@@ -34,11 +42,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## C/C++:
 
-- [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
-- [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
-- [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
-- [Write a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
-- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
+- [Build an Interpreter](http://www.craftinginterpreters.com/) [book] (Chapter 14 on is written in C)
+- [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory) [guide]
+- [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) [guide]
+- [Write a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/) [guide]
+- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/) [guide]
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 - [How to Program an NES Game in C](https://nesdoug.com/)
 - [Write an OS from scratch](https://github.com/tuhdo/os01)

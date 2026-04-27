@@ -7,10 +7,11 @@ Before making a pull request, please make sure of the following:
 * The pull request needs to have a descriptive title
 * If the language/technology of your tutorial does not exist, feel free to create a new entry in table of contents
 * Make a separate pull request for each of the tutorial
-* Use the following format `[Title](link_to_tutorial)`
+* Use the following format `[Title](link_to_tutorial) [guide]`
+* Append exactly one resource tag to each new tutorial entry: `[guide]`, `[video]`, `[course]`, `[book]`, or `[repo]`
 * If your tutorial is a multi-part series, use the following format:
     ```
-        * Title
+        * Title [guide]
             * [Part 1](link_to_part_1)
             * [Part 2](link_to_part_2)
     ```
@@ -18,5 +19,11 @@ Before making a pull request, please make sure of the following:
 * Do the work, write good commit messages, and read the CONTRIBUTING file if there is one
 * Remove any trailing whitespaces
 * Links must be pointing straight to the tutorials, no URL shorteners. However, if the URL is too long (more than 80 characters), Google URL Shortener is allowed
+
+### Entry format examples
+
+* `[Build an Interpreter](http://www.craftinginterpreters.com/) [book]`
+* `[Build an Android Flashlight App](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]`
+* `[Write an OS from scratch](https://github.com/tuhdo/os01) [repo]`
 
 Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at <tuvtran97@gmail.com>
