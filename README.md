@@ -566,6 +566,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building a TCP Chat in Go(video)](https://www.youtube.com/watch?v=Sphme0BqJiY)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [REST API masterclass with Go, PostgreSQL and Docker(video playlist)`in progress`](https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
+- [Build a CLI Application in Go with Cobra](https://schadokar.dev/posts/build-a-cli-application-in-go-with-cobra/)
+- [Building a Task Scheduler in Go](https://medium.com/@rankoalhirsi/building-a-task-scheduler-in-go-a-comprehensive-guide-8f0b2ba0b810)
 
 ## PHP:
 
