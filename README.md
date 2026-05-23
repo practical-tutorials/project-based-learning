@@ -107,6 +107,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Network programming
 
+- [Networking from Scratch](https://github.com/TanayK07/networking-from-scratch) - Build the network stack from raw bytes. 289 hands-on lessons in C and Python.
+
 - Let's Code a TCP/IP Stack
 
   - [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
