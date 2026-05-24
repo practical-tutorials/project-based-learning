@@ -1,5 +1,11 @@
 # Project Based Learning
 
+## Shell Scripting / Bash
+
+- [Learn Bash the Hard Way](https://leanpub.com/learnbashthehardway)
+- [Bash Guide for Beginners](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
+
+
 [![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
