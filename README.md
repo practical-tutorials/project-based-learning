@@ -347,22 +347,22 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ### LÖVE:
 
 - BYTEPATH: Creation of a Complete Game with Lua and LÖVE
-  - [Part 0: Introduction](https://github.com/SSYGEN/blog/issues/30)
-  - [Part 1: Game Loop](https://github.com/SSYGEN/blog/issues/15)
-  - [Part 2: Libraries](https://github.com/SSYGEN/blog/issues/16)
-  - [Part 3: Rooms and Areas](https://github.com/SSYGEN/blog/issues/17)
-  - [Part 4: Exercises](https://github.com/SSYGEN/blog/issues/18)
-  - [Part 5: Game Basics](https://github.com/SSYGEN/blog/issues/19)
-  - [Part 6: Player Basics](https://github.com/SSYGEN/blog/issues/20)
-  - [Part 7: Player Stats and Attacks](https://github.com/SSYGEN/blog/issues/21)
-  - [Part 8: Enemies](https://github.com/SSYGEN/blog/issues/22)
-  - [Part 9: Director and Gameplay Loop](https://github.com/SSYGEN/blog/issues/23)
-  - [Part 10: Coding Practices](https://github.com/SSYGEN/blog/issues/24)
-  - [Part 11: Passives](https://github.com/SSYGEN/blog/issues/25)
-  - [Part 12: More Passives](https://github.com/SSYGEN/blog/issues/26)
-  - [Part 13: Skill Tree](https://github.com/SSYGEN/blog/issues/27)
-  - [Part 14: Console](https://github.com/SSYGEN/blog/issues/28)
-  - [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
+  - [Part 0: Introduction](https://github.com/a327ex/blog/issues/30)
+  - [Part 1: Game Loop](https://github.com/a327ex/blog/issues/15)
+  - [Part 2: Libraries](https://github.com/a327ex/blog/issues/16)
+  - [Part 3: Rooms and Areas](https://github.com/a327ex/blog/issues/17)
+  - [Part 4: Exercises](https://github.com/a327ex/blog/issues/18)
+  - [Part 5: Game Basics](https://github.com/a327ex/blog/issues/19)
+  - [Part 6: Player Basics](https://github.com/a327ex/blog/issues/20)
+  - [Part 7: Player Stats and Attacks](https://github.com/a327ex/blog/issues/21)
+  - [Part 8: Enemies](https://github.com/a327ex/blog/issues/22)
+  - [Part 9: Director and Gameplay Loop](https://github.com/a327ex/blog/issues/23)
+  - [Part 10: Coding Practices](https://github.com/a327ex/blog/issues/24)
+  - [Part 11: Passives](https://github.com/a327ex/blog/issues/25)
+  - [Part 12: More Passives](https://github.com/a327ex/blog/issues/26)
+  - [Part 13: Skill Tree](https://github.com/a327ex/blog/issues/27)
+  - [Part 14: Console](https://github.com/a327ex/blog/issues/28)
+  - [Part 15: Final](https://github.com/a327ex/blog/issues/29)
 
 ## Python:
 
@@ -632,7 +632,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Write an OS in pure Rust](https://os.phil-opp.com/)
 - [Build a browser engine in Rust](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [Write a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/)
-- [Learning Rust with Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/README.html)
+- [Learning Rust with Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 - Rust in Detail: Writing Scalable Chat Service from Scratch
   - [Part 1: Implementing WebSocket. Introduction.](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
   - [Part 2: Sending and Receiving Messages](https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html)
