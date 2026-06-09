@@ -649,11 +649,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Simple actor-based blockchain](https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177/)
 - [No Magic: Regular Expressions](https://rcoh.svbtle.com/no-magic-regular-expressions)
-
+  
 ## Swift:
 
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 - [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
+- [Build an iOS App with SwiftUI](https://www.swift.org/getting-started/swiftui/)
+- [Developing iOS Apps with SwiftUI (Stanford CS193p)](https://cs193p.sites.stanford.edu/)
 
 ## Additional Resources
 
