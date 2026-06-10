@@ -365,6 +365,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 15: Final](https://github.com/SSYGEN/blog/issues/29)
 
 ## Python:
+* [Build a Blockchain](https://github.com/dvf/blockchain) - Learn to build a blockchain with Python by creating a simple cryptocurrency.
 
 ### Web Scraping:
 
