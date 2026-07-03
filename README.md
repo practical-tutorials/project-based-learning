@@ -263,6 +263,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 7](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
 - [React Phone E-Commerce Project(video)](https://www.youtube.com/watch?v=-edmQKcOW8s)
 
+#### Next.js:
+
+- [App Router](https://nextjs.org/learn/dashboard-app)
+
 #### Angular:
 
 - [Build an Instagram Clone with Angular 1.x](https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
