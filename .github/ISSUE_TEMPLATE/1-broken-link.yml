@@ -1,0 +1,77 @@
+name: 🔗 Broken link
+description: Report a dead or broken tutorial link in README.md
+title: "[Broken link]: "
+labels: ["broken-link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before filing: dead links are also tracked automatically in the weekly
+        [🔗 Link rot report](../issues?q=is%3Aissue+is%3Aopen+label%3Alink-rot).
+        Please check there first -- if it's already listed, there's no need to
+        open a new issue.
+  - type: input
+    id: entry-title
+    attributes:
+      label: Entry title
+      description: The exact title text of the README entry.
+      placeholder: Build an Interpreter
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Broken URL
+      description: The URL currently in README.md that is broken.
+      placeholder: https://example.com/tutorial
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      description: Which README section is this entry under?
+      options:
+        - C#
+        - C/C++
+        - Clojure
+        - Dart
+        - Elixir
+        - Erlang
+        - F#
+        - Go
+        - Haskell
+        - HTML and CSS
+        - Java
+        - JavaScript
+        - Kotlin
+        - Lua
+        - OCaml
+        - PHP
+        - Python
+        - R
+        - Ruby
+        - Rust
+        - Scala
+        - Swift
+        - Additional Resources
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence / suggested replacement
+      description: >-
+        What did you see (404, parked domain, paywall, etc.)? If the tutorial
+        moved rather than disappeared, please link the new URL here -- we
+        prefer updating the entry in place over replacing it with an
+        archive.org snapshot.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched the open 🔗 Link rot report issue and this link is not already listed there.
+          required: true

@@ -1,6 +1,6 @@
 # Project Based Learning
 
-[![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Link rot sweep](https://github.com/practical-tutorials/project-based-learning/actions/workflows/link-rot.yml/badge.svg)](https://github.com/practical-tutorials/project-based-learning/actions/workflows/link-rot.yml)
 
 A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 

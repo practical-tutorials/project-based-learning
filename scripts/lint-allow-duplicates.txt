@@ -1,0 +1,12 @@
+# URLs allowlisted to appear more than once in README.md.
+# One normalized URL per line. Add a comment explaining why it's legitimate.
+
+# Chapters 1-13 are Java, chapter 14+ is C -- intentionally cross-listed
+# under both the C/C++ and Java sections.
+http://www.craftinginterpreters.com/
+
+# Same physical page, different #fragment per language variant (C++ vs
+# OCaml) of the Kaleidoscope tutorial -- intentionally cross-listed under
+# both the C/C++ and OCaml sections. Our duplicate check strips fragments,
+# so this needs the path-level allowlist entry.
+https://llvm.org/docs/tutorial/

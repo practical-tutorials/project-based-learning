@@ -1,0 +1,63 @@
+name: Link rot sweep
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: link-rot-sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        with:
+          fetch-depth: 0
+
+      - name: Check every link in README.md
+        run: |
+          # check-links exits 1 as soon as any URL is dead/suspect -- that's the
+          # expected, reportable outcome of a link-rot sweep, not a script
+          # failure, so `|| true` here (state commit + issue upsert below are
+          # what actually need to keep running either way).
+          python3 scripts/check_readme.py check-links --all --state .github/link-rot-state.json --json > /tmp/results.json || true
+          python3 -c "import json; print('stats:', json.load(open('/tmp/results.json'))['stats'])" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit updated sweep state
+        continue-on-error: true
+        run: |
+          if git diff --quiet -- .github/link-rot-state.json; then
+            echo "No state changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .github/link-rot-state.json
+            git commit -m "chore(link-rot): update sweep state [skip ci]"
+            git pull --rebase origin "${{ github.ref_name }}"
+            git push origin "HEAD:${{ github.ref_name }}"
+          fi
+
+      - name: Render report body
+        if: always()
+        run: python3 scripts/check_readme.py report --results /tmp/results.json --state .github/link-rot-state.json > /tmp/report-body.md
+
+      - name: Upsert consolidated link-rot report issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          existing=$(gh issue list --repo "${{ github.repository }}" --search "🔗 Link rot report in:title" --label link-rot --state open --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            gh issue edit "$existing" --repo "${{ github.repository }}" --body-file /tmp/report-body.md
+          else
+            gh issue create --repo "${{ github.repository }}" --title "🔗 Link rot report" --label link-rot --body-file /tmp/report-body.md
+          fi

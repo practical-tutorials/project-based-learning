@@ -1,0 +1,14 @@
+# Domains known to block or challenge automated/CI User-Agents and IP ranges.
+# Failures against these domains are reported as BLOCKED, never HARD_DEAD/SUSPECT,
+# so runner-IP blocks don't get misreported as link rot.
+# Lines starting with "*." match any subdomain (not the bare domain itself).
+
+medium.com
+*.medium.com
+towardsdatascience.com
+reddit.com
+twitter.com
+x.com
+linkedin.com
+udemy.com
+quora.com

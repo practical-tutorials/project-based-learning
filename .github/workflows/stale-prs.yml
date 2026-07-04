@@ -1,0 +1,39 @@
+# NOTE: PRs only -- issues are explicitly exempted (days-before-issue-stale: -1).
+# The old .github/stale.yml (probot, 30/14-day issue staling) is what buried
+# legitimate broken-link reports for years; this workflow deliberately never
+# staples that behavior back onto issues.
+name: Stale PRs
+
+on:
+  schedule:
+    - cron: "30 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: stale-prs
+  cancel-in-progress: false
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/stale@eb5cf3af3ac0a1aa4c9c45633dd1ae542a27a899 # v10.3.0
+        with:
+          days-before-issue-stale: -1
+          days-before-pr-stale: 90
+          days-before-pr-close: 30
+          exempt-pr-labels: keep-open
+          operations-per-run: 60
+          stale-pr-message: >
+            This pull request has been automatically marked as stale because it has had
+            no activity in 90 days. It will be closed in 30 days if no further activity
+            occurs. If it's still relevant, rebasing or leaving a comment will keep it open --
+            thank you for the contribution!
+          close-pr-message: >
+            Closing due to inactivity. Please feel free to reopen or resubmit if you'd like
+            to pick this back up -- thank you for the contribution!

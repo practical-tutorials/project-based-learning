@@ -1,0 +1,47 @@
+name: Validate README PR
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - CONTRIBUTING.md
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-pr-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        with:
+          fetch-depth: 0
+
+      - name: Lint README grammar, duplicates, and Table of Contents
+        run: python3 scripts/check_readme.py lint >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Check added lines (grammar, shorteners, http://)
+        env:
+          BASE_REF: ${{ github.event.pull_request.base.ref }}
+        run: |
+          git diff --unified=0 "origin/$BASE_REF...HEAD" -- README.md > /tmp/pr.diff
+          python3 scripts/check_readme.py check-diff --json < /tmp/pr.diff > /tmp/added.json || true
+          python3 scripts/check_readme.py check-diff < /tmp/pr.diff >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Check liveness of added links
+        run: |
+          added=$(python3 -c "import json; print(len(json.load(open('/tmp/added.json')).get('added_urls', [])))")
+          if [ "$added" = "0" ]; then
+            echo "No added URLs to check." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo '### Added-link liveness' >> "$GITHUB_STEP_SUMMARY"
+            echo '(a `BLOCKED` result means the domain resists automated checks -- please verify manually)' >> "$GITHUB_STEP_SUMMARY"
+            echo '' >> "$GITHUB_STEP_SUMMARY"
+            python3 scripts/check_readme.py check-links --urls-from /tmp/added.json --dry-run >> "$GITHUB_STEP_SUMMARY"
+          fi

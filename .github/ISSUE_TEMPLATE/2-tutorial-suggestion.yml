@@ -1,0 +1,76 @@
+name: 💡 Tutorial suggestion
+description: Suggest a tutorial to add to README.md
+title: "[Suggestion]: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer opening a pull request directly if you can -- see
+        [CONTRIBUTING.md](../blob/master/CONTRIBUTING.md). Use this form if
+        you'd rather flag an idea for someone else to add.
+  - type: input
+    id: title
+    attributes:
+      label: Tutorial title
+      placeholder: Build an Interpreter
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://example.com/tutorial
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      description: Which README section should this go under? Pick "New section" if none fit.
+      options:
+        - C#
+        - C/C++
+        - Clojure
+        - Dart
+        - Elixir
+        - Erlang
+        - F#
+        - Go
+        - Haskell
+        - HTML and CSS
+        - Java
+        - JavaScript
+        - Kotlin
+        - Lua
+        - OCaml
+        - PHP
+        - Python
+        - R
+        - Ruby
+        - Rust
+        - Scala
+        - Swift
+        - Additional Resources
+        - New section (describe below)
+    validations:
+      required: true
+  - type: checkboxes
+    id: quality
+    attributes:
+      label: Quality bar
+      options:
+        - label: Free and open -- no paywall, login wall, or required newsletter signup.
+          required: true
+        - label: Project-based -- following it, the reader builds a complete, working artifact (not just a concept explainer).
+          required: true
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to this tutorial
+      options:
+        - No relationship -- just a reader
+        - I am the author
+        - I am affiliated with the author or site (employee, sponsor, etc.)
+    validations:
+      required: true

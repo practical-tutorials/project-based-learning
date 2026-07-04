@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Chat / general discussion
+    url: https://gitter.im/practical-tutorials/community
+    about: For general questions or discussion, join the Gitter room instead of opening an issue.

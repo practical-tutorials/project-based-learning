@@ -1,27 +1,18 @@
-<!--- Provide a general summary of your changes in the Title above -->
+<!--- One tutorial per pull request, please -- it makes review much faster. -->
 
-## Description
-<!--- Describe your changes in detail -->
+## What is this?
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
+- Title:
+- URL:
+- Section:
 
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+## Checklist
 
-## Types of changes
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-- [ ] Content Update (change which fixes an issue or updates an already existing submission)
-- [ ] New Article (change which adds functionality)
-- [ ] Documentation change
-
-## Checklist:
-<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] My code follows the code style of this project.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have read the **CONTRIBUTING** document.
-- [ ] I have made checks to ensure URLs and other resources are valid
+- [ ] This PR adds/fixes exactly one tutorial (or is a docs/tooling-only change).
+- [ ] Free and open -- no paywall, login wall, or required newsletter signup.
+- [ ] Project-based -- following it, the reader builds a complete, working artifact.
+- [ ] I searched README.md for this URL and title -- it is not already listed.
+- [ ] Entry uses `- [Title](https://...)` format, placed under the correct section (nested `- [Part N](...)` for multi-part series).
+- [ ] No URL shorteners.
+- [ ] I ran `python3 scripts/check_readme.py lint` locally and it exits 0.
+- [ ] Relationship disclosure: no relationship to the author / I am the author / I am affiliated with the author or site (delete the two that don't apply).
