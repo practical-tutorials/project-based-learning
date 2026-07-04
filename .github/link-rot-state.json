@@ -1,1 +1,3650 @@
-{}
+{
+  "https|aimlesslygoingforward.com|/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|andrewgriffithsonline.com|/blog/serverless-websockets-on-aws|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|arjunsreedharan.org|/post/148675821737/memory-allocators-101-write-a-simple-memory|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "HARD_DEAD",
+    "last_status": null,
+    "redirect_to": null
+  },
+  "https|astaxie.gitbooks.io|/build-web-application-with-golang/content/en|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|austinmorlan.com|/posts/chip8_emulator|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|becominghuman.ai|/transfer-learning-retraining-inception-v3-for-custom-image-classification-2820f653c557|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": null,
+    "redirect_to": null
+  },
+  "https|bernhardwenzel.com|/articles/clojure-spellchecker|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|bitsofco.de|/bitsofcode-pwa-part-1-offline-first-with-service-worker|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|bitsofco.de|/bitsofcode-pwa-part-2-instant-loading-with-indexeddb|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|bitsofco.de|/bitsofcode-pwa-part-3-push-notifications|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|blog.asrpo.com|/making_a_low_level_debugger_part_2|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|blog.asrpo.com|/making_a_low_level_debugger|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|blog.bitsrc.io|/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": null,
+    "redirect_to": null
+  },
+  "https|blog.hartleybrody.com|/fb-messenger-bot|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|blog.hasura.io|/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://hasura.io/blog/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a"
+  },
+  "https|blog.jse.li|/posts/torrent|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|blog.lizzie.io|/linux-containers-in-500-loc.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|blog.miguelgrinberg.com|/post/the-flask-mega-tutorial-part-i-hello-world|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|blog.scottlogic.com|/2017/05/22/gifbot-github-integration.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|blog.tartanllama.xyz|/writing-a-linux-debugger-advanced-topics|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://tartanllama.xyz/writing-a-linux-debugger-advanced-topics/"
+  },
+  "https|blog.tartanllama.xyz|/writing-a-linux-debugger-breakpoints|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://tartanllama.xyz/writing-a-linux-debugger-breakpoints/"
+  },
+  "https|blog.tartanllama.xyz|/writing-a-linux-debugger-dwarf-step|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://tartanllama.xyz/writing-a-linux-debugger-dwarf-step/"
+  },
+  "https|blog.tartanllama.xyz|/writing-a-linux-debugger-elf-dwarf|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://tartanllama.xyz/writing-a-linux-debugger-elf-dwarf/"
+  },
+  "https|blog.tartanllama.xyz|/writing-a-linux-debugger-registers|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://tartanllama.xyz/writing-a-linux-debugger-registers/"
+  },
+  "https|blog.tartanllama.xyz|/writing-a-linux-debugger-setup|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://tartanllama.xyz/writing-a-linux-debugger-setup/"
+  },
+  "https|blog.tartanllama.xyz|/writing-a-linux-debugger-source-break|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://tartanllama.xyz/writing-a-linux-debugger-source-break/"
+  },
+  "https|blog.tartanllama.xyz|/writing-a-linux-debugger-source-signal|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://tartanllama.xyz/writing-a-linux-debugger-source-signal/"
+  },
+  "https|blog.tartanllama.xyz|/writing-a-linux-debugger-unwinding|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://tartanllama.xyz/writing-a-linux-debugger-unwinding/"
+  },
+  "https|blog.tartanllama.xyz|/writing-a-linux-debugger-variables|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://tartanllama.xyz/writing-a-linux-debugger-variables/"
+  },
+  "https|brennan.io|/2015/01/16/write-a-shell-in-c|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|briancallahan.net|/blog/20210814.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|briancallahan.net|/blog/20210815.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|briancallahan.net|/blog/20210816.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|briancallahan.net|/blog/20210817.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|briancallahan.net|/blog/20210818.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|briancallahan.net|/blog/20210819.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|briancallahan.net|/blog/20210822.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|briancallahan.net|/blog/20210826.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|bugzmanov.github.io|/nes_ebook|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|build-your-own.org|/redis|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|codeburst.io|/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|codeburst.io|/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|codeburst.io|/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|codeburst.io|/create-a-django-api-in-under-20-minutes-2a082a60f6f3|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|codecrafters.io||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|codepr.github.io|/posts/sol-mqtt-broker-bonus|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-bonus/"
+  },
+  "https|codepr.github.io|/posts/sol-mqtt-broker-p2|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-p2/"
+  },
+  "https|codepr.github.io|/posts/sol-mqtt-broker-p3|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-p3/"
+  },
+  "https|codepr.github.io|/posts/sol-mqtt-broker-p4|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-p4/"
+  },
+  "https|codepr.github.io|/posts/sol-mqtt-broker-p5|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-p5/"
+  },
+  "https|codepr.github.io|/posts/sol-mqtt-broker-p6|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-p6/"
+  },
+  "https|codepr.github.io|/posts/sol-mqtt-broker|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker/"
+  },
+  "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "SUSPECT",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|cs193p.sites.stanford.edu||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://cs193p.stanford.edu/"
+  },
+  "https|csl.name|/post/python-jit|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|cstack.github.io|/db_tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|danidee10.github.io|/2018/01/01/realtime-django-1.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|danidee10.github.io|/2018/01/03/realtime-django-2.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|danidee10.github.io|/2018/01/07/realtime-django-3.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|danidee10.github.io|/2018/01/10/realtime-django-4.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|danidee10.github.io|/2018/01/13/realtime-django-5.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|danidee10.github.io|/2018/03/12/realtime-django-6.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|data-flair.training|/blogs/advanced-python-project-detecting-fake-news|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|david942j.blogspot.com|/2018/10/note-learning-kvm-implement-your-own.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|developer.mozilla.org|/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|docs.streamlit.io|/get-started/tutorials/create-an-app|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|egghead.io|/courses/build-a-react-native-todo-application|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2017/concurrent-servers-part-1-introduction|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2017/concurrent-servers-part-2-threads|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2017/concurrent-servers-part-3-event-driven|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2017/concurrent-servers-part-4-libuv|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2017/concurrent-servers-part-5-redis-case-study|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2021/rest-servers-in-go-part-1-standard-library|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2021/rest-servers-in-go-part-2-using-a-router-package|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2021/rest-servers-in-go-part-3-using-a-web-framework|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2021/rest-servers-in-go-part-4-using-openapi-and-swagger|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2021/rest-servers-in-go-part-5-middleware|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2021/rest-servers-in-go-part-6-authentication|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|eli.thegreenplace.net|/2021/rest-servers-in-go-part-7-graphql|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|en.wikibooks.org|/wiki/Write_Yourself_a_Scheme_in_48_Hours|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|enlight.nyc||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|gist.github.com|/nadavrot/5b35d44e8ba3dd718e595e40184d03f0|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/TanayK07/networking-from-scratch|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/15|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/16|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/17|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/18|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/19|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/20|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/21|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/22|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/23|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/24|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/25|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/26|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/27|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/28|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/29|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/a327ex/blog/issues/30|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/adamwespiser/scheme|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/aliaksandr-s/prototyping-with-clojure|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/cfenollosa/os-tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/csharpfritz/CoreWiki|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/dwyl/javascript-todo-list-tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/jamesroutley/write-a-hash-table|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/kylemcdonald/SmileCNN|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/markerikson/react-redux-links|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/nicklockwood/RetroRampage|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/ssloy/tinykaboom/wiki|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/ssloy/tinyraycaster/wiki|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/ssloy/tinyraytracer/wiki|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/ssloy/tinyrenderer/wiki|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|github.com|/tuhdo/os01|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|hackclub.com|/workshops|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "HARD_DEAD",
+    "last_status": 404,
+    "redirect_to": null
+  },
+  "https|hackernoon.com|/a-basic-react-redux-introductory-tutorial-adcc681eeb5e|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|hackernoon.com|/build-an-appointment-scheduler-using-react-twilio-and-cosmic-js-95377f6d1040|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|hackernoon.com|/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|hackernoon.com|/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|hackernoon.com|/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|hackernoon.com|/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|hackernoon.com|/full-stack-web-application-using-react-node-js-express-and-webpack-97dbd5b9d708|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|hackernoon.com|/learn-blockchains-by-building-one-117428612f46|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|hackhands.com|/building-instagram-clone-angularjs-satellizer-nodejs-mongodb|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "HARD_DEAD",
+    "last_status": 404,
+    "redirect_to": null
+  },
+  "https|handmadehero.org||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://mollyrocket.com/#handmade"
+  },
+  "https|heartbeat.fritz.ai|/how-to-train-a-keras-model-to-generate-colors-3bc79e54971b|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://fritz.ai/how-to-train-a-keras-model-to-generate-colors/"
+  },
+  "https|houssein.me|/angular2-hacker-news|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|houssein.me|/progressive-angular-applications|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|iamtrask.github.io|/2015/07/12/basic-python-network|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|iamtrask.github.io|/2015/07/27/python-network-part2|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|javascript30.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|jeiwan.net|/posts/building-blockchain-in-go-part-1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|jeiwan.net|/posts/building-blockchain-in-go-part-2|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|jeiwan.net|/posts/building-blockchain-in-go-part-3|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|jeiwan.net|/posts/building-blockchain-in-go-part-4|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|jeiwan.net|/posts/building-blockchain-in-go-part-5|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|jeiwan.net|/posts/building-blockchain-in-go-part-6|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|jeiwan.net|/posts/building-blockchain-in-go-part-7|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "SUSPECT",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|justinmeiners.github.io|/lc3-vm|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.jmeiners.com/lc3-vm/"
+  },
+  "https|khashtamov.com|/en/how-to-create-a-telegram-bot-using-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|khashtamov.com|/en/how-to-deploy-telegram-bot-django|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Audio|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Breakout|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Collisions/Ball|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Collisions/Collision-detection|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Collisions/Collision-resolution|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Final-thoughts|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Levels|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Particles|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Postprocessing|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Powerups|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Render-text|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Rendering-Sprites|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|learnopengl.com|/In-Practice/2D-Game/Setting-up|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|lettier.github.io|/posts/2016-08-15-making-movie-monad.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|limpet.net|/mbrubeck/2014/08/08/toy-layout-engine-1.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|link.medium.com|/wWUO7TN8SS|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c21429c39e037af5ea038cffed"
+  },
+  "https|linoscope.github.io|/writing-a-game-boy-emulator-in-ocaml|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|llvm.org|/docs/tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|machinelearningmastery.com|/machine-learning-in-python-step-by-step|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|marcobonzanini.com|/2015/03/02/mining-twitter-data-with-python-part-1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|marianoguerra.org|/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|matthiashager.com|/complete-vuejs-application-tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|medium.com|/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@alialhaddad/how-to-use-redux-thunk-in-react-and-react-native-4743a1321bd0|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@anaida07/mevn-stack-application-part-1-3a27b61dcae0|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@anaida07/mevn-stack-application-part-2-2-9ebcf8a22753|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-1-4049a3cc229d|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-2-roles-and-permissions-d9a5bfe5d525|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-2-unit-tests-96d6dfbf0617|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-3-invitation-c982dca55eb9|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-4-tenancy-aware-authentication-e0ee37270bc8|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-5-user-profile-5c3d0c655f3a|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-7-deployment-40bb3c895627|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@ashokgelal/writing-a-full-featured-multi-tenant-laravel-app-from-scratch-a0e1a7350d9d|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@kris101/clone-medium-on-node-js-and-react-js-731cdfbb6878|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@lvarruda/how-to-get-top-2-position-on-kaggles-mnist-digit-recognizer-48185d80a2d4|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@tomastrajan/how-to-build-responsive-layouts-with-bootstrap-4-and-angular-6-cfbb108d797b|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/@wesharehoodies/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/free-code-camp/how-to-write-a-super-fast-link-shortener-with-elixir-phoenix-and-mnesia-70ffa1564b3c|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/tensorflow/hello-deep-learning-fashion-mnist-with-keras-50fcff8cd74a|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.com|/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|medium.freecodecamp.org|/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f"
+  },
+  "https|medium.freecodecamp.org|/build-native-desktop-apps-with-javascript-a49ede90d8e9|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/build-native-desktop-apps-with-javascript-a49ede90d8e9"
+  },
+  "https|medium.freecodecamp.org|/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f"
+  },
+  "https|medium.freecodecamp.org|/building-chrome-extensions-in-react-parcel-79d0240dd58f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/building-chrome-extensions-in-react-parcel-79d0240dd58f"
+  },
+  "https|medium.freecodecamp.org|/create-a-news-app-using-react-native-ced249263627|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/create-a-news-app-using-react-native-ced249263627"
+  },
+  "https|medium.freecodecamp.org|/create-gameoflife-with-react-in-one-hour-8e686a410174|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/create-gameoflife-with-react-in-one-hour-8e686a410174"
+  },
+  "https|medium.freecodecamp.org|/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607"
+  },
+  "https|medium.freecodecamp.org|/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc"
+  },
+  "https|medium.freecodecamp.org|/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a"
+  },
+  "https|medium.freecodecamp.org|/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f"
+  },
+  "https|medium.freecodecamp.org|/how-to-build-a-simple-search-bot-in-30-minutes-eb56fcedcdb1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/how-to-build-a-simple-search-bot-in-30-minutes-eb56fcedcdb1"
+  },
+  "https|medium.freecodecamp.org|/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98"
+  },
+  "https|medium.freecodecamp.org|/how-to-build-your-own-react-boilerplate-2f8cbbeb9b3f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/how-to-build-your-own-react-boilerplate-2f8cbbeb9b3f"
+  },
+  "https|medium.freecodecamp.org|/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f"
+  },
+  "https|medium.freecodecamp.org|/learn-to-create-a-line-chart-using-d3-js-4f43f1ee716b|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/learn-to-create-a-line-chart-using-d3-js-4f43f1ee716b"
+  },
+  "https|medium.freecodecamp.org|/learn-webpack-for-react-a36d4cac5060|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/learn-webpack-for-react-a36d4cac5060"
+  },
+  "https|medium.freecodecamp.org|/making-your-own-face-recognition-system-29a8e728107c|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/making-your-own-face-recognition-system-29a8e728107c"
+  },
+  "https|medium.freecodecamp.org|/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.freecodecamp.org/news/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee"
+  },
+  "https|nbaksalyar.github.io|/2015/07/10/writing-chat-in-rust.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|nbaksalyar.github.io|/2015/11/09/rust-in-detail-2.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|nesdoug.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|nextjs.org|/learn/dashboard-app|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|nicholastsmith.wordpress.com|/2016/02/18/eigenfaces-versus-fisherfaces-on-the-faces94-database-with-scikit-learn|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|nodeschool.io||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|norasandler.com|/2017/11/29/Write-a-Compiler.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|norasandler.com|/2017/12/05/Write-a-Compiler-2.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|norasandler.com|/2017/12/15/Write-a-Compiler-3.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|norasandler.com|/2017/12/28/Write-a-Compiler-4.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|norasandler.com|/2018/01/08/Write-a-Compiler-5.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|norasandler.com|/2018/02/25/Write-a-Compiler-6.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|norasandler.com|/2018/03/14/Write-a-Compiler-7.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|norasandler.com|/2018/04/10/Write-a-Compiler-8.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|norasandler.com|/2018/06/27/Write-a-Compiler-9.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|norasandler.com|/2019/02/18/Write-a-Compiler-10.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|os.phil-opp.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pwy.io|/en/posts/learning-to-fly-pt1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pwy.io/posts/learning-to-fly-pt1/"
+  },
+  "https|pwy.io|/en/posts/learning-to-fly-pt2|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pwy.io/posts/learning-to-fly-pt2/"
+  },
+  "https|pwy.io|/en/posts/learning-to-fly-pt3|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pwy.io/posts/learning-to-fly-pt3/"
+  },
+  "https|pwy.io|/en/posts/learning-to-fly-pt4|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pwy.io/posts/learning-to-fly-pt4/"
+  },
+  "https|pythonspot.com|/flask-web-app-with-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pythontips.com|/2017/04/13/making-a-reddit-facebook-messenger-bot|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://yasoob.me/2017/04/13/making-a-reddit-facebook-messenger-bot/"
+  },
+  "https|rcoh.svbtle.com|/no-magic-regular-expressions|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|realpython.com|/blog/python/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|realpython.com|/blog/python/web-scraping-with-scrapy-and-mongodb|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|robertheaton.com|/2018/06/12/programming-projects-for-advanced-beginners-ascii-art|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|robertheaton.com|/2018/07/20/project-2-game-of-life|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|robertheaton.com|/2018/10/09/programming-projects-for-advanced-beginners-3-a|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|robertheaton.com|/2018/11/03/programming-project-4-photomosaics|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|robertheaton.com|/2018/12/02/programming-project-5-snake|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|roguesharp.wordpress.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|rohitpaulk.com|/articles/redis-0|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|rohitpaulk.com|/articles/redis-1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|rohitpaulk.com|/articles/redis-2|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|rohitpaulk.com|/articles/redis-3|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|rohitpaulk.com|/articles/redis-4|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|ruslanspivak.com|/lsbasi-part1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|rust-unofficial.github.io|/too-many-lists|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|scikit-learn.org|/stable/unsupervised_learning.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|semaphoreci.com|/community/tutorials/building-go-web-applications-and-microservices-using-gin|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://semaphore.io/community/tutorials/building-go-web-applications-and-microservices-using-gin"
+  },
+  "https|semaphoreci.com|/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://semaphore.io/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go"
+  },
+  "https|shaunlebron.github.io|/t3tr0s-slides|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://shaunlebron.github.io/t3tr0s-slides/"
+  },
+  "https|sheharyar.me|/blog/simple-chat-phoenix-elixir|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://shyr.io/blog/simple-chat-phoenix-elixir/"
+  },
+  "https|solarianprogrammer.com|/2018/01/10/writing-minimal-x86-64-jit-compiler-cpp|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|solarianprogrammer.com|/2018/01/12/writing-minimal-x86-64-jit-compiler-cpp-part-2|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|spring.io|/guides/gs/securing-web|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|teropa.info|/blog/2015/09/10/full-stack-redux-tutorial.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|testdriven.io||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|thinkster.io|/django-angularjs-tutorial|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "HARD_DEAD",
+    "last_status": null,
+    "redirect_to": null
+  },
+  "https|thoughtbot.com|/blog/rebuilding-git-in-ruby|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/another-twitter-sentiment-analysis-bb5b01ebad90|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-10-neural-network-with-a6441269aa3c|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-2-333514854913|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-5-50b4e87d9bdd|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-6-doc2vec-603f11832504|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-7-phrase-modeling-doc2vec-592a8a996867|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-8-dimensionality-reduction-chi2-pca-c6d06fb3fcf3|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-9-neural-networks-with-tfidf-vectors-using-d0b4af6be6d7|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/association-rule-mining-in-r-ddf2d044ae50|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/finding-similar-quora-questions-with-bow-tfidf-and-random-forest-c54ad88d1370|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/how-i-trained-a-language-detection-ai-in-20-minutes-with-a-97-accuracy-fdeca0fb7724|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/how-to-build-a-simple-song-recommender-296fcbc8c85|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/object-detection-with-neural-networks-a4e2c46b4491|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|tutorial.djangogirls.org|/en|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tutorialedge.net|/golang/go-webassembly-tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tutorialedge.net|/projects/chat-system-in-go-and-react/part-1-initial-setup|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tutorialedge.net|/projects/chat-system-in-go-and-react/part-2-simple-communication|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tutorialedge.net|/projects/chat-system-in-go-and-react/part-3-designing-our-frontend|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tutorialedge.net|/projects/chat-system-in-go-and-react/part-4-handling-multiple-clients|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tutorialedge.net|/projects/chat-system-in-go-and-react/part-5-improved-frontend|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tutorialedge.net|/projects/chat-system-in-go-and-react/part-6-dockerizing-your-backend|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|web.archive.org|/web/20260214230813/https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|webdesign.tutsplus.com|/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|wiki.haskell.org|/Roll_your_own_IRC_bot|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.ably.io|/tutorials/peer-to-peer-vue|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://ably.com/examples"
+  },
+  "https|www.aosabook.org|/en/500L/a-python-interpreter-written-in-python.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
+  },
+  "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app-part-2|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "HARD_DEAD",
+    "last_status": null,
+    "redirect_to": null
+  },
+  "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "HARD_DEAD",
+    "last_status": null,
+    "redirect_to": null
+  },
+  "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "HARD_DEAD",
+    "last_status": null,
+    "redirect_to": null
+  },
+  "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "HARD_DEAD",
+    "last_status": null,
+    "redirect_to": null
+  },
+  "https|www.codewall.co.uk|/laravel-crud-demo-with-resource-controller-tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 202,
+    "redirect_to": null
+  },
+  "https|www.cs.nmsu.edu|/~pfeiffer/fuse-tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.digitalocean.com|/community/tutorials/how-to-build-a-blog-with-vue-graphql-and-apollo-client|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.digitalocean.com|/community/tutorials/how-to-build-a-ruby-on-rails-application|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.digitalocean.com|/community/tutorials|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.dropbox.com|/s/9vq430e9s3q7pu8/Let%27s%20Build%20Instagram%20with%20Ruby%20on%20Rails%20-%20Free%20Edition.pdf|dl=0": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.dropbox.com/scl/fi/50bett7q7c2lajc/Let-s-Build-Instagram-with-Ruby-on-Rails-Free-Edition.pdf?rlkey=65rjaz62p7xqw3i5dbuniebct&dl=0"
+  },
+  "https|www.eddywm.com|/lets-build-a-url-shortener-in-go-part-3-short-link-generation|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.eddywm.com|/lets-build-a-url-shortener-in-go-part-iv-forwarding|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.eddywm.com|/lets-build-a-url-shortener-in-go-with-redis-part-2-storage-layer|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.eddywm.com|/lets-build-a-url-shortener-in-go|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.flenker.blog|/hecto|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://philippflenker.com/hecto/"
+  },
+  "https|www.freecodecamp.org|/news/creating-apis-with-python-free-19-hour-course|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.fullstackpython.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.fullstackreact.com|/articles/react-tutorial-cloning-yelp|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.geeksforgeeks.org|/voice-assistant-using-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.geeksforgeeks.org/python/voice-assistant-using-python/"
+  },
+  "https|www.hackingwithswift.com|/read|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.intertech.com|/Blog/xamarin-tutorial-part-1-create-a-blank-app|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|www.learnopencv.com|/average-face-opencv-c-python-tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|www.learnopencv.com|/deep-learning-based-object-detection-and-instance-segmentation-using-mask-r-cnn-in-opencv-python-c|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|www.learnopencv.com|/eigenface-using-opencv-c-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|www.learnopencv.com|/hand-keypoint-detection-using-deep-learning-and-opencv|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|www.pubnub.com|/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.pyimagesearch.com|/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/"
+  },
+  "https|www.pyimagesearch.com|/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/"
+  },
+  "https|www.pyimagesearch.com|/2017/02/20/text-skew-correction-opencv-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2017/02/20/text-skew-correction-opencv-python/"
+  },
+  "https|www.pyimagesearch.com|/2017/04/03/facial-landmarks-dlib-opencv-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/"
+  },
+  "https|www.pyimagesearch.com|/2018/02/26/face-detection-with-opencv-and-deep-learning|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/"
+  },
+  "https|www.pyimagesearch.com|/2018/04/02/faster-facial-landmark-detector-with-dlib|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/04/02/faster-facial-landmark-detector-with-dlib/"
+  },
+  "https|www.pyimagesearch.com|/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/"
+  },
+  "https|www.pyimagesearch.com|/2018/06/18/face-recognition-with-opencv-python-and-deep-learning|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/"
+  },
+  "https|www.pyimagesearch.com|/2018/07/09/face-clustering-with-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/07/09/face-clustering-with-python/"
+  },
+  "https|www.pyimagesearch.com|/2018/07/16/opencv-saliency-detection|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/07/16/opencv-saliency-detection/"
+  },
+  "https|www.pyimagesearch.com|/2018/08/06/tracking-multiple-objects-with-opencv|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/"
+  },
+  "https|www.pyimagesearch.com|/2018/08/13/opencv-people-counter|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/08/13/opencv-people-counter/"
+  },
+  "https|www.pyimagesearch.com|/2018/08/20/opencv-text-detection-east-text-detector|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/"
+  },
+  "https|www.pyimagesearch.com|/2018/08/27/neural-style-transfer-with-opencv|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/"
+  },
+  "https|www.pyimagesearch.com|/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning/"
+  },
+  "https|www.pyimagesearch.com|/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/"
+  },
+  "https|www.pyimagesearch.com|/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/"
+  },
+  "https|www.pyimagesearch.com|/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn/"
+  },
+  "https|www.pyimagesearch.com|/2018/10/15/deep-learning-hydroponics-and-medical-marijuana|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/10/15/deep-learning-hydroponics-and-medical-marijuana/"
+  },
+  "https|www.pyimagesearch.com|/2018/10/22/object-tracking-with-dlib|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/10/22/object-tracking-with-dlib/"
+  },
+  "https|www.pyimagesearch.com|/2018/10/29/multi-object-tracking-with-dlib|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/"
+  },
+  "https|www.pyimagesearch.com|/2018/11/26/instance-segmentation-with-opencv|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/11/26/instance-segmentation-with-opencv/"
+  },
+  "https|www.pyimagesearch.com|/2018/12/03/deep-learning-and-medical-image-analysis-with-keras|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/"
+  },
+  "https|www.pyimagesearch.com|/2018/12/17/image-stitching-with-opencv-and-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2018/12/17/image-stitching-with-opencv-and-python/"
+  },
+  "https|www.pyimagesearch.com|/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/"
+  },
+  "https|www.pyimagesearch.com|/wp-content/uploads/2014/11/opencv_crash_course_camshift.pdf|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.pythonforengineers.com|/blog/build-a-reddit-bot-part-1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://pythonforengineers.com/blog/build-a-reddit-bot-part-1/"
+  },
+  "https|www.railstutorial.org|/book|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.raywenderlich.com|/134049/building-ios-apps-with-xamarin-and-visual-studio|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.kodeco.com/1044-building-ios-apps-with-xamarin-and-visual-studio"
+  },
+  "https|www.silverstripe.org|/learn/lessons|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.silverstripe.org/learn/lessons"
+  },
+  "https|www.sitepoint.com|/d3-js-data-visualizations|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.swift.org|/getting-started/swiftui|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.twilio.com|/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/choose-your-own-adventure-presentations-with-reveal-js-python-and-websockets-html"
+  },
+  "https|www.udemy.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/playlist|list=PLKHYJbyeQ1a0oGzgRXy-QwAN1tSV4XZxg": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/playlist|list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/playlist|list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/playlist|list=PLXsbBbd36_uVjOFH_P25__XAyGsohXWlv": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/playlist|list=PLfdtiltiRHWGGxaR6uFtwZnnbcXqyq8JD": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/playlist|list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=-edmQKcOW8s": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=3QngsWA9IEE": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=78tNYZUS-ps": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=8fi7uSYlOdc": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=9gBC9R-msAk&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=3": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=Jvp8j6zrFHE": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=M_hFfrN8_PQ": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=Sphme0BqJiY": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=T5pRlIbr6gg": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=XnoTmO06OYo": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=dhWL4DC7Krs": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=hT3j87FMR6M": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=iZx7hqHb5MU": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=krTUf7BpTc0": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=lpba9vBqXl0": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=o_OZdbCzHUA": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=us51Jne67_I": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=uwwWVAgJBcM": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|wyag.thb.lt||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|youtu.be|/0_GJ1w_iG44|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=0_GJ1w_iG44&feature=youtu.be"
+  },
+  "https|youtu.be|/4E4V9F3cbp4|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=4E4V9F3cbp4&feature=youtu.be"
+  },
+  "https|youtu.be|/71AsYo2q_0Y|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=71AsYo2q_0Y&feature=youtu.be"
+  },
+  "https|youtu.be|/7dAt-JMSCVQ|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=7dAt-JMSCVQ&feature=youtu.be"
+  },
+  "https|youtu.be|/Aut-wfXacXg|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=Aut-wfXacXg&feature=youtu.be"
+  },
+  "https|youtu.be|/J8IFNKzs3TI|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=J8IFNKzs3TI&feature=youtu.be"
+  },
+  "https|youtu.be|/O3nmP-lZAdg|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=O3nmP-lZAdg&feature=youtu.be"
+  },
+  "https|youtu.be|/U9YKZrDX0CQ|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=U9YKZrDX0CQ&feature=youtu.be"
+  },
+  "https|youtu.be|/_W0RN_Cqhpg|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=_W0RN_Cqhpg&feature=youtu.be"
+  },
+  "https|youtu.be|/mEPm9w5QlJM|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=mEPm9w5QlJM&feature=youtu.be"
+  },
+  "https|youtu.be|/sMA1dKbv33Y|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=sMA1dKbv33Y&feature=youtu.be"
+  },
+  "https|youtu.be|/x4DydJKVvQk|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=x4DydJKVvQk&feature=youtu.be"
+  },
+  "https|youtu.be|/yqwfP2vXWJQ|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.youtube.com/watch?v=yqwfP2vXWJQ&feature=youtu.be"
+  },
+  "https|zapier.com|/engineering/how-to-build-redux|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://zapier.com/blog/how-to-build-redux/"
+  },
+  "http|3zanders.co.uk|/2017/10/13/writing-a-bootloader|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|adit.io|/posts/2013-04-15-making-a-website-with-haskell.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.adit.io/posts/2013-04-15-making-a-website-with-haskell.html"
+  },
+  "http|arjunsreedharan.org|/post/82710718100/kernel-101-lets-write-a-kernel|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "HARD_DEAD",
+    "last_status": null,
+    "redirect_to": null
+  },
+  "http|codecapsule.com|/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/"
+  },
+  "http|codeloveandboards.com|/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://bigardone.dev/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/"
+  },
+  "http|danielnouri.org|/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/"
+  },
+  "http|dev.stephendiehl.com|/fun|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "BLOCKED",
+    "last_status": null,
+    "redirect_to": null
+  },
+  "http|howistart.org|/posts/clojure/1/index.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://howistart.org/posts/clojure/1/index.html"
+  },
+  "http|howistart.org|/posts/cpp/1/index.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://howistart.org/posts/cpp/1/index.html"
+  },
+  "http|ilovephp.jondh.me.uk|/en/tutorial/make-your-own-blog|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog"
+  },
+  "http|javarevisited.blogspot.com|/2015/06/how-to-create-http-server-in-java-serversocket-example.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html"
+  },
+  "http|javilop.com|/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/"
+  },
+  "http|joelmccracken.github.io|/entries/a-simple-web-app-in-rust-pt-1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|joelmccracken.github.io|/entries/a-simple-web-app-in-rust-pt-2a|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|joelmccracken.github.io|/entries/a-simple-web-app-in-rust-pt-2b|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|lazyfoo.net|/tutorials/SDL|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://lazyfoo.net/tutorials/SDL/"
+  },
+  "http|mherman.org|/blog/2016/04/28/test-driven-development-with-node|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://mherman.org/blog/2016/04/28/test-driven-development-with-node/"
+  },
+  "http|mherman.org||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://mherman.org/"
+  },
+  "http|nicktasios.nl|/posts/space-invaders-from-scratch-part-1.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|nicktasios.nl|/posts/space-invaders-from-scratch-part-2.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|nicktasios.nl|/posts/space-invaders-from-scratch-part-3.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|nicktasios.nl|/posts/space-invaders-from-scratch-part-4.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|nicktasios.nl|/posts/space-invaders-from-scratch-part-5.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|sahatyalkabov.com|/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio|": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "HARD_DEAD",
+    "last_status": 404,
+    "redirect_to": null
+  },
+  "http|scottlilly.com|/learn-c-by-building-a-simple-rpg-index|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/"
+  },
+  "http|serverless-stack.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://sst.dev/"
+  },
+  "http|shiny.rstudio.com|/tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://shiny.posit.co/r/getstarted/"
+  },
+  "http|thinkster.io||": {
+    "consecutive_failures": 1,
+    "first_failed": "2026-07-04",
+    "first_seen": "2026-07-04",
+    "last_class": "HARD_DEAD",
+    "last_status": null,
+    "redirect_to": null
+  },
+  "http|tomasp.net|/blog/2018/write-your-own-excel|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://tomasp.net/blog/2018/write-your-own-excel/"
+  },
+  "http|viewsourcecode.org|/snaptoken/kilo|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://viewsourcecode.org/snaptoken/kilo/"
+  },
+  "http|www.ardendertat.com|/2011/05/30/how-to-implement-a-search-engine-part-1-create-index|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/"
+  },
+  "http|www.ardendertat.com|/2011/05/31/how-to-implement-a-search-engine-part-2-query-index|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.ardendertat.com/2011/05/31/how-to-implement-a-search-engine-part-2-query-index/"
+  },
+  "http|www.ardendertat.com|/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.ardendertat.com/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf/"
+  },
+  "http|www.buildyourownlisp.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://buildyourownlisp.com/"
+  },
+  "http|www.byperth.com|/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/"
+  },
+  "http|www.craftinginterpreters.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|www.discoversdk.com|/blog/angular-5-to-do-list-app-part-1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|www.discoversdk.com|/blog/intro-to-angular-and-the-evolution-of-the-web|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|www.egghead.io||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://egghead.io/"
+  },
+  "http|www.exercism.io||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://exercism.org/"
+  },
+  "http|www.goldsborough.me|/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|www.lessmilk.com|/tutorial/flappy-bird-phaser-1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.lessmilk.com/phaser-game-tutorial/"
+  },
+  "http|www.lessmilk.com|/tutorial/flappy-bird-phaser-2|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.lessmilk.com/phaser-game-tutorial/"
+  },
+  "http|www.obeythetestinggoat.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|www.saminiir.com|/lets-code-tcp-ip-stack-1-ethernet-arp|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|www.saminiir.com|/lets-code-tcp-ip-stack-2-ipv4-icmpv4|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|www.saminiir.com|/lets-code-tcp-ip-stack-3-tcp-handshake|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|www.saminiir.com|/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|www.saminiir.com|/lets-code-tcp-ip-stack-5-tcp-retransmission|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "http|www.sheshbabu.com|/posts/rust-wasm-yew-single-page-application|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/"
+  },
+  "http|www.skybert.net|/python/developing-a-restful-micro-service-in-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://www.skybert.net/python/developing-a-restful-micro-service-in-python/"
+  }
+}
