@@ -237,7 +237,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Create a Character Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio)
 - [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 - [Build a Full Stack Movie Voting App with Test-First Development using Mocha, React, Redux and Immutable](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-- [Build a Twitter Stream with React and Node](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
 - [Build A Simple Medium Clone using React.js and Node.js](https://medium.com/@kris101/clone-medium-on-node-js-and-react-js-731cdfbb6878)
 - [Integrate MailChimp in JS](https://medium.freecodecamp.org/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f)
 - [Build A Chrome Extension with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
@@ -282,7 +281,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 #### Node:
 
-- [Build a real-time Markdown Editor with NodeJS](https://scotch.io/tutorials/building-a-real-time-markdown-viewer)
 - [Test-Driven Development with Node, Postgres and Knex](http://mherman.org/blog/2016/04/28/test-driven-development-with-node/)
 - Write a Twitter Bot in Node.js
   - [Part 1](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
@@ -298,7 +296,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
 - [Vue.js Application Tutorial – Creating a Simple Budgeting App with Vue](https://matthiashager.com/complete-vuejs-application-tutorial/)
-- [Build a Blog with Vue, GraphQL and Apollo](https://scotch.io/tutorials/build-a-blog-with-vue-graphql-and-apollo-client)
+- [Build a Blog with Vue, GraphQL and Apollo](https://www.digitalocean.com/community/tutorials/how-to-build-a-blog-with-vue-graphql-and-apollo-client)
 - Build a full stack web application using MEVN (MongoDB, Express, Vue, Node) stack
   - [Part 1](https://medium.com/@anaida07/mevn-stack-application-part-1-3a27b61dcae0)
   - [Part 2](https://medium.com/@anaida07/mevn-stack-application-part-2-2-9ebcf8a22753)
@@ -662,7 +660,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Udemy.com](https://www.udemy.com/)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Node School](https://nodeschool.io/)
-- [ScotchIO](https://scotch.io/)
+- [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials)
 - [Exercism](http://www.exercism.io/)
 - [Egghead.io](http://www.egghead.io/)
 - [Michael Herman's Blog](http://mherman.org/)
