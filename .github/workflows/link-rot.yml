@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write
   issues: write
+  pull-requests: write
 
 concurrency:
   group: link-rot-sweep
@@ -46,9 +47,59 @@ jobs:
             git push origin "HEAD:${{ github.ref_name }}"
           fi
 
+      - name: Apply safe auto-fixes (remove confirmed-dead entries, update moved URLs)
+        id: prune
+        if: always()
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Only two categories are safe enough to fix without a human decision:
+          # entries confirmed dead for 2+ consecutive weeks (with no known redirect),
+          # and URLs that now redirect to a different working page. Everything else
+          # (SUSPECT, secondary/prose links, ambiguous matches) is left in the
+          # report for a human to judge -- see scripts/check_readme.py's cmd_prune
+          # docstring for the exact rules.
+          python3 scripts/check_readme.py prune \
+            --results /tmp/results.json --state .github/link-rot-state.json \
+            --readme README.md --pr-body-out /tmp/pr-body.md > /tmp/prune-summary.json
+          changed=$(python3 -c "import json; print(json.load(open('/tmp/prune-summary.json'))['changed'])")
+          if [ "$changed" != "True" ]; then
+            echo "Nothing to auto-fix this run."
+            exit 0
+          fi
+
+          removed=$(python3 -c "import json; print(len(json.load(open('/tmp/prune-summary.json'))['removals']))")
+          updated=$(python3 -c "import json; print(len(json.load(open('/tmp/prune-summary.json'))['updates']))")
+          branch="automated/link-rot-fixes"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$branch"
+          git add README.md
+          git commit -m "chore(link-rot): remove $removed confirmed-dead link(s), update $updated moved URL(s)"
+          git push --force-with-lease origin "HEAD:$branch"
+
+          if [ -z "$(gh pr list --repo "${{ github.repository }}" --head "$branch" --state open --json number --jq '.[0].number // empty')" ]; then
+            gh pr create --repo "${{ github.repository }}" --base "${{ github.ref_name }}" --head "$branch" \
+              --title "chore(link-rot): remove $removed confirmed-dead link(s), update $updated moved URL(s)" \
+              --body-file /tmp/pr-body.md --label link-rot
+          else
+            gh pr edit "$branch" --repo "${{ github.repository }}" --body-file /tmp/pr-body.md
+          fi
+          pr_url=$(gh pr view "$branch" --repo "${{ github.repository }}" --json url --jq '.url')
+          echo "pr_url=$pr_url" >> "$GITHUB_OUTPUT"
+
       - name: Render report body
         if: always()
-        run: python3 scripts/check_readme.py report --results /tmp/results.json --state .github/link-rot-state.json > /tmp/report-body.md
+        env:
+          FIX_PR_URL: ${{ steps.prune.outputs.pr_url }}
+        run: |
+          if [ -n "$FIX_PR_URL" ]; then
+            python3 scripts/check_readme.py report --results /tmp/results.json --state .github/link-rot-state.json --fix-pr-url "$FIX_PR_URL" > /tmp/report-body.md
+          else
+            python3 scripts/check_readme.py report --results /tmp/results.json --state .github/link-rot-state.json > /tmp/report-body.md
+          fi
 
       - name: Upsert consolidated link-rot report issue
         if: always()

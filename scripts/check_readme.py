@@ -906,7 +906,7 @@ def cmd_report(args):
         results_doc = json.load(fh)
     state = load_state_file(args.state)
 
-    dead, suspect, blocked = [], [], []
+    dead, suspect, blocked, moved = [], [], [], []
     for r in results_doc["results"]:
         st = _row(state, r["url"])
         cf = st.get("consecutive_failures", 0)
@@ -916,6 +916,8 @@ def cmd_report(args):
             dead.append((r, st))
         elif r["class"] == "SUSPECT" and cf >= 2:
             suspect.append((r, st))
+        elif r["class"] == "OK" and r.get("redirect_to"):
+            moved.append((r, st))
 
     def table(rows):
         lines = ["| | Section | Entry | URL | Status | Redirects to | First failed |",
@@ -939,9 +941,32 @@ def cmd_report(args):
                 "Please open a pull request to fix an entry -- don't reply here with fixes, "
                 "this issue body is fully rewritten on every run._")
     out.append("")
+    if args.fix_pr_url:
+        out.append(
+            f"\U0001F916 An automated fix is open: {escape_md_cell(args.fix_pr_url)} -- "
+            "it only covers confirmed-dead removals and moved-URL updates below; "
+            "review and merge it, or edit it further before merging. Suspect links "
+            "always need a human look, and aren't included."
+        )
+        out.append("")
     out.append(f"## Dead links ({len(dead)})")
     out.append("")
     out.append(table(dead) if dead else "_None._")
+    out.append("")
+    out.append(f"## Moved links ({len(moved)})")
+    out.append("")
+    if moved:
+        out.append("| Section | Entry | Old URL | Redirects to |")
+        out.append("|---|---|---|---|")
+        for r, st in moved:
+            out.append("| {section} | {title} | {url} | {redirect} |".format(
+                section=escape_md_cell(r.get("section")),
+                title=escape_md_cell(r.get("title")),
+                url=escape_md_cell(r.get("url")),
+                redirect=escape_md_cell(r.get("redirect_to")),
+            ))
+    else:
+        out.append("_None._")
     out.append("")
     out.append(f"## Suspect links ({len(suspect)})")
     out.append("")
@@ -966,6 +991,135 @@ def cmd_report(args):
                 "with an archive.org link._")
     print("\n".join(out))
     return 0
+
+
+# --------------------------------------------------------------------------
+# cmd: prune (safe auto-fixes: remove confirmed-dead entries, update moved URLs)
+# --------------------------------------------------------------------------
+
+def _series_children(items, idx):
+    """Contiguous deeper-indented items right after items[idx] (a series), stopping
+    at the first item back at or above its depth, a header, or EOF. Mirrors the
+    lookahead parse_readme() uses for E002, so "does this series still have a
+    child" can't drift between the two.
+    """
+    depth = items[idx][1][1]
+    children = []
+    j = idx + 1
+    while j < len(items):
+        _, kind = items[j]
+        if kind[0] == "blank":
+            j += 1
+            continue
+        if kind[0] == "header":
+            break
+        if kind[0] in ("entry", "series"):
+            if kind[1] <= depth:
+                break
+            children.append(j)
+            j += 1
+            continue
+        break
+    return children
+
+
+def cmd_prune(args):
+    """Apply only the safe, unambiguous fixes a human would otherwise type by hand:
+    delete entries confirmed dead for 2+ consecutive weeks (no known redirect), and
+    rewrite an entry's URL in place when it now redirects to a different working
+    page. Anything ambiguous (SUSPECT, a dead/moved URL that's a secondary link in
+    an entry's prose rather than its primary URL, a URL matching more than one
+    entry) is left untouched for a human to judge -- this never runs unreviewed,
+    it's meant to land as a pull request.
+    """
+    with open(args.results, encoding="utf-8") as fh:
+        results_doc = json.load(fh)
+    state = load_state_file(args.state)
+
+    with open(args.readme, encoding="utf-8") as fh:
+        text = fh.read()
+    lines = text.split("\n")
+
+    doc = parse_readme(text)
+    entries_by_url = {}
+    for e in doc.entries:
+        entries_by_url.setdefault(normalize_url(e.url), []).append(e)
+
+    removals, updates = [], []
+    for r in results_doc["results"]:
+        key = "|".join(normalize_url(r["url"]))
+        st = state.get(key)
+        cf = st.get("consecutive_failures", 0) if isinstance(st, dict) else 0
+        matches = entries_by_url.get(normalize_url(r["url"]), [])
+        if len(matches) != 1:
+            continue  # not a primary entry URL, or a duplicate -- leave for a human
+        entry = matches[0]
+        if r["class"] == "HARD_DEAD" and cf >= 2 and not r.get("redirect_to"):
+            removals.append({"line": entry.line, "url": r["url"], "title": entry.title, "section": entry.section})
+        elif r["class"] == "OK" and r.get("redirect_to") and r["redirect_to"] != r["url"]:
+            updates.append({"line": entry.line, "old_url": r["url"], "new_url": r["redirect_to"], "title": entry.title, "section": entry.section})
+
+    if not removals and not updates:
+        result = {"changed": False, "removals": [], "updates": []}
+        print(json.dumps(result, indent=2))
+        return 0
+
+    for u in updates:
+        idx = u["line"] - 1
+        lines[idx] = lines[idx].replace(f"]({u['old_url']})", f"]({u['new_url']})", 1)
+
+    delete_lines = {r["line"] for r in removals}
+    changed = True
+    while changed:
+        changed = False
+        items = [(i + 1, classify_line(ln)) for i, ln in enumerate(lines)]
+        for idx, (lineno, kind) in enumerate(items):
+            if lineno in delete_lines or kind[0] != "series":
+                continue
+            children = _series_children(items, idx)
+            if children and all(items[c][0] in delete_lines for c in children):
+                delete_lines.add(lineno)
+                changed = True
+
+    new_lines = [ln for i, ln in enumerate(lines) if (i + 1) not in delete_lines]
+
+    with open(args.readme, "w", encoding="utf-8") as fh:
+        fh.write("\n".join(new_lines))
+
+    if args.pr_body_out:
+        with open(args.pr_body_out, "w", encoding="utf-8") as fh:
+            fh.write(render_prune_pr_body(removals, updates))
+
+    result = {
+        "changed": True,
+        "removals": removals,
+        "updates": updates,
+        "removed_lines": sorted(delete_lines),
+    }
+    print(json.dumps(result, indent=2))
+    return 0
+
+
+def render_prune_pr_body(removals, updates):
+    out = ["Automated fix from the weekly link-rot sweep -- only confirmed-dead "
+           "removals and moved-URL updates, nothing else is touched.", ""]
+    if removals:
+        out.append(f"### Removed ({len(removals)}) -- confirmed dead for 2+ consecutive weekly checks")
+        out.append("")
+        for r in removals:
+            out.append(f"- **{escape_md_cell(r['title'])}** ({escape_md_cell(r['section'])}) -- {escape_md_cell(r['url'])}")
+        out.append("")
+    if updates:
+        out.append(f"### Updated ({len(updates)}) -- now redirects to a different working URL")
+        out.append("")
+        for u in updates:
+            out.append(f"- **{escape_md_cell(u['title'])}** ({escape_md_cell(u['section'])}) -- {escape_md_cell(u['old_url'])} -> {escape_md_cell(u['new_url'])}")
+        out.append("")
+    out.append(
+        "See the open \U0001F517 Link rot report issue for suspect links that need a "
+        "human look -- those aren't included here."
+    )
+    return "\n".join(out)
 
 
 # --------------------------------------------------------------------------
@@ -1001,7 +1155,15 @@ def build_parser():
     report = sub.add_parser("report", help="render the link-rot markdown issue body")
     report.add_argument("--results", required=True)
     report.add_argument("--state", required=True)
+    report.add_argument("--fix-pr-url", default=None, help="if set, link to this PR as the pending automated fix")
     report.set_defaults(func=cmd_report)
+
+    prune = sub.add_parser("prune", help="apply safe auto-fixes: remove confirmed-dead entries, update moved URLs")
+    prune.add_argument("--results", required=True)
+    prune.add_argument("--state", required=True)
+    prune.add_argument("--readme", default=DEFAULT_README)
+    prune.add_argument("--pr-body-out", default=None, help="if set and something changed, write a PR body summary here")
+    prune.set_defaults(func=cmd_prune)
 
     return p
 
