@@ -674,3 +674,4 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
+- [IntelligenceMax](https://intelligencemax.ai) — live reasoning gym with adaptive distinction items ([guide](https://intelligencemax.ai/guide))
