@@ -16,7 +16,7 @@
     "redirect_to": null
   },
   "https|arjunsreedharan.org|/post/148675821737/memory-allocators-101-write-a-simple-memory|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -416,7 +416,7 @@
     "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker/"
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -912,7 +912,7 @@
     "redirect_to": null
   },
   "https|hackclub.com|/workshops|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -984,7 +984,7 @@
     "redirect_to": null
   },
   "https|hackhands.com|/building-instagram-clone-angularjs-satellizer-nodejs-mongodb|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -1104,7 +1104,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -1261,7 +1261,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c11732dc9a0166eee01f8ae3e9b4b3"
+    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c21429c39a057af2e61890fceeb4"
   },
   "https|linoscope.github.io|/writing-a-game-boy-emulator-in-ocaml|": {
     "consecutive_failures": 0,
@@ -2088,7 +2088,7 @@
     "redirect_to": null
   },
   "https|thinkster.io|/django-angularjs-tutorial|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2400,7 +2400,7 @@
     "redirect_to": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
   },
   "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app-part-2|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2408,7 +2408,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2416,7 +2416,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2424,7 +2424,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2867,8 +2867,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "BLOCKED",
+    "last_status": 403,
     "redirect_to": null
   },
   "https|www.swift.org|/getting-started/swiftui|": {
@@ -3256,7 +3256,7 @@
     "redirect_to": "https://www.adit.io/posts/2013-04-15-making-a-website-with-haskell.html"
   },
   "http|arjunsreedharan.org|/post/82710718100/kernel-101-lets-write-a-kernel|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3363,9 +3363,9 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
-    "redirect_to": "https://lazyfoo.net/tutorials/SDL/"
+    "last_class": "BLOCKED",
+    "last_status": null,
+    "redirect_to": null
   },
   "http|mherman.org|/blog/2016/04/28/test-driven-development-with-node|": {
     "consecutive_failures": 0,
@@ -3424,7 +3424,7 @@
     "redirect_to": null
   },
   "http|sahatyalkabov.com|/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3435,9 +3435,9 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
-    "redirect_to": "https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/"
+    "last_class": "BLOCKED",
+    "last_status": null,
+    "redirect_to": null
   },
   "http|serverless-stack.com||": {
     "consecutive_failures": 0,
@@ -3456,7 +3456,7 @@
     "redirect_to": "https://shiny.posit.co/r/getstarted/"
   },
   "http|thinkster.io||": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3515,9 +3515,9 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
-    "redirect_to": "https://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/"
+    "last_class": "BLOCKED",
+    "last_status": null,
+    "redirect_to": null
   },
   "http|www.craftinginterpreters.com||": {
     "consecutive_failures": 0,
