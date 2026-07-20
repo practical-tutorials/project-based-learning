@@ -506,6 +506,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
 - [Mask detection using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
 
+### Game Development:
+
+- [Pygame Quick Start Guide](https://pygame-gui.readthedocs.io/en/latest/quick_start.html)
+
 ### Miscellaneous:
 
 - [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
