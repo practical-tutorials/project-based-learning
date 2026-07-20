@@ -568,6 +568,22 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building a TCP Chat in Go(video)](https://www.youtube.com/watch?v=Sphme0BqJiY)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [REST API masterclass with Go, PostgreSQL and Docker(video playlist)`in progress`](https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
+- Building a fully functional real-world project with DDD, Clean Architecture, and CQRS
+  - [GitHub Repository with the project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
+  - [Part 1 - Building a serverless application with Go, Google Cloud Run and Firebase](https://threedots.tech/post/serverless-cloud-run-firebase-modern-go-application/?utm_source=project-based-learning)
+  - [Part 2 - A complete Terraform setup of a serverless application on Google Cloud Run and Firebase](https://threedots.tech/post/complete-setup-of-serverless-application/?utm_source=project-based-learning)
+  - [Part 3 - Robust gRPC communication on Google Cloud Run (but not only!)](https://threedots.tech/post/robust-grpc-google-cloud-run/?utm_source=project-based-learning)
+  - [Part 4 - You should not build your own authentication.](https://threedots.tech/post/firebase-cloud-run-authentication/?utm_source=project-based-learning)
+  - [Part 5 - When to avoid DRY in Go](https://threedots.tech/post/things-to-know-about-dry/?utm_source=project-based-learning)
+  - [Part 6 - Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/?utm_source=project-based-learning)
+  - [Part 7 - The Repository pattern in Go: a painless way to simplify your service logic](https://threedots.tech/post/repository-pattern-in-go/?utm_source=project-based-learning)
+  - [Part 7 - 4 practical principles of high-quality database integration tests in Go](https://threedots.tech/post/database-integration-testing/?utm_source=project-based-learning)
+  - [Part 8 - How to implement Clean Architecture in Go](https://threedots.tech/post/introducing-clean-architecture/?utm_source=project-based-learning)
+  - [Part 9 - How to use basic CQRS in Go](https://threedots.tech/post/basic-cqrs-in-go/?utm_source=project-based-learning)
+  - [Part 10 - Combining DDD, CQRS, and Clean Architecture in Go](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/?utm_source=project-based-learning)
+  - [Part 11 - Microservices test architecture. Can you sleep well without end-to-end tests?](https://threedots.tech/post/microservices-test-architecture/?utm_source=project-based-learning)
+  - [Part 12 - Repository secure by design: how to sleep better without fear of security vulnerabilities](https://threedots.tech/post/repository-secure-by-design/?utm_source=project-based-learning)
+  - [Part 13 - Running integration tests with docker-compose in Google Cloud Build](https://threedots.tech/post/running-integration-tests-on-google-cloud-build/?utm_source=project-based-learning)
 
 ## PHP:
 
