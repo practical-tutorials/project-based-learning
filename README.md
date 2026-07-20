@@ -30,6 +30,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
+- [TypeScript](#typescript)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -659,6 +660,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
 - [Build an iOS App with SwiftUI](https://www.swift.org/getting-started/swiftui/)
 - [Developing iOS Apps with SwiftUI (Stanford CS193p)](https://cs193p.sites.stanford.edu/) (video)
+
+## Typescript:
+
+- [Gemini Twitter Bot With Encore.ts](https://dev.to/talhaahsan/gemini-twitter-bot-with-encorets-i77)
 
 ## Additional Resources
 
