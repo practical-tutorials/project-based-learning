@@ -260,6 +260,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6](https://www.youtube.com/watch?v=Jvp8j6zrFHE)
   - [Part 7](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
 - [React Phone E-Commerce Project(video)](https://www.youtube.com/watch?v=-edmQKcOW8s)
+- [React Full Stack JavaScript self learning course](https://www.theodinproject.com/paths/full-stack-javascript)
 
 #### Next.js:
 
