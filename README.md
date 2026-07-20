@@ -8,8 +8,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Table of Contents:
 
-- [C#](#c)
 - [C/C++](#cc)
+- [C#](#c)
 - [Clojure](#clojure)
 - [Dart](#dart)
 - [Elixir](#elixir)
