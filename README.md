@@ -321,6 +321,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Learn D3 using examples](https://www.sitepoint.com/d3-js-data-visualizations/)
 - [Learn To Make A Line Chart](https://medium.freecodecamp.org/learn-to-create-a-line-chart-using-d3-js-4f43f1ee716b)
 
+#### Three.js
+
+- [Learn Three.js by building 5 projects - FreeCodeCamp.org](https://www.youtube.com/watch?v=UMqNHi1GDAE&t=35s)
+- [23 Cool Three.js Projects - Robot Bobby](https://www.youtube.com/watch?v=63o2gHHgeH4)
+
 ### Game Development:
 
 - [Make 2D Breakout Game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
