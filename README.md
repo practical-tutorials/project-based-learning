@@ -511,7 +511,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/)
 - [Build a Simple Blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 - [Building a Gas Pump Scanner with OpenCV/Python/iOS](https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b)
-- [Build a Distributed Streaming System with Python and Kafka](https://codequs.com/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python)
+- [Build a Distributed Streaming System with Python and Kafka](https://medium.com/@kevin.michael.horan/distributed-video-streaming-with-python-and-kafka-551de69fe1dd)
 - [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/)
 - Making a low level (Linux) debugger
   - [Part 1](https://blog.asrpo.com/making_a_low_level_debugger)
