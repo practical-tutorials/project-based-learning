@@ -1,4 +1,4 @@
-# Project Based Learning
+# Project Based Learning 
 
 [![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Link rot sweep](https://github.com/practical-tutorials/project-based-learning/actions/workflows/link-rot.yml/badge.svg)](https://github.com/practical-tutorials/project-based-learning/actions/workflows/link-rot.yml)
 
