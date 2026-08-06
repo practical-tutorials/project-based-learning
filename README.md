@@ -332,6 +332,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Build A Desktop Chat App with React and Electron](https://medium.freecodecamp.org/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f)
 
+### Physics / Simulations:
+
+- [Build Your Own Physics — Master physics by recreating 12 simulations from scratch, from projectile motion to the solar system](https://github.com/Zensoro/build-your-own-physics)
+
 ### Miscellaneous:
 
 - [How to Build a Web Framework in Less Than 20 Lines of Code](https://www.pubnub.com/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code/)
