@@ -16,7 +16,7 @@
     "redirect_to": null
   },
   "https|arjunsreedharan.org|/post/148675821737/memory-allocators-101-write-a-simple-memory|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -323,32 +323,32 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "BLOCKED",
+    "last_status": 403,
     "redirect_to": null
   },
   "https|codeburst.io|/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "BLOCKED",
+    "last_status": 403,
     "redirect_to": null
   },
   "https|codeburst.io|/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "BLOCKED",
+    "last_status": 403,
     "redirect_to": null
   },
   "https|codeburst.io|/create-a-django-api-in-under-20-minutes-2a082a60f6f3|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "BLOCKED",
+    "last_status": 403,
     "redirect_to": null
   },
   "https|codecrafters.io||": {
@@ -416,7 +416,7 @@
     "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker/"
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -508,7 +508,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|developer.mozilla.org|/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser|": {
@@ -912,7 +912,7 @@
     "redirect_to": null
   },
   "https|hackclub.com|/workshops|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -984,7 +984,7 @@
     "redirect_to": null
   },
   "https|hackhands.com|/building-instagram-clone-angularjs-satellizer-nodejs-mongodb|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -1104,7 +1104,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -1261,7 +1261,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c51329c39d067af3fc1c8af8"
+    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c11732dc9a0163eee31e8ee3e9b1bc"
   },
   "https|linoscope.github.io|/writing-a-game-boy-emulator-in-ocaml|": {
     "consecutive_failures": 0,
@@ -2088,7 +2088,7 @@
     "redirect_to": null
   },
   "https|thinkster.io|/django-angularjs-tutorial|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2400,7 +2400,7 @@
     "redirect_to": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
   },
   "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app-part-2|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2408,7 +2408,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2416,7 +2416,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2424,7 +2424,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2435,8 +2435,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_class": "OK",
+    "last_status": 202,
     "redirect_to": null
   },
   "https|www.cs.nmsu.edu|/~pfeiffer/fuse-tutorial|": {
@@ -3256,7 +3256,7 @@
     "redirect_to": "https://www.adit.io/posts/2013-04-15-making-a-website-with-haskell.html"
   },
   "http|arjunsreedharan.org|/post/82710718100/kernel-101-lets-write-a-kernel|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3324,8 +3324,8 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
-    "redirect_to": "https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html"
+    "last_status": 204,
+    "redirect_to": null
   },
   "http|javilop.com|/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners|": {
     "consecutive_failures": 0,
@@ -3424,7 +3424,7 @@
     "redirect_to": null
   },
   "http|sahatyalkabov.com|/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio|": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3456,7 +3456,7 @@
     "redirect_to": "https://shiny.posit.co/r/getstarted/"
   },
   "http|thinkster.io||": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3555,9 +3555,9 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
-    "redirect_to": "https://exercism.org/"
+    "last_class": "BLOCKED",
+    "last_status": 403,
+    "redirect_to": null
   },
   "http|www.goldsborough.me|/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust|": {
     "consecutive_failures": 0,
