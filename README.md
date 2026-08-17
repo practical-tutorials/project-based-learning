@@ -612,7 +612,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Haskell:
 
-- [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
+- [Write You a Haskell - Build a modern functional compiler](https://github.com/sdiehl/write-you-a-haskell)
 - [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [Write You A Scheme, Version 2](https://github.com/adamwespiser/scheme)
 - [Roll Your Own IRC Bot](https://wiki.haskell.org/Roll_your_own_IRC_bot)
