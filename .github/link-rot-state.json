@@ -16,7 +16,7 @@
     "redirect_to": null
   },
   "https|arjunsreedharan.org|/post/148675821737/memory-allocators-101-write-a-simple-memory|": {
-    "consecutive_failures": 7,
+    "consecutive_failures": 8,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -44,7 +44,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": null,
+    "last_status": 403,
     "redirect_to": null
   },
   "https|bernhardwenzel.com|/articles/clojure-spellchecker|": {
@@ -416,7 +416,7 @@
     "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker/"
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 7,
+    "consecutive_failures": 8,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -912,7 +912,7 @@
     "redirect_to": null
   },
   "https|hackclub.com|/workshops|": {
-    "consecutive_failures": 7,
+    "consecutive_failures": 8,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -984,7 +984,7 @@
     "redirect_to": null
   },
   "https|hackhands.com|/building-instagram-clone-angularjs-satellizer-nodejs-mongodb|": {
-    "consecutive_failures": 7,
+    "consecutive_failures": 8,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -1104,7 +1104,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 7,
+    "consecutive_failures": 8,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -1261,7 +1261,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c11732dc9a0163eee31e8ee3e9b1bc"
+    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c41429c5911c66f4e50388fb"
   },
   "https|linoscope.github.io|/writing-a-game-boy-emulator-in-ocaml|": {
     "consecutive_failures": 0,
@@ -2088,7 +2088,7 @@
     "redirect_to": null
   },
   "https|thinkster.io|/django-angularjs-tutorial|": {
-    "consecutive_failures": 7,
+    "consecutive_failures": 8,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2363,8 +2363,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "BLOCKED",
+    "last_status": null,
     "redirect_to": null
   },
   "https|webdesign.tutsplus.com|/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893|": {
@@ -2403,7 +2403,7 @@
     "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
+    "last_class": "BLOCKED",
     "last_status": null,
     "redirect_to": null
   },
@@ -2411,7 +2411,7 @@
     "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
+    "last_class": "BLOCKED",
     "last_status": null,
     "redirect_to": null
   },
@@ -2419,7 +2419,7 @@
     "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
+    "last_class": "BLOCKED",
     "last_status": null,
     "redirect_to": null
   },
@@ -2427,7 +2427,7 @@
     "consecutive_failures": 7,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
+    "last_class": "BLOCKED",
     "last_status": null,
     "redirect_to": null
   },
@@ -2435,8 +2435,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 202,
+    "last_class": "BLOCKED",
+    "last_status": 403,
     "redirect_to": null
   },
   "https|www.cs.nmsu.edu|/~pfeiffer/fuse-tutorial|": {
@@ -3256,7 +3256,7 @@
     "redirect_to": "https://www.adit.io/posts/2013-04-15-making-a-website-with-haskell.html"
   },
   "http|arjunsreedharan.org|/post/82710718100/kernel-101-lets-write-a-kernel|": {
-    "consecutive_failures": 7,
+    "consecutive_failures": 8,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3324,8 +3324,8 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 204,
-    "redirect_to": null
+    "last_status": 200,
+    "redirect_to": "https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html"
   },
   "http|javilop.com|/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners|": {
     "consecutive_failures": 0,
@@ -3424,7 +3424,7 @@
     "redirect_to": null
   },
   "http|sahatyalkabov.com|/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio|": {
-    "consecutive_failures": 7,
+    "consecutive_failures": 8,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3456,7 +3456,7 @@
     "redirect_to": "https://shiny.posit.co/r/getstarted/"
   },
   "http|thinkster.io||": {
-    "consecutive_failures": 7,
+    "consecutive_failures": 8,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
