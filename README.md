@@ -664,6 +664,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [React Redux Links](https://github.com/markerikson/react-redux-links)
 - [Udemy.com](https://www.udemy.com/)
+- [AWS zero to hero](https://youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&si=vgdbbf84dAXg33GE)
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Node School](https://nodeschool.io/)
 - [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials)
