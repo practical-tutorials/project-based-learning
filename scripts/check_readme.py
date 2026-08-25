@@ -26,7 +26,7 @@ import sys
 import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import date, timezone
+from datetime import date
 from html.parser import HTMLParser
 from urllib.parse import urljoin, urlsplit
 
