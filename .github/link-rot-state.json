@@ -16,7 +16,7 @@
     "redirect_to": null
   },
   "https|arjunsreedharan.org|/post/148675821737/memory-allocators-101-write-a-simple-memory|": {
-    "consecutive_failures": 9,
+    "consecutive_failures": 10,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -416,7 +416,7 @@
     "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker/"
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 9,
+    "consecutive_failures": 10,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -651,8 +651,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "BLOCKED",
+    "last_status": 503,
     "redirect_to": null
   },
   "https|gist.github.com|/nadavrot/5b35d44e8ba3dd718e595e40184d03f0|": {
@@ -912,7 +912,7 @@
     "redirect_to": null
   },
   "https|hackclub.com|/workshops|": {
-    "consecutive_failures": 9,
+    "consecutive_failures": 10,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -984,7 +984,7 @@
     "redirect_to": null
   },
   "https|hackhands.com|/building-instagram-clone-angularjs-satellizer-nodejs-mongodb|": {
-    "consecutive_failures": 9,
+    "consecutive_failures": 10,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -1104,7 +1104,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 9,
+    "consecutive_failures": 10,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -1261,7 +1261,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c21429c79d1c6cf6fc1c86fb"
+    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c51329c39d067af1e51f90fceeb6"
   },
   "https|linoscope.github.io|/writing-a-game-boy-emulator-in-ocaml|": {
     "consecutive_failures": 0,
@@ -2088,7 +2088,7 @@
     "redirect_to": null
   },
   "https|thinkster.io|/django-angularjs-tutorial|": {
-    "consecutive_failures": 9,
+    "consecutive_failures": 10,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2108,23 +2108,23 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 200,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/another-twitter-sentiment-analysis-bb5b01ebad90|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://towardsdatascience.com/an-easy-tutorial-about-sentiment-analysis-with-deep-learning-and-keras-2bf52b9cba91/"
   },
   "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-10-neural-network-with-a6441269aa3c|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-11-cnn-word2vec-41f5e28eda74|": {
@@ -2132,7 +2132,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-2-333514854913|": {
@@ -2140,7 +2140,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 200,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-3-zipfs-law-data-visualisation-fc9eadda71e7|": {
@@ -2148,7 +2148,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-4-count-vectorizer-b3f4944e51b5|": {
@@ -2156,7 +2156,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-5-50b4e87d9bdd|": {
@@ -2164,7 +2164,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-6-doc2vec-603f11832504|": {
@@ -2172,7 +2172,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-7-phrase-modeling-doc2vec-592a8a996867|": {
@@ -2180,7 +2180,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-8-dimensionality-reduction-chi2-pca-c6d06fb3fcf3|": {
@@ -2188,7 +2188,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/another-twitter-sentiment-analysis-with-python-part-9-neural-networks-with-tfidf-vectors-using-d0b4af6be6d7|": {
@@ -2196,7 +2196,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/association-rule-mining-in-r-ddf2d044ae50|": {
@@ -2204,23 +2204,23 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 200,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://towardsdatascience.com/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630/"
   },
   "https|towardsdatascience.com|/finding-similar-quora-questions-with-bow-tfidf-and-random-forest-c54ad88d1370|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d|": {
@@ -2228,7 +2228,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61|": {
@@ -2236,63 +2236,63 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/how-i-trained-a-language-detection-ai-in-20-minutes-with-a-97-accuracy-fdeca0fb7724|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://towardsdatascience.com/how-llms-work-pre-training-to-post-training-neural-networks-hallucinations-and-inference/"
   },
   "https|towardsdatascience.com|/how-to-build-a-simple-song-recommender-296fcbc8c85|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://towardsdatascience.com/evaluation-metrics-for-recommendation-systems-an-overview-71290690ecba/"
   },
   "https|towardsdatascience.com|/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://towardsdatascience.com/building-a-neural-network-from-scratch-8f03c5c50adc/"
   },
   "https|towardsdatascience.com|/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|towardsdatascience.com|/object-detection-with-neural-networks-a4e2c46b4491|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://towardsdatascience.com/implementing-real-time-object-detection-system-using-pytorch-and-opencv-70bac41148f7/"
   },
   "https|towardsdatascience.com|/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://towardsdatascience.com/multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a/"
   },
   "https|towardsdatascience.com|/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_status": 404,
     "redirect_to": null
   },
   "https|tutorial.djangogirls.org|/en|": {
@@ -3256,7 +3256,7 @@
     "redirect_to": "https://www.adit.io/posts/2013-04-15-making-a-website-with-haskell.html"
   },
   "http|arjunsreedharan.org|/post/82710718100/kernel-101-lets-write-a-kernel|": {
-    "consecutive_failures": 9,
+    "consecutive_failures": 10,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3424,7 +3424,7 @@
     "redirect_to": null
   },
   "http|sahatyalkabov.com|/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio|": {
-    "consecutive_failures": 9,
+    "consecutive_failures": 10,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3456,7 +3456,7 @@
     "redirect_to": "https://shiny.posit.co/r/getstarted/"
   },
   "http|thinkster.io||": {
-    "consecutive_failures": 9,
+    "consecutive_failures": 10,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
