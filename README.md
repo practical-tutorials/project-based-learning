@@ -655,6 +655,16 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Swift:
 
+- Build a Coding Agent from Scratch in Swift
+  - [Part 0: Bootstrapping the Project](https://ivanmagda.dev/posts/s00-bootstrapping-the-project)
+  - [Part 1: The Agent Loop](https://ivanmagda.dev/posts/s01-the-agent-loop)
+  - [Part 2: Tool Dispatch](https://ivanmagda.dev/posts/s02-tool-dispatch)
+  - [Part 3: Self-Managed Task Tracking](https://ivanmagda.dev/posts/s03-self-managed-task-tracking)
+  - [Part 4: Subagents](https://ivanmagda.dev/posts/s04-subagents)
+  - [Part 5: Skill Loading](https://ivanmagda.dev/posts/s05-skill-loading)
+  - [Part 6: Context Compaction](https://ivanmagda.dev/posts/s06-context-compaction)
+  - [Part 7: Task System](https://ivanmagda.dev/posts/s07-task-system)
+  - [Part 8: Background Tasks](https://ivanmagda.dev/posts/s08-background-tasks)
 - [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
 - [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
 - [Build an iOS App with SwiftUI](https://www.swift.org/getting-started/swiftui/)
