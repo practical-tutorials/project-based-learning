@@ -30,6 +30,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
+- [Streamlit](#streamlit)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -659,6 +660,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
 - [Build an iOS App with SwiftUI](https://www.swift.org/getting-started/swiftui/)
 - [Developing iOS Apps with SwiftUI (Stanford CS193p)](https://cs193p.sites.stanford.edu/) (video)
+
+## Streamlit:
+
+- [Master Streamlit in one course - 4 Real Projects Included](https://youtu.be/eAgONwZ_dKM?si=NhmhJqSMWw9NJo1C)
+- [Complete Streamlit Python Course](https://youtu.be/RjiqbTLW9_E?si=TDOQjfGhGHHc26Iu)
+
 
 ## Additional Resources
 
