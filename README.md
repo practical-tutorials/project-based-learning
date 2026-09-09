@@ -568,6 +568,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building a TCP Chat in Go(video)](https://www.youtube.com/watch?v=Sphme0BqJiY)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [REST API masterclass with Go, PostgreSQL and Docker(video playlist)`in progress`](https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
+- [Building Microservices with Go (video playlist)](https://www.youtube.com/watch?v=VzBGi_n65iU&list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
 
 ## PHP:
 
