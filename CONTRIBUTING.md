@@ -31,4 +31,4 @@ It must exit with status 0. It checks the grammar above, the Table of Contents, 
 
 CI also checks that any link you add is reachable. Some sites (Medium, Reddit, LinkedIn, Udemy, and similar) block automated checks and will show up as "could not verify" rather than failing the build -- that's expected, not something to fix.
 
-Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at <tuvtran97@gmail.com>
+Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at <anurajvemkatpurwar@gmail.com>
