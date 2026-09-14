@@ -47,7 +47,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Beginning Game Programming with C++ and SDL](http://lazyfoo.net/tutorials/SDL/)
 - [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 - Tiny 3D graphics projects
-  - [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
+  - [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://haqr.eu/tinyrenderer/)
   - [Understandable RayTracing in 256 lines of bare C++](https://github.com/ssloy/tinyraytracer/wiki)
   - [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom/wiki)
   - [486 lines of C++: old-school FPS in a weekend](https://github.com/ssloy/tinyraycaster/wiki)
