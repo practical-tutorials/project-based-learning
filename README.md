@@ -30,6 +30,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
+- [AWS](#aws)
 - [Additional resources](#additional-resources)
 
 ## C/C++:
@@ -659,6 +660,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
 - [Build an iOS App with SwiftUI](https://www.swift.org/getting-started/swiftui/)
 - [Developing iOS Apps with SwiftUI (Stanford CS193p)](https://cs193p.sites.stanford.edu/) (video)
+
+## AWS
+
+- [Zero to Hero Playlist](https://youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&si=vgdbbf84dAXg33GE)
 
 ## Additional Resources
 
