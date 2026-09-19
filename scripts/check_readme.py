@@ -39,7 +39,7 @@ USER_AGENT = (
     "Mozilla/5.0 (compatible; pbl-link-check/1.0; "
     "+https://github.com/practical-tutorials/project-based-learning)"
 )
-
+# 看不懂
 URL_SHORTENER_DOMAINS = {
     "bit.ly", "tinyurl.com", "goo.gl", "t.co", "ow.ly", "buff.ly", "is.gd",
     "rebrand.ly", "cutt.ly", "shorturl.at", "tiny.cc", "rb.gy", "lnkd.in",
