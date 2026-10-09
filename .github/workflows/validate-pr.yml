@@ -5,6 +5,8 @@ on:
     paths:
       - README.md
       - CONTRIBUTING.md
+      - scripts/**
+      - tests/**
 
 permissions:
   contents: read
@@ -22,6 +24,9 @@ jobs:
         uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
         with:
           fetch-depth: 0
+
+      - name: Run unit tests
+        run: python3 -m unittest discover -s tests -v
 
       - name: Lint README grammar, duplicates, and Table of Contents
         run: python3 scripts/check_readme.py lint >> "$GITHUB_STEP_SUMMARY"
