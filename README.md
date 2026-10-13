@@ -568,6 +568,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building a TCP Chat in Go(video)](https://www.youtube.com/watch?v=Sphme0BqJiY)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [REST API masterclass with Go, PostgreSQL and Docker(video playlist)`in progress`](https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
+- Build an N-Body Gravity Simulator in Go and Animate the Three-Body Problem
+  - [Part 1: Introduction to Structs and Methods](https://programmingforlovers.com/chapter-4/chapter-4-code-along-go/introduction-to-structs-and-methods-in-go/)
+  - [Part 2: Reading Files, Drawing, and Animations for Gravity](https://programmingforlovers.com/chapter-4/chapter-4-code-along-go/reading-files-drawing-and-animations-for-gravity-in-go/)
+  - [Part 3: Building a Gravity Physics Engine](https://programmingforlovers.com/chapter-4/chapter-4-code-along-go/building-a-gravity-physics-engine-in-go/)
 
 ## PHP:
 
