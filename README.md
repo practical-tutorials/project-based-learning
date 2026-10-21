@@ -264,6 +264,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 #### Next.js:
 
 - [App Router](https://nextjs.org/learn/dashboard-app)
+- [Next.js Waitlist with Double Opt-In and a Bulk Launch Email (Mailtrap)](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in)
 
 #### Angular:
 
