@@ -342,6 +342,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Kotlin:
 
 - [Keddit - Learn Kotlin While Developing an Android Application](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+- [Build Your First Android App in Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app)
 
 ## Lua:
 
