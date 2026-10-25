@@ -215,6 +215,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
 - [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
+- [React & Frontend Roadmap — Ciphemic Academia (free, project-based)](https://ciphemicacademia.in/roadmaps/react-frontend)
 
 ## HTML and CSS:
 
