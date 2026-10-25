@@ -528,6 +528,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Write yourself a Git](https://wyag.thb.lt/)
 - [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 - [Create a Voice assistant using Python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
+- Build an N-Body Gravity Simulator and Animate the Three-Body Problem
+  - [Part 1: An Introduction to Classes](https://programmingforlovers.com/chapter-4/chapter-4-python-code-alongs/introduction-to-object-oriented-programming-in-python/)
+  - [Part 2: Building the Gravity Simulator](https://programmingforlovers.com/chapter-4/chapter-4-python-code-alongs/building-a-gravity-simulator-in-python/)
 
 ## Go:
 
