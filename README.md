@@ -528,6 +528,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Write yourself a Git](https://wyag.thb.lt/)
 - [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 - [Create a Voice assistant using Python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
+- [Build Gojo's "Infinity" as Four Real Mathematical Models](https://github.com/caelum0x/awesome-mad-projects/blob/main/infinity-lab/packages/gojo_infinity/README.md)
 
 ## Go:
 
