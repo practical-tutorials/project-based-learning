@@ -264,6 +264,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 #### Next.js:
 
 - [App Router](https://nextjs.org/learn/dashboard-app)
+- [Waitlist with Double Opt-in and Referral Queue (Next.js, Drizzle, SQLite)](https://github.com/Sid-Lais/nextjs-waitlist-double-opt-in)
 
 #### Angular:
 
