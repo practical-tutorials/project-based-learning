@@ -585,7 +585,11 @@ def _single_http_call(url, method, timeout):
 
 
 def _attempt_with_fallback(url, timeout):
-    """One HEAD (with GET fallback on certain statuses). Returns (status, headers, body, exc)."""
+    """Try HEAD, then GET for HTML bodies or unsupported HEAD requests.
+
+    A successful HEAD has no body, so HTML pages need a bounded GET as well
+    for the soft-404 title check. Returns (status, headers, body, exc).
+    """
     try:
         status, headers, body = _single_http_call(url, "HEAD", timeout)
     except Exception as exc:
@@ -594,7 +598,9 @@ def _attempt_with_fallback(url, timeout):
         except Exception as exc2:
             return None, None, None, exc2
         return status, headers, body, None
-    if status in FALLBACK_TO_GET_STATUSES:
+    content_type = headers.get("content-type", "").split(";", 1)[0].strip().lower()
+    needs_body = 200 <= status < 300 and content_type in ("", "text/html", "application/xhtml+xml")
+    if status in FALLBACK_TO_GET_STATUSES or needs_body:
         try:
             status, headers, body = _single_http_call(url, "GET", timeout)
         except Exception as exc2:
