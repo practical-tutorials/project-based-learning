@@ -294,6 +294,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - How to build your own Uber-for-X App using JavaScript, Node.JS, MongoDB and Web Sockets
   - [Part 1](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app/)
   - [Part 2](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app-part-2/)
+- [URL Shortener — How to build one?](https://kitrakiar73.medium.com/url-shortner-how-to-build-one-f458fecf038f)
 
 #### Vue
 
