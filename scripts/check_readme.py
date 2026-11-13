@@ -17,17 +17,17 @@ Subcommands:
     report        --results F --state F
 """
 import argparse
-import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import date
+from html.parser import HTMLParser
 import http.client
+import json
 import re
 import socket
 import ssl
 import sys
 import threading
 import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import date, timezone
-from html.parser import HTMLParser
 from urllib.parse import urljoin, urlsplit
 
 SCRIPT_DIR_NAME = "scripts"
@@ -70,7 +70,7 @@ TOC_HEADER_RE = re.compile(r"^##\s+Table of Contents:?\s*$", re.IGNORECASE)
 # --------------------------------------------------------------------------
 
 class Diagnostic:
-    __slots__ = ("line", "code", "severity", "message")
+    __slots__ = ("code", "line", "message", "severity")
 
     def __init__(self, line, code, severity, message):
         self.line = line
@@ -423,7 +423,7 @@ def parse_unified_diff(text):
     cur_new = None
     hunk_re = re.compile(r"^@@ -\d+(?:,\d+)? \+(\d+)(?:,\d+)? @@")
     for raw in text.split("\n"):
-        if raw.startswith("+++") or raw.startswith("---"):
+        if raw.startswith(("+++", "---")):
             continue
         m = hunk_re.match(raw)
         if m:
@@ -457,7 +457,7 @@ def cmd_check_diff(args):
         if tag == "toc":
             continue
         if tag == "entry":
-            _, depth, title, url, tail, extra_urls = kind
+            _, _depth, title, url, _tail, extra_urls = kind
             if url.startswith("http://"):
                 diags.append(Diagnostic(lineno, "E101", "error", f"new http:// link (use https:// if available): {url}"))
             if "youtu.be" in urlsplit(url).netloc.lower():
@@ -588,7 +588,7 @@ def _attempt_with_fallback(url, timeout):
     """One HEAD (with GET fallback on certain statuses). Returns (status, headers, body, exc)."""
     try:
         status, headers, body = _single_http_call(url, "HEAD", timeout)
-    except Exception as exc:
+    except Exception:
         try:
             status, headers, body = _single_http_call(url, "GET", timeout)
         except Exception as exc2:
@@ -1101,8 +1101,13 @@ def cmd_prune(args):
 
 
 def render_prune_pr_body(removals, updates):
-    out = ["Automated fix from the weekly link-rot sweep -- only confirmed-dead "
-           "removals and moved-URL updates, nothing else is touched.", ""]
+    out = [
+        (
+            "Automated fix from the weekly link-rot sweep -- only confirmed-dead "
+            "removals and moved-URL updates, nothing else is touched."
+        ),
+        "",
+    ]
     if removals:
         out.append(f"### Removed ({len(removals)}) -- confirmed dead for 2+ consecutive weekly checks")
         out.append("")
