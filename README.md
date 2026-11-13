@@ -528,6 +528,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Write yourself a Git](https://wyag.thb.lt/)
 - [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 - [Create a Voice assistant using Python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
+- [Introduction to LLM Fine-Tuning](https://www.digitalocean.com/community/tutorials/llm-finetuning-domain-specific-models)
 
 ## Go:
 
