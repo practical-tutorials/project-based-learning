@@ -211,6 +211,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## JavaScript:
 
+- [Build a Weather App with JavaScript](https://www.freecodecamp.org/news/javascript-weather-app-tutorial/)
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
