@@ -196,7 +196,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Erlang
 
 - [ChatBus : build your first multi-user chat room app with Erlang/OTP](https://medium.com/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901)
-- [Making a Chat App with Erlang, Rebar, Cowboy and Bullet](https://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet/)
+- [Making a Chat App with Erlang, Rebar, Cowboy and Bullet](https://web.archive.org/web/20190825111509/http://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet/)
 
 ## F#:
 
@@ -504,7 +504,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Code a Smile Classifier using CNNS in Python](https://github.com/kylemcdonald/SmileCNN)
 - [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
 - [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
-- [Mask detection using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
+- [Mask detection using PyTorch Lightning](https://web.archive.org/web/20201101020214/https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
 
 ### Miscellaneous:
 
@@ -531,7 +531,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Go:
 
-- [Create a Real Time Chat App with Golang, Angular 2, and WebSocket](https://web.archive.org/web/20260214230813/https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
+- [Create a Real Time Chat App with Golang, Angular 2, and WebSocket](https://web.archive.org/web/20200926061218/https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
 - [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
 - [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go)
 - Building Blockchain in Go
