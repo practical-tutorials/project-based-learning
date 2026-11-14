@@ -115,6 +115,12 @@ def classify_line(line):
         url = m.group("url")
         tail = m.group("tail")
         extra_urls = [u for u in INLINE_URL_RE.findall(tail)]
+        try:
+            urlsplit(url)
+            for u in extra_urls:
+                urlsplit(u)
+        except ValueError:
+            return ("malformed",)
         return ("entry", depth, title, url, tail, extra_urls)
     m = TOC_ENTRY_RE.match(line)
     if m:
