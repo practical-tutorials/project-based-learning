@@ -16,7 +16,7 @@
     "redirect_to": null
   },
   "https|arjunsreedharan.org|/post/148675821737/memory-allocators-101-write-a-simple-memory|": {
-    "consecutive_failures": 20,
+    "consecutive_failures": 21,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -27,8 +27,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "BLOCKED",
+    "last_status": 401,
     "redirect_to": null
   },
   "https|austinmorlan.com|/posts/chip8_emulator|": {
@@ -96,7 +96,7 @@
     "redirect_to": null
   },
   "https|blog.bitsrc.io|/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59|": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 3,
     "first_failed": "2026-11-02",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -416,7 +416,7 @@
     "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker/"
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 20,
+    "consecutive_failures": 21,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -435,8 +435,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "BLOCKED",
+    "last_status": null,
     "redirect_to": null
   },
   "https|cstack.github.io|/db_tutorial|": {
@@ -508,7 +508,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 204,
+    "last_status": 200,
     "redirect_to": null
   },
   "https|developer.mozilla.org|/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser|": {
@@ -912,7 +912,7 @@
     "redirect_to": null
   },
   "https|hackclub.com|/workshops|": {
-    "consecutive_failures": 20,
+    "consecutive_failures": 21,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -984,7 +984,7 @@
     "redirect_to": null
   },
   "https|hackhands.com|/building-instagram-clone-angularjs-satellizer-nodejs-mongodb|": {
-    "consecutive_failures": 20,
+    "consecutive_failures": 21,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -1104,7 +1104,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 20,
+    "consecutive_failures": 21,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -1261,7 +1261,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c21429c399077af2e01490ffecb2"
+    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c30a33c0860361f7fc1c88f4"
   },
   "https|linoscope.github.io|/writing-a-game-boy-emulator-in-ocaml|": {
     "consecutive_failures": 0,
@@ -2400,7 +2400,7 @@
     "redirect_to": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
   },
   "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app-part-2|": {
-    "consecutive_failures": 14,
+    "consecutive_failures": 15,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2408,7 +2408,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app|": {
-    "consecutive_failures": 14,
+    "consecutive_failures": 15,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2416,7 +2416,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2|": {
-    "consecutive_failures": 14,
+    "consecutive_failures": 15,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2424,7 +2424,7 @@
     "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead|": {
-    "consecutive_failures": 14,
+    "consecutive_failures": 15,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2432,11 +2432,11 @@
     "redirect_to": null
   },
   "https|www.codewall.co.uk|/laravel-crud-demo-with-resource-controller-tutorial|": {
-    "consecutive_failures": 2,
-    "first_failed": "2026-11-02",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "SUSPECT",
-    "last_status": 520,
+    "last_class": "OK",
+    "last_status": 202,
     "redirect_to": null
   },
   "https|www.cs.nmsu.edu|/~pfeiffer/fuse-tutorial|": {
@@ -2552,7 +2552,7 @@
     "redirect_to": null
   },
   "https|www.fullstackreact.com|/articles/react-tutorial-cloning-yelp|": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 2,
     "first_failed": "2026-11-09",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2861,7 +2861,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://www.silverstripe.org/learn/lessons"
+    "redirect_to": null
   },
   "https|www.sitepoint.com|/d3-js-data-visualizations|": {
     "consecutive_failures": 0,
@@ -2948,7 +2948,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=3QngsWA9IEE": {
@@ -2956,7 +2956,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=78tNYZUS-ps": {
@@ -2964,7 +2964,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=8fi7uSYlOdc": {
@@ -2972,7 +2972,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=9gBC9R-msAk&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=3": {
@@ -2980,7 +2980,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=Jvp8j6zrFHE": {
@@ -2988,7 +2988,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=M_hFfrN8_PQ": {
@@ -2996,7 +2996,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5": {
@@ -3004,7 +3004,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU": {
@@ -3012,7 +3012,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=Sphme0BqJiY": {
@@ -3020,7 +3020,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=T5pRlIbr6gg": {
@@ -3028,7 +3028,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=XnoTmO06OYo": {
@@ -3036,7 +3036,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU": {
@@ -3044,7 +3044,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=dhWL4DC7Krs": {
@@ -3052,7 +3052,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=hT3j87FMR6M": {
@@ -3060,7 +3060,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=iZx7hqHb5MU": {
@@ -3068,7 +3068,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=krTUf7BpTc0": {
@@ -3076,7 +3076,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=lpba9vBqXl0": {
@@ -3084,7 +3084,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=o_OZdbCzHUA": {
@@ -3092,7 +3092,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE": {
@@ -3100,7 +3100,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=us51Jne67_I": {
@@ -3108,7 +3108,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|www.youtube.com|/watch|v=uwwWVAgJBcM": {
@@ -3116,7 +3116,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|wyag.thb.lt||": {
@@ -3132,7 +3132,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=0_GJ1w_iG44&feature=youtu.be"
   },
   "https|youtu.be|/4E4V9F3cbp4|": {
@@ -3140,7 +3140,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=4E4V9F3cbp4&feature=youtu.be"
   },
   "https|youtu.be|/71AsYo2q_0Y|": {
@@ -3148,7 +3148,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=71AsYo2q_0Y&feature=youtu.be"
   },
   "https|youtu.be|/7dAt-JMSCVQ|": {
@@ -3156,7 +3156,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=7dAt-JMSCVQ&feature=youtu.be"
   },
   "https|youtu.be|/Aut-wfXacXg|": {
@@ -3164,7 +3164,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=Aut-wfXacXg&feature=youtu.be"
   },
   "https|youtu.be|/J8IFNKzs3TI|": {
@@ -3172,7 +3172,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=J8IFNKzs3TI&feature=youtu.be"
   },
   "https|youtu.be|/O3nmP-lZAdg|": {
@@ -3180,7 +3180,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=O3nmP-lZAdg&feature=youtu.be"
   },
   "https|youtu.be|/U9YKZrDX0CQ|": {
@@ -3188,7 +3188,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=U9YKZrDX0CQ&feature=youtu.be"
   },
   "https|youtu.be|/_W0RN_Cqhpg|": {
@@ -3196,7 +3196,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=_W0RN_Cqhpg&feature=youtu.be"
   },
   "https|youtu.be|/mEPm9w5QlJM|": {
@@ -3204,7 +3204,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=mEPm9w5QlJM&feature=youtu.be"
   },
   "https|youtu.be|/sMA1dKbv33Y|": {
@@ -3212,7 +3212,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=sMA1dKbv33Y&feature=youtu.be"
   },
   "https|youtu.be|/x4DydJKVvQk|": {
@@ -3220,7 +3220,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=x4DydJKVvQk&feature=youtu.be"
   },
   "https|youtu.be|/yqwfP2vXWJQ|": {
@@ -3228,7 +3228,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": "https://www.youtube.com/watch?v=yqwfP2vXWJQ&feature=youtu.be"
   },
   "https|zapier.com|/engineering/how-to-build-redux|": {
@@ -3256,7 +3256,7 @@
     "redirect_to": "https://www.adit.io/posts/2013-04-15-making-a-website-with-haskell.html"
   },
   "http|arjunsreedharan.org|/post/82710718100/kernel-101-lets-write-a-kernel|": {
-    "consecutive_failures": 20,
+    "consecutive_failures": 21,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3288,7 +3288,7 @@
     "redirect_to": "https://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/"
   },
   "http|dev.stephendiehl.com|/fun|": {
-    "consecutive_failures": 5,
+    "consecutive_failures": 6,
     "first_failed": "2026-10-12",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3324,8 +3324,8 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 204,
-    "redirect_to": null
+    "last_status": 200,
+    "redirect_to": "https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html"
   },
   "http|javilop.com|/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners|": {
     "consecutive_failures": 0,
@@ -3424,7 +3424,7 @@
     "redirect_to": null
   },
   "http|sahatyalkabov.com|/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio|": {
-    "consecutive_failures": 20,
+    "consecutive_failures": 21,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3456,10 +3456,10 @@
     "redirect_to": "https://shiny.posit.co/r/getstarted/"
   },
   "http|thinkster.io||": {
-    "consecutive_failures": 14,
+    "consecutive_failures": 15,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
+    "last_class": "HARD_DEAD",
     "last_status": null,
     "redirect_to": null
   },
@@ -3592,43 +3592,43 @@
     "redirect_to": null
   },
   "http|www.saminiir.com|/lets-code-tcp-ip-stack-1-ethernet-arp|": {
-    "consecutive_failures": 0,
-    "first_failed": null,
+    "consecutive_failures": 1,
+    "first_failed": "2026-11-16",
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "HARD_DEAD",
+    "last_status": null,
     "redirect_to": null
   },
   "http|www.saminiir.com|/lets-code-tcp-ip-stack-2-ipv4-icmpv4|": {
-    "consecutive_failures": 0,
-    "first_failed": null,
+    "consecutive_failures": 1,
+    "first_failed": "2026-11-16",
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "HARD_DEAD",
+    "last_status": null,
     "redirect_to": null
   },
   "http|www.saminiir.com|/lets-code-tcp-ip-stack-3-tcp-handshake|": {
-    "consecutive_failures": 0,
-    "first_failed": null,
+    "consecutive_failures": 1,
+    "first_failed": "2026-11-16",
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "HARD_DEAD",
+    "last_status": null,
     "redirect_to": null
   },
   "http|www.saminiir.com|/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api|": {
-    "consecutive_failures": 0,
-    "first_failed": null,
+    "consecutive_failures": 1,
+    "first_failed": "2026-11-16",
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "HARD_DEAD",
+    "last_status": null,
     "redirect_to": null
   },
   "http|www.saminiir.com|/lets-code-tcp-ip-stack-5-tcp-retransmission|": {
-    "consecutive_failures": 0,
-    "first_failed": null,
+    "consecutive_failures": 1,
+    "first_failed": "2026-11-16",
     "first_seen": "2026-07-04",
-    "last_class": "OK",
-    "last_status": 200,
+    "last_class": "HARD_DEAD",
+    "last_status": null,
     "redirect_to": null
   },
   "http|www.sheshbabu.com|/posts/rust-wasm-yew-single-page-application|": {
