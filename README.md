@@ -211,6 +211,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## JavaScript:
 
+
+- [Build an AI Chatbot with Node.js, Express, and OpenAI](https://www.makuistudio.com/how-to/build-ai-chatbot.html)
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
