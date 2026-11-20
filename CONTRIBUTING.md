@@ -10,6 +10,7 @@ Before making a pull request, please make sure of the following:
 - The pull request needs to have a descriptive title.
 - If the language/technology of your tutorial does not exist, feel free to create a new entry in the table of contents.
 - Make a separate pull request for each of the tutorials.
+- update the correct details before you raise the pull request
 - Use the following format: `- [Title](link_to_tutorial)`.
 - If your tutorial is a multi-part series, use the following format:
   ```
