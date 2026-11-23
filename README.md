@@ -34,17 +34,17 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## C/C++:
 
-- [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
+- [Build an Interpreter](https://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
 - [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
 - [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 - [Write a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
-- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
-- [Build Your Own Lisp](http://www.buildyourownlisp.com/)
+- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
+- [Build Your Own Lisp](https://www.buildyourownlisp.com/)
 - [How to Program an NES Game in C](https://nesdoug.com/)
 - [Write an OS from scratch](https://github.com/tuhdo/os01)
 - [How to create an OS from scratch ](https://github.com/cfenollosa/os-tutorial)
 - [Building a CHIP-8 Emulator](https://austinmorlan.com/posts/chip8_emulator/)
-- [Beginning Game Programming with C++ and SDL](http://lazyfoo.net/tutorials/SDL/)
+- [Beginning Game Programming with C++ and SDL](https://lazyfoo.net/tutorials/SDL/)
 - [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 - Tiny 3D graphics projects
   - [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
@@ -54,7 +54,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - Writing a minimal x86-64 JIT compiler in C++
   - [Part 1](https://solarianprogrammer.com/2018/01/10/writing-minimal-x86-64-jit-compiler-cpp/)
   - [Part 2](https://solarianprogrammer.com/2018/01/12/writing-minimal-x86-64-jit-compiler-cpp-part-2/)
-- [Build a Live Code-reloader Library for C++](http://howistart.org/posts/cpp/1/index.html)
+- [Build a Live Code-reloader Library for C++](https://howistart.org/posts/cpp/1/index.html)
 - [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 - [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 - [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
@@ -109,7 +109,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - Let's Code a TCP/IP Stack
 
-  - [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+  - [Part 1: Ethernet & ARP](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
   - [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
   - [Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
   - [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
@@ -204,7 +204,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Java:
 
-- [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 4-13 is written in Java)
+- [Build an Interpreter](https://www.craftinginterpreters.com/) (Chapter 4-13 is written in Java)
 - [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
 - [Build an Android Flashlight App](https://www.youtube.com/watch?v=dhWL4DC7Krs) (video)
 - [Build a Spring Boot App with User Authentication](https://spring.io/guides/gs/securing-web/)
@@ -231,7 +231,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 #### React:
 
-- [Create Serverless React.js Apps](http://serverless-stack.com/)
+- [Create Serverless React.js Apps](https://serverless-stack.com/)
 - [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
 - [Create a Character Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio)
 - [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
@@ -380,7 +380,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Create a Blog Web App In Django](https://tutorial.djangogirls.org/en/)
 - [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
 - [Build a Todo List with Flask and RethinkDB](https://realpython.com/blog/python/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/)
-- [Build a Todo List with Django and Test-Driven Development](http://www.obeythetestinggoat.com/)
+- [Build a Todo List with Django and Test-Driven Development](https://www.obeythetestinggoat.com/)
 - [Build a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/)
 - [Microservices with Docker, Flask, and React](https://testdriven.io/)
 - [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
@@ -628,7 +628,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Rust:
 
 - A Simple Web App in Rust
-  - [Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
+  - [Part 1](https://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
   - [Part 2a](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2a/)
   - [Part 2b](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/)
 - [Write an OS in pure Rust](https://os.phil-opp.com/)
@@ -639,7 +639,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1: Implementing WebSocket. Introduction.](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
   - [Part 2: Sending and Receiving Messages](https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html)
 - [Writing a Rust Roguelike for the Desktop and the Web](https://aimlesslygoingforward.com/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web/)
-- [Single Page Applications using Rust](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
+- [Single Page Applications using Rust](https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 - [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/)
 - Create a simulation of evolution using neural network and genetic algorithm, and compile the application to WebAssembly
   - [Part 1](https://pwy.io/en/posts/learning-to-fly-pt1/)
