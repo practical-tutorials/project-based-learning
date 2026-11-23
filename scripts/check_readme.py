@@ -979,7 +979,12 @@ def cmd_report(args):
         out.append("| Section | Entry | URL | Reason |")
         out.append("|---|---|---|---|")
         for r, st in blocked:
-            out.append(f"| {r.get('section') or '-'} | {r.get('title') or '-'} | {r['url']} | {r.get('note') or '-'} |")
+            out.append("| {section} | {title} | {url} | {note} |".format(
+                section=escape_md_cell(r.get("section")),
+                title=escape_md_cell(r.get("title")),
+                url=escape_md_cell(r.get("url")),
+                note=escape_md_cell(r.get("note")),
+            ))
     else:
         out.append("_None._")
     out.append("")
