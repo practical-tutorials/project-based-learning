@@ -656,6 +656,82 @@ def check_url(url, policy=None, timeout=15, max_redirects=5, retries=2, backoff=
     return _classify_result(url, current, redirect_count, status, headers, body, exc, policy)
 
 
+def _canonical_redirect_host(hostname):
+    """Normalize hostnames for conservative redirect comparisons."""
+    host = (hostname or "").lower().rstrip(".")
+    if host.startswith("www."):
+        host = host[4:]
+    return host
+
+
+def _normalized_redirect_path(path):
+    """Normalize harmless trailing-slash differences."""
+    path = path or "/"
+    if path != "/":
+        path = path.rstrip("/")
+    return path
+
+
+def _resource_slug(path):
+    """Return a conservative identity slug for a resource path."""
+    path = _normalized_redirect_path(path)
+    if path == "/":
+        return ""
+
+    slug = path.rsplit("/", 1)[-1].lower()
+    slug = re.sub(r"\.(?:html?|php)$", "", slug)
+    slug = re.sub(r"^\d+[-_]", "", slug)
+    return slug
+
+
+def _nondefault_port(parts):
+    """Return an explicit non-default port, otherwise None."""
+    port = parts.port
+    if port is None:
+        return None
+
+    default = {"http": 80, "https": 443}.get(parts.scheme.lower())
+    return None if port == default else port
+
+
+def _is_safe_redirect(original_url, final_url):
+    """Return True only for redirects safe enough for automatic rewriting.
+
+    Scheme, www, trailing-slash, and same-site path migrations may be handled
+    automatically. Cross-domain, query-changing, or non-default-port redirects
+    require human review.
+    """
+    original = urlsplit(original_url)
+    final = urlsplit(final_url)
+
+    if (
+        _canonical_redirect_host(original.hostname)
+        != _canonical_redirect_host(final.hostname)
+    ):
+        return False
+
+    if original.query != final.query:
+        return False
+
+    if _nondefault_port(original) != _nondefault_port(final):
+        return False
+
+    if (
+        _normalized_redirect_path(original.path)
+        == _normalized_redirect_path(final.path)
+    ):
+        return True
+
+    original_slug = _resource_slug(original.path)
+    final_slug = _resource_slug(final.path)
+
+    return bool(
+        original_slug
+        and final_slug
+        and original_slug == final_slug
+    )
+
+
 def _classify_result(original_url, final_url, redirect_count, status, headers, body, exc, policy):
     host = urlsplit(final_url).netloc.lower()
     note = None
@@ -693,6 +769,9 @@ def _classify_result(original_url, final_url, redirect_count, status, headers, b
             if fp.path in ("", "/") and op.path not in ("", "/"):
                 cls = "SUSPECT"
                 note = "redirected to domain root"
+            elif not _is_safe_redirect(original_url, final_url):
+                cls = "SUSPECT"
+                note = "redirect target appears to be a different resource"
             else:
                 cls = "OK"
         else:
